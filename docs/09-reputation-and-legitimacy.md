@@ -228,7 +228,7 @@ Choose a consequential label you have heard or used at work. Do not choose a mat
 
 The purpose is not to make every judgment neutral. It is to make judgments specific enough to examine and fair enough to revise.
 
-
+---
 [^1]: Robert K. Merton, “The Matthew Effect in Science,” *Science* 159, no. 3810 (1968): 56–63, [https://doi.org/10.1126/science.159.3810.56](https://doi.org/10.1126/science.159.3810.56).
 
 [^2]: Michelle K. Brady et al., “Workplace Gossip: A Systematic Review and Future Research Agenda,” *Journal of Organizational Behavior* 43, no. 7 (2022): 1256–1276, [https://doi.org/10.1002/job.2653](https://doi.org/10.1002/job.2653).

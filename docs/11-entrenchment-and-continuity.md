@@ -254,7 +254,7 @@ Choose a legitimate process you know well and are authorized to examine. For eac
 
 Do not score the people involved or circulate sensitive access details. The output is a service-continuity plan, not a suspicion map.
 
-
+---
 [^1]: Kyle Lewis, “Measuring Transactive Memory Systems in the Field: Scale Development and Validation,” *Journal of Applied Psychology* 88, no. 4 (2003): 587–604, [https://doi.org/10.1037/0021-9010.88.4.587](https://doi.org/10.1037/0021-9010.88.4.587).
 
 [^2]: Linda Argote and Paul Ingram, “Knowledge Transfer: A Basis for Competitive Advantage in Firms,” *Organizational Behavior and Human Decision Processes* 82, no. 1 (2000): 150–169, [https://doi.org/10.1006/obhd.2000.2893](https://doi.org/10.1006/obhd.2000.2893); Linda Argote and Ella Miron-Spektor, “Organizational Learning: From Experience to Knowledge,” *Annual Review of Psychology* 75 (2024): 257–286, [https://doi.org/10.1146/annurev-psych-022123-105424](https://doi.org/10.1146/annurev-psych-022123-105424).

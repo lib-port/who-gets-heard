@@ -268,7 +268,7 @@ Then record:
 
 The exercise is not a demand for indecision. It is practice in making a strong conclusion without hiding the choices that produced it.
 
-
+---
 [^1]: Ziva Kunda, “The Case for Motivated Reasoning,” *Psychological Bulletin* 108, no. 3 (1990): 480–498, [https://doi.org/10.1037/0033-2909.108.3.480](https://doi.org/10.1037/0033-2909.108.3.480).
 
 [^2]: Barry M. Staw, “Knee-Deep in the Big Muddy: A Study of Escalating Commitment to a Chosen Course of Action,” *Organizational Behavior and Human Performance* 16, no. 1 (1976): 27–44, [https://doi.org/10.1016/0030-5073(76)90005-2](https://doi.org/10.1016/0030-5073(76)90005-2); David J. Sleesman et al., “Cleaning Up the Big Muddy: A Meta-Analytic Review of the Determinants of Escalation of Commitment,” *Academy of Management Journal* 55, no. 3 (2012): 541–562, [https://doi.org/10.5465/amj.2010.0696](https://doi.org/10.5465/amj.2010.0696).

@@ -223,7 +223,7 @@ For each difference, write a possible legitimate explanation and the evidence th
 
 Information creates the raw material for influence. The next chapter turns to the scarce resource that determines whether the material is ever considered: attention.
 
-
+---
 [^1]: Garold Stasser and William Titus, “Pooling of Unshared Information in Group Decision Making: Biased Information Sampling During Discussion,” *Journal of Personality and Social Psychology* 48, no. 6 (1985): 1467–1478, [https://doi.org/10.1037/0022-3514.48.6.1467](https://doi.org/10.1037/0022-3514.48.6.1467); Jessica R. Mesmer-Magnus and Leslie A. DeChurch, “Information Sharing and Team Performance: A Meta-Analysis,” *Journal of Applied Psychology* 94, no. 2 (2009): 535–546, [https://doi.org/10.1037/a0013773](https://doi.org/10.1037/a0013773); Norbert L. Kerr and R. Scott Tindale, “Group Performance and Decision Making,” *Annual Review of Psychology* 55 (2004): 623–655, [https://doi.org/10.1146/annurev.psych.55.090902.142009](https://doi.org/10.1146/annurev.psych.55.090902.142009).
 
 [^2]: Catherine Durnell Cramton, Kara L. Orvis, and Jeanne M. Wilson, “Situation Invisibility and Attribution in Distributed Collaborations,” *Journal of Management* 33, no. 4 (2007): 525–546, [https://doi.org/10.1177/0149206307302549](https://doi.org/10.1177/0149206307302549).

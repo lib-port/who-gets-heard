@@ -253,7 +253,7 @@ Mark each answer as *clear*, *inferred*, or *unknown*. Choose one unknown that m
 
 Decisions convert attention and support into commitment. The next chapter follows the resources that make those commitments real—and the dependencies that can quietly determine who has leverage over them.
 
-
+---
 [^1]: Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter, and K. Yee Ng, “Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research,” *Journal of Applied Psychology* 86, no. 3 (2001): 425–445, [https://doi.org/10.1037/0021-9010.86.3.425](https://doi.org/10.1037/0021-9010.86.3.425). The review synthesizes associations across a large literature; it does not guarantee that any single procedural intervention will produce a specific outcome.
 
 [^2]: E. Allan Lind, Ruth Kanfer, and P. Christopher Earley, “Voice, Control, and Procedural Justice: Instrumental and Noninstrumental Concerns in Fairness Judgments,” *Journal of Personality and Social Psychology* 59, no. 5 (1990): 952–959, [https://doi.org/10.1037/0022-3514.59.5.952](https://doi.org/10.1037/0022-3514.59.5.952).

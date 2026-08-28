@@ -244,7 +244,7 @@ Fill what you know. Mark the rest as questions. The exercise turns scarcity from
 
 Resources determine which commitments survive contact with reality. In the second half of the book, we follow what happens when work is completed—beginning with who receives the credit and visibility it creates.
 
-
+---
 [^1]: D. J. Hickson, C. R. Hinings, C. A. Lee, R. E. Schneck, and J. M. Pennings, “A Strategic Contingencies’ Theory of Intraorganizational Power,” *Administrative Science Quarterly* 16, no. 2 (1971): 216–229, [https://doi.org/10.2307/2391831](https://doi.org/10.2307/2391831); Irit Cohen and Ran Lachman, “The Generality of the Strategic Contingencies Approach to Sub-unit Power,” *Organization Studies* 9, no. 3 (1988): 371–391, [https://doi.org/10.1177/017084068800900305](https://doi.org/10.1177/017084068800900305). These works offer theories and tests of structural sources of power, not a checklist for judging individual intent.
 
 [^2]: World Health Organization, *WHO Guidelines on Mental Health at Work* (2022), [https://www.who.int/publications/i/item/9789240053052](https://www.who.int/publications/i/item/9789240053052); World Health Organization and International Labour Organization, *Mental Health at Work: Policy Brief* (2022), [https://www.who.int/publications/i/item/9789240057944](https://www.who.int/publications/i/item/9789240057944).

@@ -247,7 +247,7 @@ Finish by writing one accurate sentence that describes the support, including an
 
 Coalitions help ideas gather force. The next chapter examines the formal and informal machinery through which that force becomes a decision.
 
-
+---
 [^1]: William B. Stevenson, Jone L. Pearce, and Lyman W. Porter, “The Concept of ‘Coalition’ in Organization Theory and Research,” *Academy of Management Review* 10, no. 2 (1985): 256–268, [https://doi.org/10.5465/amr.1985.4278178](https://doi.org/10.5465/amr.1985.4278178).
 
 [^2]: Lillian T. Eby and M. M. Robertson, “The Psychology of Workplace Mentoring Relationships,” *Annual Review of Organizational Psychology and Organizational Behavior* 7 (2020): 75–100, [https://doi.org/10.1146/annurev-orgpsych-012119-044924](https://doi.org/10.1146/annurev-orgpsych-012119-044924); Scott E. Seibert, Maria L. Kraimer, and Robert C. Liden, “A Social Capital Theory of Career Success,” *Academy of Management Journal* 44, no. 2 (2001): 219–237, [https://doi.org/10.5465/3069452](https://doi.org/10.5465/3069452); Gerald R. Ferris et al., “Development and Validation of the Political Skill Inventory,” *Journal of Management* 31, no. 1 (2005): 126–152, [https://doi.org/10.1177/0149206304271386](https://doi.org/10.1177/0149206304271386).
