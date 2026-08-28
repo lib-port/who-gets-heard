@@ -193,7 +193,7 @@ If you cannot answer several questions, do not assume the worst. You have found 
 
 Access shapes the beginning of organizational life: who enters, who learns, and who gets a chance to become capable in public. The next chapter follows the resource that travels through those doors—information.
 
-
+---
 [^1]: Daniel J. Brass, “Being in the Right Place: A Structural Analysis of Individual Influence in an Organization,” *Administrative Science Quarterly* 29, no. 4 (1984): 518–539, [https://doi.org/10.2307/2392937](https://doi.org/10.2307/2392937); Herminia Ibarra, “Network Centrality, Power, and Innovation Involvement: Determinants of Technical and Administrative Roles,” *Academy of Management Journal* 36, no. 3 (1993): 471–501, [https://doi.org/10.2307/256589](https://doi.org/10.2307/256589). Network position is one lens on influence; it is not a moral assessment of the people occupying that position.
 
 [^2]: Scott E. Seibert, Maria L. Kraimer, and Robert C. Liden, “A Social Capital Theory of Career Success,” *Academy of Management Journal* 44, no. 2 (2001): 219–237, [https://doi.org/10.5465/3069452](https://doi.org/10.5465/3069452).

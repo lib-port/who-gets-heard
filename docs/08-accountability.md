@@ -278,7 +278,7 @@ Mark what is established, disputed, and unknown. Then write two separate questio
 
 Accountability shapes the official explanation of conduct. Before that explanation is complete, however, reputation often begins doing its own work. The next chapter examines how labels, status, and borrowed authority determine whose account sounds credible.
 
-
+---
 [^1]: Jennifer S. Lerner and Philip E. Tetlock, “Accounting for the Effects of Accountability,” *Psychological Bulletin* 125, no. 2 (1999): 255–275, [https://doi.org/10.1037/0033-2909.125.2.255](https://doi.org/10.1037/0033-2909.125.2.255).
 
 [^2]: John M. Darley and Bibb Latané, “Bystander Intervention in Emergencies: Diffusion of Responsibility,” *Journal of Personality and Social Psychology* 8, no. 4, pt. 1 (1968): 377–383, [https://doi.org/10.1037/h0025589](https://doi.org/10.1037/h0025589). The chapter draws a limited coordination analogy; a workplace accountability system is not equivalent to the experimental emergencies studied.

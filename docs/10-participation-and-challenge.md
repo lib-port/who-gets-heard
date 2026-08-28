@@ -8,11 +8,11 @@ The workshop is already running late. Aisha says the exception process needs to 
 
 She does. The next week, her entry is closed as “covered by existing procedure,” though no procedure is linked. She asks for the decision owner and is invited to a thirty-minute review at 7:30 a.m., outside her working pattern. Attendance requires a six-page form and her manager’s approval. At her next one-to-one, her manager warns that “senior people are noticing who is helping the program move and who is not.” Aisha is then assigned daily reconciliation work that overlaps the review meeting.
 
-Any one event might have an ordinary explanation. The workshop needed focus. The project had a standard intake form. The early time suited participants in another region. Reconciliation work had to be done. The manager might have intended a clumsy reminder about collaboration.
+Any one event might have an ordinary explanation. The workshop needed focus. The project had a standard intake form. The early time suited participants in another region. Reconciliation work had to be done. The manager might have intended a general reminder about collaboration.
 
-Together, however, the conditions make challenge costly. Aisha can still speak, in the narrow sense that no one has forbidden words. She cannot easily participate in the decisions that determine whether her evidence matters.
+Together, however, the conditions make challenge costly. Aisha can still speak, in the narrow sense that no one can overtly prevent her from doing so. She cannot easily participate in the decisions that determine whether her evidence is consequential.
 
-Employee voice is the voluntary communication of ideas, concerns, suggestions, or information intended to improve a situation. Silence is not merely the absence of speech; it can reflect calculation about whether speaking will work or create harm. Research reviews find that voice depends on individual, relational, leadership, and contextual factors, and that employees weigh both efficacy and risk.[^1]
+Employee voice is the voluntary communication of ideas, concerns, suggestions, or information intended to improve a situation. Silence is not merely the absence of speech; it can reflect calculation about whether speaking will be constructive or create harm. Research reviews find that voice depends on individual, relational, leadership, and contextual factors, and that employees weigh both efficacy and risk.[^1]
 
 This chapter examines five patterns: leaving an affected role out, imposing disproportionate process burdens, changing someone’s workload after they raise a concern, hinting at the cost of disagreement, and making review or appeal difficult to use.
 
@@ -249,7 +249,7 @@ Take a low-risk, completed example from your workplace. Do not use sensitive per
 
 The health of a voice system is revealed not by the existence of a microphone but by the path from information to a fair, usable response.
 
-
+---
 [^1]: Elizabeth W. Morrison, “Employee Voice and Silence: Taking Stock a Decade Later,” *Annual Review of Organizational Psychology and Organizational Behavior* 10 (2023): 79–107, [https://doi.org/10.1146/annurev-orgpsych-120920-054654](https://doi.org/10.1146/annurev-orgpsych-120920-054654).
 
 [^2]: U.S. Equal Employment Opportunity Commission, “Retaliation,” [https://www.eeoc.gov/retaliation](https://www.eeoc.gov/retaliation); U.S. Department of Labor, Occupational Safety and Health Administration, “Whistleblower Protection Program,” [https://www.osha.gov/whistleblower/WBComplaint](https://www.osha.gov/whistleblower/WBComplaint). These are United States examples, not a statement of rights in every jurisdiction.

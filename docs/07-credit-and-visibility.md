@@ -246,7 +246,7 @@ Now ask who disappears between versions two and three. Is the omission reasonabl
 
 Credit tells the organization who made success possible. Accountability tells it who must answer when work is uncertain, unfinished, or wrong. That is the subject of the next chapter.
 
-
+---
 [^1]: Heather Sarsons, “Recognition for Group Work: Gender Differences in Academia,” *American Economic Review* 107, no. 5 (2017): 141–145, [https://doi.org/10.1257/aer.p20171126](https://doi.org/10.1257/aer.p20171126); Heather Sarsons, Klarita Gërxhani, Ernesto Reuben, and Arthur Schram, “Gender Differences in Recognition for Group Work,” *Journal of Political Economy* 129, no. 1 (2021): 101–147, [https://doi.org/10.1086/711401](https://doi.org/10.1086/711401). These studies concern specific academic and experimental settings; they motivate clear contribution records but do not establish that any individual omission is gender bias.
 
 [^2]: Madeline E. Heilman and Michelle C. Haynes, “No Credit Where Credit Is Due: Attributional Rationalization of Women’s Success in Male–Female Teams,” *Journal of Applied Psychology* 90, no. 5 (2005): 905–916, [https://doi.org/10.1037/0021-9010.90.5.905](https://doi.org/10.1037/0021-9010.90.5.905); Madeline E. Heilman, “Women at Work: Pathways from Gender Stereotypes to Gender Bias and Discrimination,” *Annual Review of Organizational Psychology and Organizational Behavior* 11 (2024): 165–192, [https://doi.org/10.1146/annurev-orgpsych-110721-034105](https://doi.org/10.1146/annurev-orgpsych-110721-034105).

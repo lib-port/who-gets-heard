@@ -188,7 +188,7 @@ No procedure makes every outcome just. Consistent criteria can preserve an unjus
 
 Fairness also permits relevant difference. A safety-critical role can require stronger credentials. A severe incident can receive a different response from a minor one. Confidential investigations limit access. Scarce funds force priority. The organization should be able to explain why the difference matters to the purpose and how it is reviewed.
 
-## Power needs neither romance nor panic
+## Power needs neither intrigue nor force
 
 Popular workplace advice tends to divide into two stories. In one, politics is a dirty game played by schemers, and decent people should stay above it. In the other, influence is a set of techniques for winning: read the room, build alliances, control the narrative, and never appear weak.
 
@@ -315,7 +315,7 @@ The result does not please everyone. It does something better: it leaves a trail
 
 Corporate politics has not disappeared. It has become work that can be discussed without mind-reading, challenged without theatrical accusation, and redesigned without pretending people have no interests. That is how influence becomes more than the ability to get one’s way. It becomes a capacity to make collective judgment possible—and to make it worthy of trust.
 
-
+---
 [^1]: Jason A. Colquitt et al., “Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research,” *Journal of Applied Psychology* 86, no. 3 (2001): 425–445, [https://doi.org/10.1037/0021-9010.86.3.425](https://doi.org/10.1037/0021-9010.86.3.425).
 
 [^2]: Gerald R. Ferris et al., “Development and Validation of the Political Skill Inventory,” *Journal of Management* 31, no. 1 (2005): 126–152, [https://doi.org/10.1177/0149206304271386](https://doi.org/10.1177/0149206304271386).

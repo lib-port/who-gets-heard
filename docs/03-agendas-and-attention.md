@@ -216,7 +216,7 @@ Choose one change for the next meeting: a clearer verb, a common brief, an urgen
 
 Attention determines what an organization can think about together. The next chapter examines how people build the support that moves an issue from consideration to action.
 
-
+---
 [^1]: Peter Bachrach and Morton S. Baratz, “Two Faces of Power,” *American Political Science Review* 56, no. 4 (1962): 947–952, [https://doi.org/10.2307/1952796](https://doi.org/10.2307/1952796). Their argument concerns political power broadly; applying it to workplace agendas is an analytical extension, not a claim that organizations are governments.
 
 [^2]: Jane E. Dutton and Susan E. Jackson, “Categorizing Strategic Issues: Links to Organizational Action,” *Academy of Management Review* 12, no. 1 (1987): 76–90, [https://doi.org/10.5465/amr.1987.4306483](https://doi.org/10.5465/amr.1987.4306483); Richard P. Larrick, “The Social Context of Decisions,” *Annual Review of Organizational Psychology and Organizational Behavior* 3 (2016): 441–467, [https://doi.org/10.1146/annurev-orgpsych-041015-062445](https://doi.org/10.1146/annurev-orgpsych-041015-062445).
