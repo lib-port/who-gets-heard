@@ -4,13 +4,13 @@
 
 A customer portal fails for three hours on a Monday morning. Tariq, the service manager, coordinates the response. The outage begins after a software release, but several safeguards also fail: monitoring did not alert, the rollback guide was outdated, vendor support was slow, and a change approver misunderstood the release window.
 
-At the first review, twelve people are listed as “owners.” No one can say who was accountable for the final go/no-go decision. The incident timeline includes Tariq’s late response to one message but omits that he was not on the release notification list. A director asks Tariq to produce the remediation plan, although he controls neither the development team nor the monitoring budget.
+At the first review, twelve people are listed as “owners.” No one can say who was accountable for the final go/no-go decision. The incident timeline includes Tariq’s late response to one message but omits that he was not on the release notification list. A director asks Tariq to produce the remediation plan, although he controls neither the development team nor the budget.
 
-The organization has managed to create both too much accountability and too little. Responsibility is spread so widely that no one owns the system, then concentrated on the visible person who coordinated the failure. Tariq can write actions, but he cannot compel the teams needed to complete them.
+The organization has managed to create both too much accountability and too little. Responsibility is spread so widely that no one owns the system, then concentrated on the visible person who coordinated the response. Tariq can assign actions, but he cannot compel the teams to complete them.
 
-Accountability means an expectation that a person or body will explain and answer for conduct, decisions, or outcomes to an audience with some ability to judge or respond. It is not identical to responsibility, blame, punishment, or task assignment. A person can perform a task without owning the result. A leader can be accountable for a system without personally causing each failure.
+Accountability means an expectation that a person or body will explain and answer for conduct, decisions, or outcomes to an audience with some ability to judge or respond. It is not identical to responsibility, blame, or task assignment. A person can perform a task without owning the result. A leader can be accountable for a systemfailure without having personally caused it.
 
-Research on accountability finds that its effects vary with the audience, timing, standards, and decision environment; accountability does not automatically improve judgment.[^1] Poorly designed accountability can produce defensiveness, conformity, excessive paperwork, or efforts to look safe. Well-designed accountability connects authority, evidence, explanation, consequence, and learning.
+Research on accountability finds that its effects vary with the audience, timing, standards, and decision environment; accountability does not automatically improve judgment.[^1] Poorly designed accountability can produce defensiveness, conformity, excessive paperwork, or superficial adherence to safety. Well-designed accountability connects authority, evidence, explanation, consequence, and learning.
 
 ## Four questions before assigning ownership
 
@@ -19,7 +19,7 @@ Before saying “You own this,” ask:
 1. **Control:** what choices can the person make?
 2. **Resources:** what people, money, information, and access can they use?
 3. **Obligation:** what result or standard must they answer for?
-4. **Review:** to whom, when, and with what possible consequence?
+4. **Review:** by whom, when, and with what possible consequence?
 
 If obligation greatly exceeds control and resources, the assignment may create a convenient target rather than an effective owner. If control exists without review, power can operate without accountability.
 
@@ -27,18 +27,18 @@ This chapter examines five patterns: unclear ownership, uneven records, responsi
 
 ## 1. Leaving ownership unclear
 
-Ambiguous ownership often starts with collaborative language: “We all own quality,” “The leadership team is responsible,” “Operations and technology will work it out.” Shared commitment is valuable. Shared final authority is often impossible.
+Ambiguous ownership often starts with collaborative language: “We all own quality,” “The leadership team is responsible,” “Operations and technology will work it out.” Shared commitment is valuable. Shared final authority is often a failure of accountability and control.
 
 Distinguish at least four roles:
 
-- **Decision owner:** authorized to choose.
+- **Decision owner:** authorised to choose.
 - **Delivery owner:** accountable for producing the agreed result.
 - **Task owner:** responsible for a defined action.
 - **Control or review owner:** independently checks a requirement or risk.
 
 One person may hold several roles, but they should not be blurred. A compliance reviewer who can stop a release may own the compliance decision without owning delivery. A service manager may coordinate incident response without owning the code change that caused it.
 
-Tools such as RACI charts—responsible, accountable, consulted, informed—can help, but the letters are not magic. Teams often assign several people “accountable” to avoid a hard choice or mark everyone “consulted” without time to consult them. Plain language is better: “Tariq coordinates the incident; the release manager decides rollback; the platform director owns restoration; security must approve any emergency access.”
+Tools such as RACI charts (responsible, accountable, consulted, informed) can help, but the letters are not magic. Teams often assign several people “accountable” to avoid a hard choice or mark everyone “consulted” without meaningfully consulting them. Plain language is better: “Tariq coordinates the incident; the release manager decides rollback; the platform director owns restoration; security must approve any emergency access.”
 
 Ownership should include triggers and handoffs. Who owns a risk while it is being assessed? At what severity does it pass to another role? Who confirms that handoff occurred? Many failures happen in the space between owners, not inside a role.
 
@@ -50,7 +50,7 @@ Records shape accountability because later reviewers cannot evaluate what they c
 
 Selection is unavoidable. An incident timeline cannot reproduce every message. A performance review cannot list every day. The standard is material relevance: include facts necessary to understand cause, control, response, and decision.
 
-In Tariq’s case, his slow reply is relevant. So is the missing notification. Recording one without the other converts a system condition into a personal flaw. Similarly, a project review that lists missed delivery dates but omits approved scope changes will misstate performance. A complaint file that preserves the accusation but not the response creates a durable imbalance.
+In Tariq’s case, his slow reply is relevant. So is the missing notification. Recording one without the other converts a system condition into a personal flaw. Similarly, a project review that lists missed delivery dates but omits approved scope changes will misstate performance. A complaint file that preserves the accusation but not the response creates a lasting bias.
 
 Use a record structure that separates:
 
@@ -62,9 +62,9 @@ Use a record structure that separates:
 - unresolved question;
 - correction or later evidence.
 
-Invite factual correction from materially involved people before finalizing a high-stakes record. This is not a veto over findings. It catches wrong dates, missing context, and ambiguous roles. Keep versions and note changes rather than quietly rewriting history.
+Invite factual correction from materially involved people before finalising a high-stakes record. This is not a veto over findings. It catches wrong dates, missing context, and ambiguous roles. Keep versions and note changes rather than quietly rewriting history.
 
-Privacy and relevance limit participation. A person may correct their part without receiving confidential information about others. An investigator or authorized reviewer may need to hold the complete record. Do not circulate sensitive material merely in the name of symmetry.
+Privacy and relevance limit participation. A person may correct their part without receiving confidential information about others. An investigator or authorized reviewer may need to hold the complete record. Do not circulate sensitive material simply in the name of transparency.
 
 ## 3. Spreading responsibility until no one can answer
 
