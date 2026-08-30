@@ -1,0 +1,29 @@
+.donationCallout {
+  max-width: 52rem;
+  margin: 0 auto 1rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid rgb(255 255 255 / 22%);
+  border-radius: 0.5rem;
+  background: rgb(255 255 255 / 6%);
+  color: var(--ifm-footer-color);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.donationCallout a {
+  color: var(--ifm-footer-link-color);
+  font-weight: var(--ifm-font-weight-bold);
+  text-decoration-line: underline;
+  text-decoration-thickness: 0.1em;
+  text-underline-offset: 0.2em;
+}
+
+.donationCallout a:hover {
+  color: var(--ifm-footer-link-hover-color);
+}
+
+.donationCallout a:focus-visible {
+  border-radius: 0.125rem;
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
