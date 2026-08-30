@@ -51,7 +51,12 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'bookSidebar',
           position: 'left',
-          label: 'Contents',
+          label: 'Book',
+        },
+        {
+          to: '/describe-test-respond',
+          label: 'Worksheet',
+          position: 'left',
         },
         {
           href: repositoryUrl,
