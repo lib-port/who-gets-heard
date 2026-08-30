@@ -2,11 +2,11 @@
 
 ## The Work Behind the Work
 
-[![GitHub Pages deployment](https://github.com/lib-port/who-gets-heard/actions/workflows/deploy-pages.yml/badge.svg?branch=main)](https://github.com/lib-port/who-gets-heard/actions/workflows/deploy-pages.yml)
+[![Deploy Docusaurus to GitHub Pages](https://github.com/lib-port/who-gets-heard/actions/workflows/deploy-pages.yml/badge.svg?branch=main)](https://github.com/lib-port/who-gets-heard/actions/workflows/deploy-pages.yml)
 
 *A practical, process-first guide to understanding influence at work without treating every ambiguity as evidence of bad intent.*
 
-[Read the online edition](https://lib-port.github.io/who-gets-heard/) · [Begin with the introduction](https://lib-port.github.io/who-gets-heard/introduction)
+[Read the online edition](https://lib-port.github.io/who-gets-heard/) · [Begin with the introduction](https://lib-port.github.io/who-gets-heard/introduction) · [Use the worksheet](https://lib-port.github.io/who-gets-heard/describe-test-respond)
 
 ## About the book
 
@@ -32,6 +32,12 @@ Its six-part lens asks readers to:
 6. determine whether correction was possible.
 
 These questions are intended for employees raising a concern, managers responsible for recurring processes and leaders designing systems that people can understand and trust.
+
+## Worksheet
+
+The one-page *Describe. Test. Respond.* worksheet helps readers prepare for a workplace conversation, decision or review. It provides a structured way to record the event, identify the relevant expectation, test assumptions and choose a proportionate next step.
+
+[Open the worksheet guide](https://lib-port.github.io/who-gets-heard/describe-test-respond) · [Download the printable PDF](https://lib-port.github.io/who-gets-heard/files/describe-test-respond-worksheet.pdf)
 
 ## Contents
 
@@ -83,14 +89,17 @@ The main project locations are:
 | Path | Purpose |
 | --- | --- |
 | [`docs/`](docs/) | Book manuscript and chapter metadata. |
-| [`src/pages/`](src/pages/) | Custom website landing page and its styles. |
-| [`static/`](static/) | Files copied directly into the generated site. |
+| [`src/pages/`](src/pages/) | Custom homepage, worksheet landing page and their styles. |
+| [`src/theme/`](src/theme/) | Docusaurus theme overrides, including the customised footer. |
+| [`static/`](static/) | Worksheet assets and other files copied directly into the generated site. |
 | [`docusaurus.config.js`](docusaurus.config.js) | Site metadata, navigation and Docusaurus settings. |
 | [`sidebars.js`](sidebars.js) | Automatically generated book navigation. |
 
 ## Automation
 
-Changes to the site source on `main` are built and published to GitHub Pages by the [deployment workflow](.github/workflows/deploy-pages.yml). A separate workflow mirrors `main` to the [`lib-port/who-gets-heard` GitLab project](https://gitlab.com/lib-port/who-gets-heard). After a mirror run, the clean-up workflow retains the newest completed run for each GitHub Actions workflow and removes older completed runs.
+Pushes to `main` that change the site source paths selected by the [deployment workflow](.github/workflows/deploy-pages.yml) are built and published to GitHub Pages. `README.md` is not part of the generated Docusaurus site, so a README-only push does not trigger a Pages deployment.
+
+A separate workflow mirrors `main` to the [`lib-port/who-gets-heard` GitLab project](https://gitlab.com/lib-port/who-gets-heard). After a mirror run, the clean-up workflow retains the newest completed run for each GitHub Actions workflow and removes older completed runs.
 
 ## Licence
 

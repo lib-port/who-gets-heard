@@ -286,7 +286,7 @@ export default function Home() {
             <div className={styles.contentsNote}>
               <p>
                 <strong>Prefer the full reading path?</strong> All fourteen sections
-                remain available through <em>Contents</em> in the site navigation.
+                remain available through <em>Book</em> in the site navigation.
               </p>
               <Link className={styles.textAction} to="/introduction">
                 Begin with the introduction <span aria-hidden="true">→</span>
