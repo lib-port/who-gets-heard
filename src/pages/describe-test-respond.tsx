@@ -134,8 +134,8 @@ export default function DescribeTestRespond() {
                 <img
                   className={styles.previewImage}
                   src={previewUrl}
-                  width="960"
-                  height="1358"
+                  width="480"
+                  height="679"
                   alt="Preview of the Describe, Test, Respond one-page worksheet"
                 />
               </a>
