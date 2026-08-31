@@ -8,12 +8,12 @@ const principles = [
   {
     number: '01',
     title: 'Observe',
-    text: 'Put the event into concrete terms before deciding what it means.',
+    text: 'Describe the event in clear terms before deciding what it means.',
   },
   {
     number: '02',
     title: 'Compare',
-    text: 'Test the relevant rule, similar cases, and ordinary explanations.',
+    text: 'Test the relevant rule, similar cases, and alternative explanations.',
   },
   {
     number: '03',
@@ -26,7 +26,7 @@ const lenses = [
   {
     number: '01',
     title: 'Describe the process',
-    text: 'Name the decision, opportunity, meeting, record, resource, or assignment precisely.',
+    text: 'Determine the decision, opportunity, meeting, record, resource, or assignment precisely.',
   },
   {
     number: '02',
@@ -40,7 +40,7 @@ const lenses = [
   },
   {
     number: '04',
-    title: 'Test ordinary explanations',
+    title: 'Test alternative explanations',
     text: 'Consider constraints, mistakes, incomplete information, and legitimate exceptions.',
   },
   {
@@ -51,7 +51,7 @@ const lenses = [
   {
     number: '06',
     title: 'Look for correction',
-    text: 'Healthy systems make errors visible, discussable, and proportionately repairable.',
+    text: 'Check whether the issue could be raised, discussed, and corrected in a proportionate way.',
   },
 ];
 
@@ -68,14 +68,14 @@ const entryPoints = [
     prompt: 'How was the decision made?',
     title: 'Decision Processes',
     href: '/decision-processes',
-    text: 'Trace authority, criteria, consultation, records, delegation, review, and appeal.',
+    text: 'Trace authority, criteria, consultation, delegation, review, and appeal.',
   },
   {
     number: '07',
     prompt: 'Whose work gets recognised?',
     title: 'Credit and Visibility',
     href: '/credit-and-visibility',
-    text: 'Connect contribution with recognition, authorship, presentation, and enabling work.',
+    text: 'Connect contribution with recognition, authorship, and enabling work.',
   },
   {
     number: '10',
@@ -95,7 +95,7 @@ const audiences = [
   {
     number: '02',
     title: 'Run the process',
-    text: 'Make meetings, decisions, recognition, accountability, and repair easier to trust.',
+    text: 'Make meetings, decisions, recognition, accountability, and remediation easier to trust.',
   },
   {
     number: '03',
@@ -122,7 +122,7 @@ export default function Home() {
               <p className={styles.lede}>
                 See how information, opportunity, decisions, and recognition
                 actually move through an organisation, and learn to question the
-                process without assuming the worst.
+                process first and not the people.
               </p>
               <div className={styles.actions}>
                 <Link className={styles.primaryAction} to="/introduction">
@@ -198,12 +198,12 @@ export default function Home() {
             </div>
             <div>
               <Heading as="h2" id="orientation-title">
-                See influence clearly without becoming cynical.
+                See influence clearly without becoming cynical
               </Heading>
               <p className={styles.sectionLede}>
                 Every organisation allocates attention, information, authority,
                 opportunity, money, and recognition. This book helps you examine
-                what happens between the policy and the outcome with enough care to
+                what happens between the policy and the outcome with the tools to
                 improve it.
               </p>
               <ol className={styles.principleList}>
@@ -225,7 +225,7 @@ export default function Home() {
               <div>
                 <p className={styles.sectionLabel}>The six-part lens</p>
                 <Heading as="h2" id="lens-title">
-                  Start with the process, not the person.
+                  Start with the process, not the person
                 </Heading>
               </div>
               <p>
@@ -257,7 +257,7 @@ export default function Home() {
               <div>
                 <p className={styles.sectionLabel}>Choose an entry point</p>
                 <Heading as="h2" id="entry-title">
-                  Start with the question in front of you.
+                  Start with the question in front of you
                 </Heading>
               </div>
               <p>
@@ -300,7 +300,7 @@ export default function Home() {
             <div>
               <p className={styles.sectionLabel}>For every workplace role</p>
               <Heading as="h2" id="audience-title">
-                Make consequential work easier to see and discuss.
+                Make consequential work easier to see and discuss
               </Heading>
               <p className={styles.sectionLede}>
                 Use the framework to prepare a difficult conversation, improve a
@@ -327,7 +327,7 @@ export default function Home() {
             <div>
               <p className={styles.sectionLabel}>Use with care</p>
               <Heading as="h2" id="closing-title">
-                Patterns are starting points for inquiry, not verdicts.
+                Patterns are starting points for inquiry, not verdicts
               </Heading>
             </div>
             <div className={styles.closingCopy}>

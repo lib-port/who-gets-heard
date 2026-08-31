@@ -8,8 +8,7 @@ export default function FooterCopyright({copyright}: Props): ReactNode {
     <>
       <p className={styles.donationCallout}>
         If you found this book helpful, please consider donating to the{' '}
-        <a href="https://archive.org/donate/">Internet Archive</a>.<br />Their
-        preservation of public domain works helped make this book possible.
+        <a href="https://archive.org/donate/">Internet Archive</a>.
       </p>
       <div
         className="footer__copyright"
