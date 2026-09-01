@@ -46,10 +46,6 @@
   object-fit: contain;
 }
 
-.previewMeta {
-  margin-top: 1rem;
-}
-
 .outcomeList li {
   min-height: 9.5rem;
 }

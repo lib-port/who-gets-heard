@@ -139,14 +139,6 @@ export default function DescribeTestRespond() {
                   alt="Preview of the Describe, Test, Respond one-page worksheet"
                 />
               </a>
-              <div
-                className={`${landingStyles.figureQuestions} ${styles.previewMeta}`}
-                aria-hidden="true"
-              >
-                <span>Describe</span>
-                <span>Test</span>
-                <span>Respond</span>
-              </div>
             </figure>
           </div>
         </section>
