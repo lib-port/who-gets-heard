@@ -106,3 +106,6 @@ A separate workflow mirrors `main` to the [`lib-port/who-gets-heard` GitLab proj
 Copyright © 2026 lib-port.
 
 The [Creative Commons Attribution 4.0 International licence](LICENSE) applies only to this README and the manuscript files from `docs/00-introduction.md` through `docs/13-conclusion.md`. It does not license the repository's other files. See the licence text for the precise scope and suggested attribution.
+
+## Donation
+If you found this book helpful, please consider donating to the [Internet Archive](https://archive.org/donate/).

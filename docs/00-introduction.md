@@ -155,7 +155,6 @@ For Elena, the practical next step is not to accuse her director of taking credi
 
 That is the promise of a process-first view. It cannot make organisations free of politics. It can make influence more visible, accountable, and easier to discuss. It also gives people something better than suspicion with which to begin.
 
----
 [^1]: K. Michele Kacmar and Gerald R. Ferris, “Perceptions of Organizational Politics Scale (POPS): Development and Construct Validation,” *Educational and Psychological Measurement* 51, no. 1 (1991): 193–205, [https://doi.org/10.1177/0013164491511019](https://doi.org/10.1177/0013164491511019); Gerald R. Ferris, Brian P. Ellen III, Chad P. McAllister, and L. P. Maher, “Reorganizing Organizational Politics Research: A Review of the Literature and Identification of Future Research Directions,” *Annual Review of Organizational Psychology and Organizational Behavior* 6 (2019): 299–323, [https://doi.org/10.1146/annurev-orgpsych-012218-015221](https://doi.org/10.1146/annurev-orgpsych-012218-015221).
 
 [^2]: Scott E. Seibert, Maria L. Kraimer, and Robert C. Liden, “A Social Capital Theory of Career Success,” *Academy of Management Journal* 44, no. 2 (2001): 219–237, [https://doi.org/10.5465/3069452](https://doi.org/10.5465/3069452); Gerald R. Ferris et al., “Development and Validation of the Political Skill Inventory,” *Journal of Management* 31, no. 1 (2005): 126–152, [https://doi.org/10.1177/0149206304271386](https://doi.org/10.1177/0149206304271386).
