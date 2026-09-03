@@ -2,9 +2,14 @@
 
 ## The Work Behind the Work
 
-[![Deploy Docusaurus to GitHub Pages](https://github.com/lib-port/who-gets-heard/actions/workflows/deploy-pages.yml/badge.svg?branch=main)](https://github.com/lib-port/who-gets-heard/actions/workflows/deploy-pages.yml)
-
 *A practical, process-first guide to understanding influence at work without treating every ambiguity as evidence of bad intent.*
+
+[![Docusaurus site](https://img.shields.io/badge/Docusaurus-site-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)](https://docusaurus.io/docs)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=20232A)](https://react.dev/)
+[![TypeScript TSX](https://img.shields.io/badge/TypeScript-TSX-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Markdown and MDX](https://img.shields.io/badge/Content-Markdown%20%2B%20MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)](https://mdxjs.com/)
+[![Node.js 24](https://img.shields.io/badge/Node.js-24-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
 
 [Read the online edition](https://lib-port.github.io/who-gets-heard/) · [Begin with the introduction](https://lib-port.github.io/who-gets-heard/introduction) · [Use the worksheet](https://lib-port.github.io/who-gets-heard/describe-test-respond)
 
