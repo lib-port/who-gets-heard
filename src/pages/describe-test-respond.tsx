@@ -187,7 +187,7 @@ export default function DescribeTestRespond() {
                   What the worksheet produces
                 </p>
                 <Heading as="h2" id="outcomes-title">
-                  Turn an uncertain event into a focused request.
+                  A step-by-step practical guide
                 </Heading>
               </div>
               <p>
