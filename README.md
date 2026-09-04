@@ -4,7 +4,7 @@
 
 *A practical, process-first guide to understanding influence at work without treating every ambiguity as evidence of bad intent.*
 
-[![Docusaurus site](https://img.shields.io/badge/Docusaurus-site-3ECC5F?logo=docusaurus&logoColor=white)](https://docusaurus.io/docs)
+[![Docusaurus site](https://img.shields.io/badge/Docusaurus-latest-3ECC5F?logo=docusaurus&logoColor=white)](https://docusaurus.io/docs)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-hosting-222222)](https://pages.github.com/)
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=20232A)](https://react.dev/)
 [![TypeScript TSX](https://img.shields.io/badge/TypeScript-TSX-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)

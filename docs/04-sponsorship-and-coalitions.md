@@ -1,44 +1,44 @@
 # Chapter 4: Sponsorship and Coalitions
 
-## The support behind the proposal
+## ==The support behind the proposal==
 
-Nora wants her company to offer paid time for employees who mentor apprentices. The idea has little effect on the budget, but it crosses operations, human resources, and finance. Her first draft receives polite silence.
+Nora wants her company to provide paid time for employees who mentor apprentices. The proposal would have little effect on the overall budget, but it requires coordination among operations, human resources, and finance. Her first written proposal receives no substantive response.
 
-She begins speaking with people separately. A plant manager explains that mentors currently lose production time without recognition. An HR partner supplies retention data. A finance analyst helps Nora show the cost of turnover. A respected operations director agrees to introduce the revised proposal at the workforce committee.
+She then speaks with relevant colleagues individually. A plant manager explains that mentors currently lose production time without receiving formal recognition. An HR partner provides retention data, and a finance analyst helps estimate the cost of employee turnover. A respected operations director agrees to introduce the revised proposal at the workforce committee.
 
-This is coalition building—the work of improving an idea, connecting it to several interests, and finding a sponsor with access to the right forum. It is normal, competent organisational work.
+This is a normal form of coalition building. Nora improves the proposal by gathering evidence, connecting it to several organisational interests, and finding a sponsor who can bring it to the appropriate forum.
 
-Then the proposal changes. The operations director tells committee members that “all the sites are behind it,” although Nora spoke to managers at only three of the eight sites. The finance analyst asks Nora to support an unrelated software purchase in exchange for continued help. HR adds a broad change to overtime rules and says the package must be approved as a whole. By the time the committee meets, different people believe they have endorsed different things.
+Problems arise when the support is represented inaccurately or becomes conditional on unrelated commitments. The operations director tells committee members that “all the sites are behind it,” although Nora has consulted managers at only three of the eight sites. The finance analyst asks Nora to support an unrelated software purchase in exchange for continued assistance. HR adds a substantial change to overtime rules and insists that the combined package be approved as a single proposal. By the time the committee meets, participants no longer share a clear understanding of what has been supported or by whom.
 
-Attention brings an issue into the room; support helps it move toward action. Coalitions combine interests and resources. Sponsors lend access and credibility. Messengers translate an issue for a particular audience. These relationships become risky when support is opaque, overstated, conditional in undisclosed ways, or bundled so tightly that people cannot tell what they agreed to.
+Attention brings an issue into a decision process; support helps it progress. Coalitions combine interests, information, and resources. Sponsors provide access and credibility. Messengers adapt an issue for different audiences. These relationships become problematic when support is overstated, important conditions are concealed, or several proposals are bundled together so tightly that participants cannot identify what they have actually endorsed.
 
-Organisational scholars have used the concept of coalition to explain how individual influence becomes collective action.[^1] Research on mentoring, networks, and political skill likewise shows that relationships are part of how people navigate work and careers.[^2] A realistic guide should not condemn those relationships. It should distinguish advocacy from misrepresentation.
+Organisational research has long used the concept of coalitions to explain how individual preferences and influence become collective action.[^1] Research on mentoring, networks, and political skill similarly shows that relationships play an important role in how people navigate organisations and careers.[^2] The relevant distinction is therefore not between relationships and neutrality, but between legitimate advocacy and the inaccurate representation of support.
 
 ## What support actually means
 
-Workplaces often use several kinds of support as if they were interchangeable. They are not.
+Workplaces often treat different forms of support as though they mean the same thing. They do not.
 
-A **mentor** offers advice, learning, or psychosocial support. A **sponsor** uses standing or access to advocate for a person or idea. An **ally** supports someone, often across a difference in power or group membership. A **coalition partner** coordinates action around a shared interest. An **endorser** confirms support for a defined proposal. A **representative** is authorised, under some mandate, to speak or decide for others.
+A **mentor** provides advice, learning, or personal support. A **sponsor** uses influence or access to advocate for a person or idea. An **ally** supports someone, often across differences in status, power, or group membership. A **coalition partner** coordinates action around a shared objective. An **endorser** expresses support for a specific proposal. A **representative** has authority, within a defined mandate, to speak or decide on behalf of others.
 
-One person may occupy several roles, but the authority attached to each role differs. A mentor who says “I think you are ready” has not necessarily nominated you. A colleague who helps draft a proposal has not necessarily agreed to vote for it. A representative may convey a group's disagreement rather than endorse either side. Confusing these roles is one of the main ways legitimate relationship work becomes misleading.
+The same person may perform more than one of these roles, but each role carries different authority. A mentor who says, “I think you are ready,” has not necessarily nominated or endorsed you. A colleague who helps draft a proposal has not necessarily agreed to support it in a vote. A representative may accurately report disagreement within a group without supporting either position. Problems arise when one form of support is presented as though it implied another.
 
-The existence of a relationship also says little about its quality. Research on mentoring suggests that the relationship's design and substance matter; merely being able to name a mentor does not establish that the relationship is useful or fair.[^4]
+The existence of a relationship also does not establish its quality or value. Research on mentoring indicates that the structure and substance of the relationship matter; simply being able to identify someone as a mentor does not show that the relationship is effective or equitable.[^4]
 
-Whenever support matters to a decision, ask four questions: Who supports it? What exactly do they support? Under what authority or conditions? Which version did they review? These questions form the spine of the five patterns that follow.
+When support could affect a decision, ask four questions: Who is providing the support? What exactly have they agreed to support? What authority or conditions apply? Which version of the proposal did they review? These questions provide the basis for the five patterns examined next.
 
 ## 1. Sponsorship without transparency
 
-Sponsors do more than offer praise. They take reputational action: putting a name forward, creating access, defending a proposal, or asking another decision-maker to pay attention. This can correct organisational blind spots. Good work is not automatically visible, and fair ideas do not move simply because they are fair.
+Sponsors do more than praise someone or express general support. They use their standing to take a specific action, such as recommending a person, creating access to a decision-maker, defending a proposal, or asking others to consider an issue. This can help correct organisational blind spots because strong work and sound ideas do not always become visible on their own.
 
-Transparency does not require every conversation to be public. Candid advocacy often happens in private. The relevant questions are whether the basis of support is honest, material interests are disclosed, and—when the stakes require it—the opportunity route extends beyond a single private relationship.
+Transparency does not require every act of advocacy to occur publicly. Sponsors often need private conversations to speak candidly. The important questions are whether the reasons for the support are accurate, whether relevant personal or financial interests are disclosed, and whether significant opportunities can be reached through more than one private relationship.
 
-Suppose a senior lawyer recommends a colleague for general counsel. She has worked with him for ten years and trusts his judgement. That history is both relevant evidence and a possible source of partiality. A sound process can hold both facts. The sponsor discloses the relationship, describes the capabilities she has observed, and does not control the entire selection. Other candidates have a route to consideration against stated criteria.
+Consider a senior lawyer who recommends a colleague for general counsel. She has worked with him for ten years and has direct evidence of his judgment and performance. That experience is relevant, but the long relationship may also affect her impartiality. A fair process can recognise both facts. The sponsor discloses the relationship, explains the capabilities she has observed, and does not control the entire selection process. Other qualified candidates are considered against stated criteria.
 
-Opaque sponsorship uses status as a substitute for reasons: “The chief executive wants this” or “She comes highly recommended.” Transparent sponsorship identifies who supports what and why: “The chief executive asked us to explore this option because it may reduce launch risk; the investment decision remains with this committee.”
+Opaque sponsorship relies on status instead of reasons: “The chief executive wants this” or “She comes highly recommended.” Transparent sponsorship states who supports what and on what basis: “The chief executive asked us to examine this option because it may reduce launch risk; this committee still holds authority over the investment decision.”
 
-If you seek sponsorship, ask for a defined act. “Would you introduce me to the program chair and say that you have seen me lead two similar projects?” is clearer than “Can you put in a good word?” The specific request allows the sponsor to accept, narrow, or decline. It also reduces the temptation to enlarge the support later.
+When seeking sponsorship, ask for a specific action. “Would you introduce me to the programme chair and explain that you have seen me lead two similar projects?” is clearer than “Can you put in a good word?” A defined request allows the sponsor to agree, limit the support, or decline. It also reduces the risk that the endorsement will later be exaggerated.
 
-If you are the sponsor, confirm the boundary in writing when the stakes are meaningful. State whether you endorse a person, a proposal, a trial, or merely further consideration. Advocacy becomes more credible when others can see what it does—and does not—mean.
+When acting as a sponsor, clarify the scope of your support when the stakes are significant. State whether you endorse the person, the full proposal, a limited trial, or only further consideration. Advocacy is more credible when others can see both what the endorsement covers and what it does not.
 
 ## 2. Trading support across decisions
 
