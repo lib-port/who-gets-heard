@@ -1,5 +1,5 @@
 # Chapter 3: Agendas and Attention
-*v0.1 release candidate*
+
 ## The item at 4:55
 
 Mateo has spent six weeks reviewing customer complaints about a new billing process. The problem is not catastrophic, but it is persistent: invoices are technically correct and regularly misunderstood, leading to calls, late payments, and avoidable distress. To address this, he is allocated ten minutes at the monthly operations meeting.

@@ -1,5 +1,4 @@
 # Introduction: The Work Behind the Work
-*v0.1 release candidate*
 
 On Tuesday morning, Elena learns that the executive committee will review the project she has led for four months at its Thursday meeting. She is pleased that the project has reached a senior forum, but then discovers that she will not attend. Her director will present the work and asks her to prepare three “self-contained slides” by the end of Tuesday.
 
@@ -39,7 +38,7 @@ The three maps may align. A project owner may receive the relevant information, 
 
 Such misalignment does not necessarily indicate wrongdoing. Organisations often adapt when circumstances change faster than formal procedures. An intermediary may solve a genuine coordination problem, a private briefing may help participants understand technical evidence, and a senior leader may present a junior colleague’s work because governance rules require senior representation. The relevant questions are whether the arrangement serves a legitimate purpose, is sufficiently transparent for the consequences involved, and can be corrected if it creates a problem.
 
-## ==Start with the process, not the person
+## Start with the process, not the person
 
 When a workplace event feels unfair or harmful, people often form an immediate explanation: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ That explanation may be correct, but it may also combine observable facts with past experience and assumptions about motive.
 

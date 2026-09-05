@@ -1,5 +1,5 @@
 # Chapter 1: Access and Opportunity
-*v0.1 release candidate*
+
 ## The invitation that never arrives
 
 Darius manages customer research at a software company. His team interviews clients, monitors product adoption, and investigates why features that initially appear promising sometimes fail. When the company establishes a monthly product council, Darius expects a research representative to attend, but no one from his team is invited.
