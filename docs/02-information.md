@@ -1,5 +1,5 @@
 # Chapter 2: Information
-*v0.1 release candidate*
+
 ## The version everyone thought they had
 
 Priya leads operations for a regional service business. On Friday afternoon, the finance team circulates a spreadsheet showing that one branch has exceeded its quarterly budget. At Monday’s review, Priya explains that the additional spending paid for emergency repairs authorised after a safety inspection. The chief operating officer is surprised because his version of the spreadsheet describes the cost as “unplanned local expenditure.” That comment does not appear in Priya’s version.

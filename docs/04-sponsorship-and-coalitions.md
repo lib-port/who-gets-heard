@@ -1,6 +1,6 @@
 # Chapter 4: Sponsorship and Coalitions
 
-## ==The support behind the proposal==
+## The support behind the proposal
 
 Nora wants her company to provide paid time for employees who mentor apprentices. The proposal would have little effect on the overall budget, but it requires coordination among operations, human resources, and finance. Her first written proposal receives no substantive response.
 
@@ -42,211 +42,223 @@ When acting as a sponsor, clarify the scope of your support when the stakes are 
 
 ## 2. Trading support across decisions
 
-Reciprocity is woven into cooperation. Colleagues help one another, and teams remember who contributes. A procurement leader supports a training initiative today; the training team helps with supplier onboarding next month. No organisation could function if every act were isolated from every relationship.
+Reciprocity is a normal part of organisational cooperation. Colleagues support one another, and teams remember where help has been given. A procurement leader may support a training initiative, and the training team may later assist with supplier onboarding. Organisations depend on these continuing relationships.
 
-Trading becomes problematic when support for one decision is conditioned on support for another without disclosure or substantive connection. “I will vote for your safety proposal if you vote for my office move” prevents each proposal from being evaluated on its merits. It may also commit people who are accountable to different stakeholders.
+Reciprocity becomes problematic when support for one decision is made conditional on support for an unrelated decision and that condition is not disclosed. “I will vote for your safety proposal if you vote for my office move” links two matters that should be assessed separately. It may also pressure participants to make commitments that conflict with their responsibilities to different stakeholders.
 
-The pressure can be subtle. A colleague reminds you how often they have supported your work immediately before asking for an endorsement. A leader says a team will receive budget flexibility if it remains “constructive” about a restructuring. A committee member treats dissent on one issue as disloyalty on the next.
+The pressure may be indirect. A colleague may remind you of previous favours immediately before asking for an endorsement. A leader may suggest that budget flexibility depends on a team remaining “constructive” about a restructuring. A committee member may treat disagreement on one issue as evidence of disloyalty on another.
 
-Do not treat every reminder, compromise, or package as corrupt. Negotiation often links issues, and reciprocal work can be efficient. Examine the connection, authority, and visibility. Are the decisions genuinely interdependent? Is the person entitled to commit the resource or vote? Do relevant parties know about the package? Can each part withstand scrutiny?
+Not every exchange, compromise, or combined proposal is improper. Negotiation often requires linked decisions, and reciprocal cooperation can be efficient. The relevant questions are whether the issues are genuinely connected, whether the people involved have authority to make the commitments, whether the conditions are visible to those affected, and whether each part of the arrangement can withstand independent scrutiny.
 
-A useful response separates the decisions without denying the relationship:
+A practical response can acknowledge the relationship while keeping the decisions separate:
 
-> I appreciate your help on the apprenticeship proposal. I need to assess the software purchase on its own business case. I am happy to review it, but I cannot promise support in exchange.
+> I appreciate your support for the apprenticeship proposal. I need to assess the software purchase on its own business case. I am happy to review it, but I cannot commit my support in exchange.
 
-Leaders can reduce hidden exchanges by requiring members to state any material conditions attached to their support. A committee may still approve a negotiated package, but it should know that it is approving one.
+Leaders can reduce hidden exchanges by requiring participants to disclose material conditions attached to their support. A committee may still approve a negotiated package, but it should understand which commitments are linked and why.
 
 ## 3. Using a messenger's status
 
-Who speaks affects what a room hears. The same idea may be treated as practical when voiced by an operations veteran, strategic when voiced by an executive, and naïve when voiced by a new employee. Expertise and accountability sometimes justify different responses. Status can also crowd out substance. Research on organisational power connects structural position with influence behaviour without turning that relationship into an ethical verdict about any particular act.[^3]
+Who delivers an idea can affect how it is received. The same proposal may be seen as practical when presented by an experienced operations leader, strategic when presented by an executive, and unrealistic when presented by a new employee. Differences in expertise and accountability can justify different levels of confidence, but status can also influence judgment independently of the evidence. Research on organisational power examines the relationship between structural position and influence without implying that every use of status is improper.[^3]
 
-Choosing an effective messenger is not inherently deceptive. Nora's operations director understands the committee and can translate her proposal. A junior analyst may reasonably ask a senior manager to present a risk to a forum the analyst cannot enter. A community liaison may carry information in a form leaders can understand.
+Using an influential messenger is not inherently deceptive. Nora’s operations director understands the committee and can explain the proposal in terms that matter to its members. A junior analyst may reasonably ask a senior manager to present a risk to a forum the analyst cannot attend. A community liaison may help translate local concerns into language that decision-makers can use.
 
-The ethical test is whether the translation preserves authorship, evidence, uncertainty, and the messenger's actual authority. A sound introduction might say:
+The important question is whether the messenger preserves the source, evidence, uncertainty, and limits of their authority. A clear introduction might say:
 
-> Nora developed this proposal with input from three sites, HR, and finance. I support a pilot because the production and retention evidence merits testing. Nora will take us through the design.
+> Nora developed this proposal with input from three sites, HR, and finance. I support a pilot because the production and retention evidence deserves testing. Nora will explain the design.
 
-This introduction uses status to open attention while keeping the source and limits visible. A misleading version says, “Operations has agreed a solution,” then presents Nora's work without naming her or confirming the sites' positions.
+This uses the director’s status to gain attention without obscuring authorship or overstating support. A misleading introduction would say, “Operations has agreed a solution,” while presenting Nora’s work without naming her or confirming whether the sites actually support it.
 
-When someone else must carry your work, agree on four points: the exact claim, the evidence, the attribution, and who will answer questions. Send a concise written summary and review the record afterward. This is not mistrust; it is ordinary handoff discipline.
+When another person presents your work, agree in advance on four points: the claim being made, the evidence supporting it, how authorship will be acknowledged, and who will answer questions. Provide a concise written summary and check the formal record afterward. These are standard handoff controls, not signs of mistrust.
 
-Managers should also ask why the original source cannot be heard. Sometimes the answer is a legitimate governance rule. Sometimes the organisation has trained itself to listen only upward. Requiring a high-status translator every time wastes expertise and gives that translator an avoidable bottleneck.
+Managers should also examine why the original source cannot contribute directly. Sometimes a legitimate governance rule limits attendance. In other cases, the organisation may have developed a habit of listening only when information is carried by someone more senior. Requiring a high-status intermediary for routine contributions wastes expertise and creates an unnecessary bottleneck.
 
 ## 4. Implying support that has not been confirmed
 
-Implied endorsement often hides in grammar: “Leadership is comfortable,” “Legal has seen it,” “The team is aligned,” or “Maria thinks this is the way forward.” Each phrase can mean several things. Legal may have reviewed one clause without endorsing the transaction. Maria may have said that the option was worth exploring. The team may agree on the problem and disagree on the solution.
+Implied endorsement often appears in vague statements such as “Leadership is comfortable,” “Legal has seen it,” “The team is aligned,” or “Maria thinks this is the way forward.” Each phrase can imply more support than was actually given. Legal may have reviewed only one clause. Maria may have said that the option was worth exploring. The team may agree on the problem while disagreeing about the proposed solution.
 
-Names and institutions carry legitimacy, so vague references can change a decision even when no sentence is literally false. The remedy is to confirm support at the level of the claim.
+Because names, titles, and functions carry authority, vague references can influence a decision even when the words are technically accurate. The solution is to describe support precisely.
 
 Ask:
 
-- Which person or body expressed support?
-- Which version or proposition did they review?
-- Was the response advice, no objection, recommendation, or approval?
-- Did they attach conditions?
-- Is the speaker authorised to relay it?
+- Who expressed the view?
+- Which version or proposal did they review?
+- Did they provide advice, raise no objection, recommend the option, or formally approve it?
+- Were any conditions attached?
+- Is the person reporting the view authorised to do so?
 
-These questions need not be hostile. “To record this accurately, did legal approve the approach or only confirm that it does not require legal sign-off?” protects everyone. Professional functions are often frustrated when “consulted” becomes “approved.”
+These questions can be asked neutrally. For example: “To record this accurately, did legal approve the approach, or did legal confirm only that formal sign-off was not required?” This distinction protects both the decision-maker and the professional function whose advice is being described.
 
-If someone overstates your view, correct the record promptly and precisely: “I supported testing the option; I did not approve organization-wide implementation.” Avoid a broad denial that creates more ambiguity. If the decision has already moved forward, ask for the correction to reach the same audience as the original claim.
+If someone overstates your position, correct the record promptly and specifically: “I supported testing the option; I did not approve organisation-wide implementation.” Avoid a general denial that leaves the original scope unclear. If the overstated claim has already been circulated, the correction should reach the same audience.
 
-Technology makes implied endorsement easier. A name in a document history, a reaction emoji, or attendance at a call may be interpreted as support. Define what approval looks like: a named decision field, recorded vote, signed authorisation, or explicit written statement. Presence is not consent.
+Digital tools create additional opportunities for implied endorsement. Appearing in a document history, reacting with an emoji, or attending a meeting does not necessarily indicate approval. Define approval explicitly through a recorded vote, named decision field, signed authorisation, or clear written confirmation. Presence is not consent.
 
 ## 5. Bundling separate commitments
 
-Bundling can reflect genuine interdependence. A new service may require staffing, technology, and training together; approving only one part would invite failure. Negotiated packages can also help groups with different priorities reach a workable settlement.
+Bundling can be appropriate when several decisions are genuinely interdependent. A new service, for example, may require staffing, technology, and training to be approved together because any one component would be ineffective on its own. Negotiated packages can also help groups with different priorities reach an acceptable overall agreement.
 
-Bundling becomes problematic when unrelated or weakly connected items are packaged to borrow support, suppress dissent, or make refusal unreasonably costly. A popular employee benefit is tied to an unpopular policy change. A necessary security upgrade includes a discretionary analytics tool. Several appointments appear as one slate without any reason they must stand together.
+Bundling becomes problematic when unrelated or loosely connected items are combined in ways that make independent judgment difficult. A popular employee benefit may be tied to a controversial policy change. A required security upgrade may be packaged with an optional analytics tool. Several appointments may be presented as a single slate even though there is no operational reason they must be approved together.
 
-Apply four tests. First, **functional connection**: what fails if the components are separated? Second, **decision authority**: does the same body have legitimate authority over every component? Third, **visibility**: can participants see each component's cost, benefit, risk, and sponsor? Fourth, **choice**: may the body amend or approve components separately?
+Four questions help assess whether a package is justified:
 
-Not every package needs to be dismantled. Sometimes it is enough to show the component decisions and their dependencies:
+1. **Functional connection:** What would fail if the components were considered separately?
+2. **Decision authority:** Does the same forum have legitimate authority over every component?
+3. **Visibility:** Can participants identify the cost, benefit, risk, and responsible owner of each component?
+4. **Choice:** Can participants amend, defer, reject, or approve individual components where appropriate?
 
-| Component | Needed for | Cost | Owner | Can proceed separately? |
-|---|---|---:|---|---|
-| Mentor time allowance | credible pilot | stated cost | Operations | no |
-| Retention measurement | evaluation | stated cost | HR analytics | yes, but before pilot end |
-| Overtime policy change | wider workforce policy | stated cost | HR policy | yes |
+A package does not always need to be divided. Sometimes the better solution is to show clearly which elements depend on one another:
 
-The table makes the design visible. Nora's mentoring pilot and its measurement belong together. The overtime change can receive its own consultation and decision. Separation does not defeat compromise; it prevents one worthy idea from becoming a vehicle for another.
+|Component|Needed for|Cost|Owner|Can proceed separately?|
+|---|---|--:|---|---|
+|Mentor time allowance|credible pilot|stated cost|Operations|no|
+|Retention measurement|evaluation|stated cost|HR analytics|yes, but before pilot end|
+|Overtime policy change|wider workforce policy|stated cost|HR policy|yes|
+
+This makes the relationships between the decisions explicit. Nora’s mentoring pilot and its evaluation process are sufficiently connected to be considered together. The overtime policy change is not necessary for the pilot and can therefore receive separate consultation and approval. Separating weakly connected items does not prevent compromise; it allows each proposal to be assessed on its own merits.
 
 ## The ethics of coalition building
 
-A constructive coalition has a shared purpose, accurate membership, explicit differences, and bounded commitments. Members know what they are supporting. They may support it for different reasons and need not agree on everything.
+A constructive coalition is built around a clearly defined purpose, an accurate account of who supports it, visible areas of disagreement, and limits on what each member has agreed to. Members may support the same outcome for different reasons and do not need to agree on every related issue.
 
-Before describing a coalition, answer five questions:
+Before describing a coalition, establish five points:
 
-1. What exact outcome brings the members together?
-2. Who has explicitly agreed to be named?
-3. What evidence or version did each member review?
-4. Which material interests or conditions should be disclosed?
-5. Where do members still disagree?
+1. What specific outcome do the members support?
+2. Who has explicitly agreed to be identified as a supporter?
+3. Which proposal, evidence, or version did each person review?
+4. What material interests, conditions, or conflicts should be disclosed?
+5. Which important issues remain unresolved?
 
-The final question strengthens support rather than weakening it. “All three departments support a six-month pilot; finance and operations differ on the long-term funding model” is more credible than “Everyone is aligned.” It allows decision-makers to approve what is genuinely shared while preserving the unresolved issue.
+Acknowledging disagreement can make the coalition more credible. “All three departments support a six-month pilot; finance and operations disagree about the long-term funding model” is more precise than “Everyone is aligned.” It allows decision-makers to identify what has actually been agreed and what still requires discussion.
 
-Coalitions should not use vulnerable members as decoration. A worker group, community representative, or junior employee may be named to demonstrate inclusion without having shaped the position. Ask whether the person had sufficient time and information and was free to disagree. Consent to be consulted is not consent to be displayed as an endorsement.
+Coalitions should not present vulnerable or less powerful participants as evidence of inclusion unless those participants meaningfully contributed to the position. A worker group, community representative, or junior employee may be named as a supporter even though they had little opportunity to review or influence the proposal. Check whether they received sufficient information and time, participated meaningfully, and were free to disagree. Agreeing to be consulted does not mean agreeing to be presented as an endorser.
 
-Power differences also alter reciprocity. A request from a peer is not equivalent to a request from someone who controls pay, assignments, or employment. Senior people should make refusal safe: “I am asking for your independent view; your answer will not affect my support for your project.” That assurance must be matched by behaviour over time.
+Power differences also affect whether support is genuinely voluntary. A request from a colleague is different from a request made by someone who controls pay, assignments, promotion, or continued employment. Senior people should make clear that disagreement will not carry unrelated consequences: “I am asking for your independent view. Your answer will not affect my support for your project.” The credibility of that assurance depends on consistent behaviour over time.
 
 ## Dissent inside a coalition
 
-Coalitions often become less honest as they become more successful. Members fear that visible disagreement will weaken the cause, so they suppress internal concerns and present a smooth front. Short-term unity creates long-term fragility. If the proposal succeeds, unresolved differences reappear during implementation. If a critic exposes them, the coalition looks deceptive.
+Coalitions can become less transparent as they gain support. Members may worry that visible disagreement will weaken the proposal, so they minimise internal differences and present a unified position. This may help in the short term, but unresolved disagreements often reappear during implementation. If they later become visible, the coalition may appear to have overstated its level of agreement.
 
-Healthy coalitions distinguish foundational agreement from design disagreement. Members may share the goal of paid mentoring time while differing on eligibility, amount, or funding. Record those layers. Decide which disagreements must be resolved before approval and which can be tested through a pilot.
+A stronger coalition separates agreement on the main objective from disagreement about design. Members may all support paid mentoring time while differing on eligibility, the amount of time provided, or how the programme should be funded. These differences should be recorded. The group can then decide which issues must be resolved before approval and which can be tested through a pilot.
 
-A coalition also needs a way to change its position. New evidence may require revision. Without an agreed process, the most powerful member may announce the change or treat an early endorsement as permanent. Use version numbers, brief reconfirmation, and a right to withdraw one's name without retaliation. A withdrawn endorsement should not be recast as betrayal; it is information about the current proposal.
+Coalitions also need a clear way to revise their position when new evidence emerges. Without one, the most influential member may redefine the group’s position or treat an earlier endorsement as permanent. Use version numbers, ask members to reconfirm material changes, and allow participants to withdraw their names without retaliation. A withdrawn endorsement should be treated as updated information about the current proposal, not as disloyalty.
 
-The spokesperson bears a particular duty: they must not convert the coalition's internal range into personal discretion. Before a meeting, agree on what the spokesperson may negotiate, what requires further consultation, and how they will report back. In fast-moving settings, ranges can help: “We may accept a three- to six-month pilot, but any permanent funding model returns to the group.”
+The spokesperson should also have defined limits. Before a meeting, agree on what they may negotiate, which changes require further consultation, and how they will report back. In fast-moving situations, an agreed range can provide flexibility: “We can support a pilot lasting three to six months, but any permanent funding arrangement must return to the group for approval.”
 
 ## Sponsorship, favouritism, and fair criteria
 
-From the outside, sponsorship and favouritism can look identical: a powerful person opens an opportunity for someone they know. The distinction cannot rest on the sponsor's good intentions. It rests on the relationship between the advocacy and a fair process.
+From the outside, sponsorship and favouritism can look similar: an influential person helps someone they know gain access to an opportunity. The difference should not depend on the sponsor’s stated intentions. It should be assessed by whether the advocacy operates within a fair and reviewable process.
 
-Consider four questions. Is the opportunity visible at a level appropriate to its importance? Does the sponsor offer evidence connected to stated requirements? Can other qualified people reach consideration through another route? Is the final decision made or reviewed by someone able to assess the recommendation independently?
+Four questions help:
 
-No single answer settles every case. A leader may need to appoint a trusted deputy quickly during a crisis without conducting a broad search. That exception should be time-limited and explained. A long-term appointment, promotion, award, or paid opportunity deserves a more open process. The greater the consequence and the harder the result is to reverse, the stronger the case for stated criteria, multiple inputs, and a record.
+1. Is the opportunity communicated widely enough for its significance?
+2. Does the sponsor provide evidence linked to the stated selection criteria?
+3. Can other qualified candidates reach consideration through another route?
+4. Is the final decision made or reviewed by someone able to assess the recommendation independently?
 
-Sponsors sometimes resist this structure: “If my judgment is not trusted, why ask me?” Independent review does not erase judgement; it makes the judgement legible. A sponsor may know that a candidate handles ambiguity, earns client trust, or recovers well from mistakes—qualities an application form may not reveal. Those observations belong in the evidence. What becomes less acceptable is a preference that cannot be explained beyond familiarity.
+No single rule applies in every situation. During a crisis, a leader may need to appoint a trusted deputy quickly without running an open selection process. That exception should be explained and limited in duration. A permanent appointment, promotion, award, or paid opportunity usually requires greater transparency. The more consequential and difficult to reverse the decision, the stronger the need for clear criteria, multiple sources of input, and a documented rationale.
 
-People without sponsors are often told to find one, as though access to powerful advocates were equally available. A fair organisation works from both directions. Individuals can build relationships and make their aspirations known. Leaders can use open office hours, evidence-based talent reviews, rotating exposure, and multiple nomination routes to notice people beyond their immediate networks.
+Some sponsors may see independent review as a challenge to their judgment. It is better understood as a way to make that judgment visible and assessable. A sponsor may know that a candidate handles uncertainty well, earns client trust, or recovers effectively from mistakes—qualities that a standard application may not capture. Those observations are useful evidence. A preference based only on familiarity is harder to justify.
+
+Organisations should not rely solely on individuals to find influential sponsors. Employees can build relationships and communicate their ambitions, but leaders should also create ways to identify capable people outside their immediate networks. Open office hours, evidence-based talent reviews, rotating exposure to senior forums, and multiple nomination routes can broaden access to sponsorship and opportunity.
 
 ## Conflicts of interest are not moral stains
 
-People bring relationships and interests to decisions. A sponsor may be a former colleague. A committee member may lead a team that would benefit from funding. A representative may have publicly advocated for an option. The existence of an interest does not establish improper conduct.
+People often bring prior relationships, responsibilities, or interests into organisational decisions. A sponsor may have worked with a candidate before. A committee member may lead a team that could benefit from additional funding. A representative may already have argued publicly for one option. The existence of such an interest does not, by itself, prove bias or misconduct.
 
-Disclosure allows the process to decide how to manage the interest. Depending on the stakes, the person may provide information but not vote, participate fully with the interest recorded, or step out. Overreaction also carries a cost: excluding everyone with relevant experience may leave only uninformed decision-makers.
+Disclosure allows the organisation to decide how the interest should be managed. Depending on its significance, the person may provide relevant information but not vote, participate fully with the interest recorded, or withdraw from part or all of the decision. Excessive exclusion can also weaken the process by removing people with useful knowledge and leaving less informed decision-makers.
 
-A practical disclosure states the relationship, its relevance, and the proposed safeguard:
+A useful disclosure identifies the relationship, explains why it matters, and proposes a safeguard:
 
-> I worked with the candidate for four years and recommended that she apply. I can answer questions about her work, but I will not score or vote.
+> I worked with the candidate for four years and encouraged her to apply. I can provide information about her work, but I will not score the application or vote on the appointment.
 
-Organisations should define which interests require disclosure and who decides the response. Ad hoc rules invite selective enforcement—strict scrutiny for an outsider, casual acceptance for an insider. A consistent process protects both fairness and reputation.
+Organisations should define which interests must be disclosed and who has authority to decide how they will be managed. Rules applied only when concerns arise can produce inconsistent treatment. A clear and consistent process protects both the fairness of the decision and confidence in its legitimacy.
 
 ## Relationship norms differ across workplaces
 
-Some organisations expect direct individual advocacy. Others give more weight to seniority, group consultation, or trusted intermediaries. In one workplace, asking a powerful person for sponsorship may look proactive; in another, it may appear presumptuous or disloyal to the reporting line. Remote and multinational teams often contain several of these expectations at once.
+Workplaces differ in how people are expected to seek support and opportunity. Some encourage direct self-advocacy, while others place more weight on seniority, group consultation, or established intermediaries. Asking a senior person for sponsorship may be viewed as initiative in one organisation and as bypassing the reporting line in another. Remote and multinational teams may contain several of these expectations at the same time.
 
-Do not interpret a quieter or indirect style as a lack of ambition or support. Make formal opportunity routes capable of receiving different communication styles. Allow written expressions of interest as well as public self-nomination. Give people time to consult their group. Explain whether a manager's approval is required or merely invited.
+A quieter or more indirect communication style should not be treated as evidence of low ambition or weak support. Formal opportunity processes should allow people to participate in different ways. Employees should be able to express interest in writing as well as publicly, have time to consult relevant colleagues where appropriate, and know whether manager approval is required or simply encouraged.
 
-Nor does a verbal “yes” carry the same meaning in every setting. It may express agreement, respect, willingness to consider, or reluctance to refuse in public. For a consequential commitment, summarise the proposition and invite correction without embarrassment: “My understanding is that you support the pilot described in version 3 and are comfortable being named. Please correct me if I have overstated that.”
+Verbal agreement can also be ambiguous. A “yes” may indicate firm support, willingness to consider the proposal, politeness, or discomfort with refusing in public. For important commitments, restate the agreement clearly and allow the person to correct it:
 
-This is not an invitation to stereotype national cultures. Individuals vary, and organisational subcultures can be more influential than geography. Good confirmation simply reduces the burden on people to decode one another's relationship norms.
+> My understanding is that you support the pilot described in version 3 and are comfortable being named as a supporter. Please correct me if that overstates your position.
+
+This approach does not rely on assumptions about national culture. Individuals differ, and workplace norms may matter more than geography. Clear confirmation reduces the need for people to interpret unfamiliar communication and relationship conventions.
 
 ## When you are asked to lend your name
 
-Before endorsing a person or proposal, decide what due diligence is proportionate. You need not repeat every analysis, but you should understand the central claim, the supporting evidence, the material risks, and the limits of your knowledge.
+Before endorsing a person or proposal, decide how much review is appropriate to the significance of the decision. You do not need to repeat every analysis, but you should understand the main claim, the evidence supporting it, the material risks, and any limits on what you have verified.
 
-State your support at the right level:
+State the scope of your support precisely:
 
-- “I know this person's work and recommend them for interview.”
-- “I support a pilot, subject to safety review.”
-- “I agree with the problem statement but have not assessed the proposed vendor.”
-- “I introduced the team; I am not a project sponsor.”
+- “I know this person’s work and recommend them for interview.”
+- “I support a pilot, subject to completion of the safety review.”
+- “I agree with the problem statement but have not evaluated the proposed vendor.”
+- “I introduced the team; I am not sponsoring the project.”
 
-Then ask how your name will be used. Will it appear in a paper, be repeated verbally, or imply ownership of the budget? If the proposal changes materially, require reconfirmation. If your role creates an apparent conflict, disclose it.
+Also clarify how your endorsement will be represented. Will your name appear in a decision paper? Will others quote your support verbally? Could it be interpreted as approval of funding or ownership of the proposal? If the proposal changes materially, require your support to be confirmed again. Disclose any relationship or responsibility that could create a relevant conflict of interest.
 
-Lending a name can be generous and valuable. It is also an exercise of organisational power. Precision protects the person you support, the decision-maker, and your own credibility.
+Using your reputation to support someone or something can create valuable opportunities. It is also an exercise of influence. Clear boundaries protect the person or proposal you support, the decision-maker relying on your endorsement, and your own credibility.
 
 ## Common mistakes around support
 
-The first mistake is pretending to be above relationships. Refusing to build support does not make a proposal apolitical; it often leaves the field to people who already have access. Ethical advocacy is a skill worth learning.
+The first mistake is assuming that avoiding relationships makes a proposal neutral. Refusing to build support does not remove politics from the process; it may simply give an advantage to people who already have access and influence. Building support openly and responsibly is a legitimate organisational skill.
 
-The second is treating every private conversation as suspect. People need room to test ideas and understand interests. Focus on undisclosed commitments and misrepresented outcomes, not the mere fact that people spoke.
+The second mistake is treating every private conversation as evidence of improper influence. People need space to test ideas, understand concerns, and explore possible agreements. The relevant questions are whether important commitments were concealed or whether the outcome of those conversations was represented inaccurately.
 
-The third is collecting endorsements before defining the proposal. A supporter may agree with an aspiration and later find their name attached to a detailed plan. Use versioned summaries and reconfirm support after material changes.
+The third mistake is seeking endorsements before the proposal is clearly defined. Someone may support the general objective and later discover that their name has been attached to a detailed plan they never reviewed. Use versioned summaries and ask supporters to reconfirm their endorsement after material changes.
 
-The fourth is borrowing a powerful name to avoid explaining the case. Authority may be relevant, but a decision still needs a basis. Ask what the named person decided and under which mandate.
+The fourth mistake is using a powerful person’s name as a substitute for explaining the proposal. Senior support may be relevant, but it does not remove the need for evidence and decision criteria. Clarify what the person actually supported, what authority they exercised, and whether the decision still belongs to another forum.
 
-The fifth is assuming coalition size proves correctness. Ten groups can share an interest and still be wrong. Coalitions affect feasibility and legitimacy; they do not replace evidence.
+The fifth mistake is assuming that a large coalition proves that a proposal is correct. Broad support may improve feasibility, legitimacy, or implementation, but it does not establish that the underlying analysis is sound. Evidence and support should be assessed separately.
 
 ## A response ladder for ambiguous support
 
-- **Clarify the proposition.** Ask which person, proposal, version, or condition has support.
-- **Confirm with the source.** Where appropriate and authorised, obtain a direct statement. Do not pressure anyone to reveal a confidential view; use the formal decision record when one exists.
-- **Separate components.** Show which commitments depend on one another and which can be decided independently.
-- **Declare relevant interests.** Record relationships and conditions at a level proportionate to the stakes.
-- **Correct the same audience.** If support was overstated, ensure the correction reaches the people whose decision it influenced.
-- **Escalate the process, not the rumour.** If the problem recurs, ask the governance owner to define endorsement, representation, conflicts, and approval. Do not build a counter-coalition merely to punish another group.
+- **Clarify the support.** Identify the exact person, proposal, version, or condition that has been endorsed.
+- **Confirm with the source.** Where appropriate and authorised, obtain a direct statement from the person or body whose support is being cited. Do not pressure anyone to disclose a confidential view; use the formal record when one exists.
+- **Separate linked decisions.** Distinguish which commitments genuinely depend on one another and which can be considered independently.
+- **Disclose relevant interests.** Record material relationships, conditions, or conflicts in proportion to the significance of the decision.
+- **Correct the original audience.** If support was overstated, make sure the correction reaches the same people who received or relied on the original claim.
+- **Escalate the process, not the conflict.** If the problem recurs, ask the responsible governance owner to clarify the rules for endorsement, representation, conflicts, and approval. Do not respond by building an opposing coalition simply to counter another group.
 
-The ladder moves from clarification to governance. Most ambiguity can be corrected near its source; recurring or consequential misuse requires a stronger process.
+This sequence moves from simple clarification to stronger governance controls. Most ambiguity can be corrected close to its source. Repeated or consequential misrepresentation requires a more formal response.
 
 ## For managers: make advocacy auditable, not lifeless
 
-An organisation can preserve healthy informal influence while establishing a few clear boundaries:
+An organisation can support useful informal influence while setting clear limits around consequential decisions:
 
-- Major nominations and proposals identify their sponsors and the basis of support.
-- Decision papers distinguish consultation, endorsement, recommendation, and approval.
-- Material conditions and conflicts are disclosed.
-- Changes made after endorsement trigger reconfirmation when they alter the substance.
-- Representatives state their mandate and report disagreement accurately.
-- Bundled proposals show component costs, owners, dependencies, and amendment options.
-- People who contribute analysis or design receive visible attribution even when a senior sponsor presents.
+- Major nominations and proposals identify the sponsor and the reasons for their support.
+- Decision papers distinguish among consultation, endorsement, recommendation, and formal approval.
+- Material conditions, interests, and conflicts are disclosed.
+- Significant changes made after endorsement trigger reconfirmation when they alter what was originally supported.
+- Representatives state the scope of their authority and report disagreement accurately.
+- Bundled proposals identify the cost, owner, dependency, and amendment options for each component.
+- People who contribute significant analysis or design receive visible credit, even when a senior sponsor presents the work.
 
-Do not require a form for every encouraging conversation. Apply these controls when support affects money, employment, safety, policy, recognition, or another consequential outcome.
+These controls should be proportionate. Routine encouragement and informal advice do not require formal documentation. Stronger controls are appropriate when support may affect money, employment, safety, policy, recognition, or another significant outcome.
 
-Nora uses this approach to reset the apprenticeship proposal. The three sites confirm support for a pilot, not a permanent programme. The finance analyst's software request receives a separate review. HR removes the overtime change. The operations director introduces Nora and describes the coalition accurately. The committee approves the pilot with measures and a review date.
+Nora applies these principles to the apprenticeship proposal. Managers at the three consulted sites confirm support for a pilot rather than a permanent programme. The finance analyst’s software proposal is separated and reviewed independently. HR removes the proposed overtime-policy change. The operations director introduces Nora, accurately describes the extent of support, and explains the remaining limits. The committee approves a pilot with defined measures and a review date.
 
-The coalition becomes smaller on paper and stronger in reality.
+The proposal now claims less support, but the support it claims is clearer and more reliable.
 
 ## Practice: make a support map
 
-Choose one proposal or opportunity that depends on advocacy. Create four columns:
+Choose one proposal or opportunity that relies on advocacy or support. Create a simple table:
 
-| Person or group | Role in support | Exact commitment | Condition or interest |
+|Person or group|Role in support|Exact commitment|Condition or interest|
 |---|---|---|---|
-| Example: regional manager | evidence provider | supplied staffing data | wants pilot at two sites |
+|Example: regional manager|evidence provider|supplied staffing data|wants pilot at two sites|
 
-Then ask:
+Then check five points:
 
-1. Have they agreed to be named?
-2. Does the current version still match what they reviewed?
-3. Are you treating advice as endorsement or silence as consent?
-4. Is any reciprocal expectation undisclosed?
-5. Which components could be decided separately?
+1. Has each person or group agreed to be identified?
+2. Does the current proposal still match the version they reviewed?
+3. Are you describing advice as endorsement or treating silence as agreement?
+4. Is any reciprocal expectation or condition undisclosed?
+5. Which parts of the proposal could be considered separately?
 
-Finish by writing one accurate sentence that describes the support, including an unresolved difference. If the sentence sounds less impressive than “everyone agrees,” it may also be far more trustworthy.
+Finish by writing one sentence that describes the support accurately, including any important disagreement or limitation. If the result sounds less impressive than “everyone agrees,” it may also be more reliable.
 
-Coalitions help ideas gather force. The next chapter examines the formal and informal machinery through which that force becomes a decision.
+Coalitions help proposals build support and reach decision-makers. The next chapter examines the formal and informal processes through which that support is converted into a decision.
 
 [^1]: William B. Stevenson, Jone L. Pearce, and Lyman W. Porter, “The Concept of ‘Coalition’ in Organization Theory and Research,” *Academy of Management Review* 10, no. 2 (1985): 256–268, [https://doi.org/10.5465/amr.1985.4278178](https://doi.org/10.5465/amr.1985.4278178).
 
