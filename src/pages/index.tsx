@@ -342,7 +342,7 @@ export default function Home() {
                 </Link>
                 <Link
                   className={styles.closingTextAction}
-                  to="/introduction#know-when-this-book-is-not-enough"
+                  to="/introduction#when-to-seek-formal-or-specialist-support"
                 >
                   Read the safeguards
                 </Link>
