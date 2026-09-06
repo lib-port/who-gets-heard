@@ -1,6 +1,6 @@
 # Chapter 2: Information
 
-## The version everyone thought they had
+## Case: Priya’s budget review uses different spreadsheet versions
 
 Priya leads operations for a regional service business. On Friday afternoon, the finance team circulates a spreadsheet showing that one branch has exceeded its quarterly budget. At Monday’s review, Priya explains that the additional spending paid for emergency repairs authorised after a safety inspection. The chief operating officer is surprised because his version of the spreadsheet describes the cost as “unplanned local expenditure.” That comment does not appear in Priya’s version.
 
@@ -12,7 +12,7 @@ Teams require both shared information and knowledge specific to particular roles
 
 This distinction matters because groups tend to give more weight to information already known by several participants than to relevant information introduced by only one person. This can occur even when the less widely shared information is necessary for the best decision.[^1] Poor distribution makes that tendency stronger. Effective information design helps the group identify and consider evidence that might otherwise remain overlooked.
 
-## Fair access is more than receiving the same notice
+## Equal notice does not ensure usable information
 
 Saying that “everyone received the email” does not establish that everyone had an equal opportunity to understand the information or respond to it. A data analyst may receive a model they can examine, while a community representative receives a spreadsheet with forty undefined columns. A manager may receive a detailed verbal briefing, while a remote colleague receives only brief minutes. Employees may receive a new policy after senior leaders have already spent two weeks discussing its likely effects and forming their views.
 
@@ -28,7 +28,7 @@ Five questions can be used to assess whether access is fair:
 
 The aim is not to distribute every document to everyone. It is to ensure that each participant can perform their role effectively. That opportunity is commonly weakened by selective distribution, missing context, unequal advance briefings, knowledge held by only a few people, and information provided too late to influence the outcome.
 
-## 1. Selective distribution
+## 1. Participants receive different information
 
 A difference in distribution matters when participants in the same decision process receive substantially different information without a legitimate reason related to their roles, responsibilities, or legal obligations. The difference may concern who receives the material, which attachments or links are included, which version is sent, whether comments are visible, or what access permissions are granted.
 
@@ -45,7 +45,7 @@ When participants discover that they received different information, establish f
 
 In Priya’s case, the problem was not that executives received additional comments. The problem was that those comments characterised the expenditure in a way that branch managers could neither see nor correct, while the safety report explaining the cost had been removed. A common decision pack with a version number, a short explanation of the safety approval, and controlled links to restricted documents would have preserved both appropriate access and the context needed for the decision.
 
-## 2. Missing context
+## 2. Missing context in decision papers
 
 Every summary leaves out information; an executive paper cannot reproduce the complete history of a programme. The relevant question is whether the omitted information could materially change how a reasonable reader understands the decision.
 
@@ -81,7 +81,7 @@ A useful standard is the **common-core rule**: everyone responsible for the same
 
 Managers can make this standard visible by designating one document as the “common decision brief” and maintaining a single record of changes. Participants can then distinguish role-specific explanation from changes to the facts or options that everyone needs to know.
 
-## 4. Knowledge concentrated in one place
+## 4. Essential knowledge held by one person or team
 
 Specialisation allows organisations to divide complex work efficiently. Employees do not need to understand every system in detail; instead, teams learn who holds expertise in particular areas and rely on those people when relevant questions arise. Researchers sometimes describe this shared understanding of “who knows what” as a transactive memory system.[^3]
 
@@ -102,7 +102,7 @@ Effective knowledge transfer depends on several factors, including available tim
 
 The term _knowledge hoarding_ should be used carefully. Research often defines knowledge hiding as the intentional withholding of knowledge that another person has requested.[^5] That definition concerns motive, which cannot be inferred from a weak process alone. Begin with observable facts: requests remain unanswered, documentation is incomplete, or no authorised backup can perform the task. Possible causes include excessive workload, fear of becoming replaceable, poor incentives, confidentiality requirements, or a role that was never designed to include teaching. Each cause requires a different response.
 
-## 5. Information that arrives too late
+## 5. Information arrives too late for review
 
 Information may be formally accessible but arrive too late to be used properly. Releasing a 200-page contract at 4:00 p.m. for approval at 9:00 a.m. the next day gives reviewers the document, but not enough time for a meaningful assessment. Similarly, if a material risk is disclosed after a meeting has begun, the chair may need to pause or defer the decision, even when the underlying deadline is genuine.
 
@@ -118,7 +118,7 @@ A participant can make a specific and limited request:
 
 This statement does not refuse to participate. It explains the limitation, identifies the additional work required, and gives the group clear options.
 
-## More information can make the problem worse
+## Information overload can obscure important evidence
 
 When trust is low, organisations may respond by sending every document and message to everyone. This does not necessarily create transparency. Excessive distribution can obscure important information, expose confidential material unnecessarily, and leave recipients uncertain about who must review, respond, or act.
 
@@ -126,7 +126,7 @@ The five qualities of effective information—relevance, completeness, timelines
 
 Information systems should be designed to support informed action, not merely to maximise the amount of detail shared or the number of people who receive it.
 
-## Information and status
+## Status affects how information is judged
 
 The credibility given to information often depends on who presents it. A concern raised by a senior leader may be treated as strategically important, while the same concern raised by a frontline employee may be dismissed as an isolated experience. A spreadsheet from finance may be accepted without question, whereas an operational explanation may be required to justify every detail. Differences in expertise can reasonably affect how evidence is assessed, but organisational status is not a reliable measure of accuracy.
 
@@ -142,7 +142,7 @@ Anonymous contributions can reduce the influence of rank, especially when a grou
 
 Leaders can broaden the discussion by asking targeted questions such as: “What have we learned directly from customers?” “Which assumption has the least supporting evidence?” and “Who may hold relevant information that we have not yet considered?” These questions help the group move beyond facts already known to most participants. The purpose is not to require everyone to speak, but to identify relevant knowledge before an incomplete interpretation becomes a confident and self-reinforcing consensus.
 
-## Share uncertainty before it hardens
+## Report uncertainty early and make corrections visible
 
 People may delay sharing preliminary information because they worry that uncertainty will be interpreted as poor judgment or inadequate preparation. A forecast owner may wait until the figures are polished, a project manager may withhold a risk that could later disappear, and a leader may delay circulating a draft until all stakeholders agree. The information eventually appears more certain, but recipients have less time to question it, contribute evidence, or influence the outcome.
 
@@ -158,7 +158,7 @@ Such statements help recipients understand what decisions the information can su
 
 Corrections require the same clarity. Silently replacing a file leaves different participants relying on different versions. The organisation should identify the change, explain whether it affects the decision, and notify anyone who may have relied on the earlier information. Leaders strengthen this practice when they acknowledge and correct errors in their own work.
 
-## A case in full: the delayed safety note
+## Case: A launch briefing omits a failed safety test
 
 Consider a warehouse team preparing to launch a new packing line. On Friday, the project board receives a memo recommending that operations begin on Monday. The memo states that the safety review is “complete, subject to routine closeout,” but does not define that phrase. The worker representative receives the paper on Sunday evening and later learns from a supervisor that one of the guarding tests failed on Thursday.
 
@@ -172,7 +172,7 @@ After addressing the immediate risk, the organisation should review how the info
 
 This example also illustrates the limits of an information-process review. Such a review can identify late, inconsistent, or incomplete communication, but it cannot establish whether the equipment is safe. That judgment must be made by qualified personnel through the organisation’s authorised safety process.
 
-## Team norms that make information usable
+## Team rules for sharing usable information
 
 Teams can improve information flow without creating a complex knowledge-management system. A few clear working rules may be sufficient:
 
@@ -185,7 +185,7 @@ Teams can improve information flow without creating a complex knowledge-manageme
 
 These rules shift attention from appearing fully informed and in control to ensuring that people can coordinate effectively. They also reduce the need for participants to keep asking whether they have received the complete and current information.
 
-## Common traps in an information dispute
+## Common mistakes in information disputes
 
 The first mistake is assuming that access to information means the recipient understands it. Sending a technical model without definitions or guidance may transfer formal responsibility without enabling the person to interpret the results. Instead of merely directing someone to a file, identify what they need to understand or do and provide the information necessary for that purpose.
 
@@ -197,7 +197,7 @@ The fourth mistake is assuming that every late disclosure was deliberate. Inform
 
 The fifth mistake is using surveillance to address a lack of trust. Tracking whether every recipient opens every message may create privacy concerns and further damage working relationships. A better process clearly identifies critical information and requests explicit acknowledgement only when the importance of the material makes confirmation necessary.
 
-## For managers: build a common process
+## For managers: define how decision information is managed
 
 Teams do not need to store every document in a single repository. They need a consistent process for managing information used in important recurring decisions. For each decision, define:
 
@@ -214,7 +214,7 @@ This structure reduces unintended disclosure and unequal access to material info
 
 After the budget meeting, Priya’s company adopts this process. Finance provides an indexed workbook, a one-page explanatory summary, and permission-based links to supporting documents. Restricted comments are clearly identified and, where possible, summarised for the wider group. Any change requested by an executive is entered in the change log. The process does not prevent disagreement, but it ensures that participants are working from the same material facts and versions.
 
-## Practice: reconstruct an information path
+## Practice: trace who received what information and when
 
 Select a recent decision that surprised at least one participant or affected group. Create a simple timeline showing:
 
