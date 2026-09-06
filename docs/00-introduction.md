@@ -2,62 +2,62 @@
 
 On Tuesday morning, Elena learns that the executive committee will review the project she has led for four months at its Thursday meeting. She is pleased that the project has reached a senior forum, but then discovers that she will not attend. Her director will present the work and asks her to prepare three “self-contained slides” by the end of Tuesday.
 
-There may be legitimate reasons for this arrangement. The committee may limit attendance, the director may be expected to represent the department, or the agenda may not allow another presenter. Elena therefore does not immediately assume that anything improper is happening. However, several details raise questions. A colleague at the same level presented his own project to the committee the previous month. The director has not discussed how Elena’s contribution will be acknowledged. The presentation template allows only one project owner to be named, and the director has already entered his own name. When Elena asks whether she can join the meeting to answer questions, she receives no response.
+The committee may limit attendance, require the director to represent the department, or have no room for another presenter. Elena still has questions. A colleague at her level presented his project last month. Her director has not discussed credit, has entered his own name in the template’s single owner field, and has not answered her request to join for questions.
 
-These facts do not prove that the director intends to take credit for Elena’s work. They do identify a process that requires clarification. Who decides who attends? Are comparable projects handled consistently? How will Elena’s role be recorded? Will she have an opportunity to correct material omissions before the presentation becomes part of the organisation’s formal account? These questions focus on facts that can be checked rather than motives that cannot yet be established.
+Who selects presenters? Are comparable projects treated consistently? How will Elena’s contribution be recorded, and can she correct material omissions before the presentation enters the formal record? These questions identify what needs checking without assuming the director intends to take credit.
 
 This book examines the informal arrangements that shape how work moves through organisations: whose knowledge reaches decision-makers, which concerns receive attention, who receives recognition for successful work, and who is held responsible when something goes wrong. These arrangements are often described as “office politics.”
 
-The term usually has a negative meaning. It suggests flattery, manipulation, private alliances, and advancement through personal influence. Such behaviour does occur, but it represents only part of workplace politics. If politics is defined only as misconduct, we overlook the ordinary ways in which informal influence affects organisational decisions.
+“Office politics” often suggests flattery, manipulation, alliances, and advancement through influence. These occur, but defining politics only as misconduct obscures the ordinary informal choices that shape organisational life.
 
-Every organisation must allocate limited resources, including attention, information, authority, opportunity, money, and recognition. Formal rules cannot determine every allocation. People still decide what appears on an agenda, who attends a meeting, what counts as urgent, who is considered ready for an opportunity, how a shortfall is interpreted, and whether disagreement appears in the formal record. These judgments may be reasonable, careless, biased, generous, defensive, or influenced by several considerations at once. They are political in the broad sense that they affect who receives resources, opportunities, responsibility, and influence. They are not necessarily unethical or corrupt.
+Organisations allocate limited attention, information, authority, opportunity, money, and recognition. Formal rules leave room for judgement: who attends, what is urgent, who is ready, and how disagreement or shortfalls are recorded. These decisions distribute influence and resources. They may be reasonable, careless, biased, generous, or defensive without necessarily being corrupt.
 
-The challenge is to understand these dynamics without becoming either cynical or naïve. Treating every unclear decision as evidence of bad intent can lead to unsupported conclusions. Assuming that formal rules explain everything ignores the informal judgments and relationships through which much work is accomplished. A more useful approach takes informal influence seriously while distinguishing observable facts from assumptions about motive.
+Informal influence deserves serious examination. Distinguish what happened from assumptions about why it happened, while recognising that rules alone cannot explain every decision.
 
-## Discuss workplace politics without assuming motives
+## What workplace politics describes
 
-Workplace politics has been studied in several related ways. Researchers examine how people try to influence decisions, how effectively they navigate workplace relationships, and how political an organisation feels to its members.[^1] These are connected but distinct. A person may understand social dynamics without manipulating others. An organisation may feel political because its rules are unclear, even if no one intended that result. A decision may also advantage one group and disadvantage another without deliberate bias.
+Researchers examine influence attempts, skill in navigating relationships, and perceptions of organisational politics.[^1] These are distinct. Social skill need not involve manipulation; unclear rules can make a workplace feel political; a decision can advantage one group without deliberate bias.
 
-This distinction matters because the word _political_ can turn an observation into an accusation. “The meeting was moved to a forum where finance held the deciding vote” describes something that can be verified. “Finance manipulated the process” adds a claim about intent. That claim may ultimately be supported, but it requires additional evidence. When observation and interpretation are combined too early, a disagreement about process can quickly become a dispute about motive.
+“The meeting moved to a forum where finance held the deciding vote” describes a verifiable event. “Finance manipulated the process” adds an interpretation of intent. That interpretation may prove correct, but needs further evidence.
 
-Technical language can create the same problem. Terms such as _gatekeeping_, _coalition formation_, _legitimacy borrowing_, and _decision provenance_ have specific meanings in specialist contexts. Outside those contexts, they may sound more accusatory or conclusive than intended. A late invitation is not necessarily a deliberate tactic, and a private conversation is not necessarily evidence of coordination.
+Use technical terms carefully. _Gatekeeping_, _coalition formation_, _legitimacy borrowing_, and _decision provenance_ describe mechanisms; they can sound more conclusive outside specialist contexts.
 
-This book therefore uses categories as prompts for inquiry rather than conclusions about wrongdoing. “Unequal advance briefing” means that participants entered the same decision with materially different levels of preparation; it does not explain why. “Recognition gatekeeping” means that access to an award, presentation, or other visible credit passes through a limited route; it does not establish discrimination or misappropriation. A useful category identifies what should be examined. The evidence determines what the examination reveals.
+The book’s categories identify what to examine. Unequal advance briefing describes different preparation for the same decision. Restricted recognition routes identify how people reach an award or presentation. Neither category establishes motive, discrimination, or misappropriation.
 
 ## Formal authority, relationships, and decision processes
 
-To understand how influence operates, it is useful to think of an organisation as having three overlapping maps.
+Read an organisation through three overlapping maps:
 
 The first is the **formal map**. It includes job descriptions, reporting lines, policies, budgets, committees, delegated authority, and written procedures. It shows who is formally authorised to approve spending, manage a team, or make decisions such as appointments and hires.
 
 The second is the **relationship map**. It reflects trust, reputation, expertise, sponsorship, personal history, obligation, and access. It helps explain why one person receives an immediate response, why a respected engineer can delay a launch without formal veto authority, and why a newly appointed senior manager may struggle to gain cooperation. Research on organisational networks and political skill reflects the fact that formal position alone does not determine influence.[^2]
 
-The third is the **process map**. It traces how a specific issue, proposal, or decision actually moves through the organisation: who learns about it first, how it reaches the agenda, which version of the information reaches decision-makers, how objections are recorded, when resources are committed, and how the outcome is later described. This book focuses mainly on the process map because it connects formal authority with informal influence and usually leaves evidence that can be examined without making assumptions about personality or motive.
+The **process map** traces an issue’s route: first notice, agenda placement, information versions, objections, resource commitments, and the later account. It connects authority with informal influence and often leaves evidence that can be examined. This is the book’s main focus.
 
-The three maps may align. A project owner may receive the relevant information, present the proposal to the authorised committee, receive appropriate recognition, and remain accountable for the outcome. They may also diverge. The named owner may be absent from important discussions, an informal adviser may shape the recommendation, or a committee may formally approve an option that earlier commitments have already made difficult to reverse. Responsibility for failure may then fall on someone who had little control over the conditions that caused it.
+The maps align when the project owner receives evidence, reaches the authorised committee, receives appropriate credit, and answers for the result. They diverge when informal advisers shape a recommendation, prior commitments constrain approval, or someone absent from key decisions bears the blame.
 
-Such misalignment does not necessarily indicate wrongdoing. Organisations often adapt when circumstances change faster than formal procedures. An intermediary may solve a genuine coordination problem, a private briefing may help participants understand technical evidence, and a senior leader may present a junior colleague’s work because governance rules require senior representation. The relevant questions are whether the arrangement serves a legitimate purpose, is sufficiently transparent for the consequences involved, and can be corrected if it creates a problem.
+Informal arrangements may adapt to circumstances faster than written rules. An intermediary may coordinate work, a private briefing explain technical evidence, or a senior presenter meet a governance requirement. Test the arrangement’s purpose, transparency, and capacity for correction.
 
 ## Examine the process before judging motives
 
-When a workplace event feels unfair or harmful, people often form an immediate explanation: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ That explanation may be correct, but it may also combine observable facts with past experience and assumptions about motive.
+An unfair or harmful event can suggest an immediate explanation: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ Preserve the concern while separating facts, past experience, and assumptions.
 
-A process-first approach does not require anyone to ignore emotion or minimise harm. It begins by separating what can be verified from what still needs to be established. For example:
+Begin with what can be verified, without ignoring emotion or minimising harm:
 
 - A decision brief was sent to six participants on Monday and to two others one hour before the vote.
 - The published eligibility criteria required two years of experience, but the selected candidate had one.
 - The meeting record named the presenter but did not identify the two people who produced the analysis.
 - After an employee raised a safety concern, her workload increased from five cases to nine.
 
-These statements can be checked against records. They also lead to useful questions. Was a revised brief circulated later? Did recipients have different responsibilities? Was an exception to the eligibility rule formally approved? Had the workload change already been planned? How were comparable cases handled?
+Check the records and context. Was another brief circulated? Did roles differ? Was an eligibility exception approved? Was the workload change already planned? How were comparable cases handled?
 
-Describing the event in neutral terms does not reduce its seriousness. It creates a clearer basis for determining what happened and why.
+Specific description makes even a serious concern easier to examine.
 
-This approach matters because judgment is affected by context. The way a choice is presented can influence how people interpret it. Knowing whether an outcome later succeeded or failed can change how people assess the earlier decision. Personal interests and expectations can also affect which evidence seems persuasive without anyone deliberately misrepresenting the facts.[^3] These influences affect everyone, including leaders, employees, investigators, and observers.
+Context affects judgement. Framing can change preferences; knowing the result can change assessments of an earlier choice; interests and expectations can affect which evidence seems persuasive.[^3] Leaders, employees, investigators, and observers all need to account for these influences.
 
 ## Six questions for examining a workplace concern
 
-Throughout this book, six questions will recur. They are not a formal investigation procedure. They are a practical way to separate facts from interpretation and identify the smallest change that may improve the process.
+Use six questions to separate fact from interpretation and identify a useful correction. They guide inquiry; they do not replace a formal investigation.
 
 ### 1. Which process is involved?
 
@@ -77,7 +77,7 @@ Consider factors such as confidentiality, data protection, legal privilege, safe
 
 ### 5. What were the practical consequences?
 
-Consider whether the difference affected a decision, created unnecessary work, removed an opportunity to respond, concealed a material risk, reduced appropriate recognition, or prevented meaningful review. The consequence should influence the seriousness of the response. A missed invitation corrected within ten minutes is different from repeated exclusion from decisions central to someone’s role.
+Consider whether the difference affected a decision, created unnecessary work, removed an opportunity to respond, concealed a material risk, reduced appropriate recognition, or prevented meaningful review. The consequence should influence the seriousness of the response. A missed invitation corrected within 10 minutes is different from repeated exclusion from decisions central to someone’s role.
 
 ### 6. Could the problem be corrected?
 
@@ -87,25 +87,25 @@ Together, the six questions support a concise description:
 
 > Within a defined process, a stated or reasonable expectation was applied differently in comparable cases. Ordinary explanations either accounted for the difference or did not. The difference produced a practical consequence, and the organisation either corrected it or failed to do so.
 
-This description avoids premature conclusions about motive. It gives managers, representatives, ombuds practitioners, facilitators, and colleagues a clearer basis for deciding what should be examined or changed.
+The description gives managers, representatives, ombuds practitioners, facilitators, and colleagues a practical basis for deciding what to examine or change.
 
 ## Patterns do not prove wrongdoing
 
-A pattern is a recurring or significant feature of a process that may help explain how an outcome developed. A pattern alone does not establish motive, misconduct, discrimination, or legal liability.
+A pattern is a recurring or significant process feature that may help explain an outcome. Its significance depends on context and the standard being applied.
 
-That limitation is fundamental, not merely a disclaimer. Research on organisational justice distinguishes among fairness of outcomes, procedures, explanations, and interpersonal treatment.[^4] A person may reasonably conclude that a process was unfair without having evidence that it was unlawful. Conversely, a procedure that appears orderly may still create discriminatory effects that require specialist assessment. The categories in this book are intended to improve inquiry, not to replace the legal, regulatory, or organisational standards that apply to a particular case.
+Organisational justice research distinguishes fairness in outcomes, procedures, explanations, and interpersonal treatment.[^4] Unfairness need not be unlawful; an orderly process may still produce discriminatory effects requiring specialist assessment. Apply the relevant legal, regulatory, and organisational standards before reaching a finding.
 
-Counting patterns is not a reliable measure of seriousness. Three identified patterns do not automatically indicate more wrongdoing than two. A single failure to act on a safety report may be more consequential than months of minor meeting problems. Likewise, attaching many labels to one person does not create a valid psychological assessment. Using these categories as a scorecard creates false precision and may increase conflict rather than clarify it.
+Do not score seriousness by counting patterns or diagnose someone by attaching labels. One ignored safety report may matter more than months of minor meeting problems. Counts create false precision.
 
-Patterns become useful when they are interpreted in context. Repetition may weaken an explanation that depends on an event being accidental or exceptional. Distribution also matters: a mistake affecting everyone is different from the same disadvantage repeatedly affecting one person or group. Sequence may also be relevant, particularly when an adverse change follows a complaint, report, or challenge. These features justify closer examination; they do not determine the conclusion.
+Examine repetition, distribution, and sequence. Recurrence may weaken an explanation based on accident; disadvantage concentrated on one group differs from a mistake affecting everyone. A change after a complaint warrants examination without determining the conclusion.
 
 ## Influence can be constructive
 
 The ability to understand people, build relationships, gain support, and communicate effectively is not inherently problematic. Research on political skill examines capabilities such as social awareness, interpersonal influence, networking ability, and apparent sincerity.[^5] These skills can support constructive outcomes. A sponsor can bring overlooked work to a decision-maker’s attention. A coalition can build support for a safety improvement. A pre-meeting can help an inexperienced presenter prepare. An informal relationship can help resolve an urgent customer problem when the normal process is failing.
 
-The important question is not whether informal influence exists, but how it affects fairness, transparency, and accountability. Constructive influence generally expands the organisation’s ability to make informed decisions and act effectively. It helps relevant information reach the right people, makes support visible, and allows disagreement or correction. Harmful influence tends to restrict those conditions by making access dependent on relationships, concealing commitments, concentrating recognition, or making disagreement more costly.
+Assess influence by its effects on informed action, fairness, transparency, and accountability. It can bring evidence to the right people, clarify support, and permit correction. It can also make access depend on private relationships, conceal commitments, concentrate credit, or raise the cost of disagreement.
 
-The distinction is not absolute. The same practice may be appropriate in one situation and harmful in another. Restricting information may protect privacy, but withholding it from someone who needs it to perform an authorised role may create risk. Acting quickly may rescue a failing project, while artificial urgency may prevent proper review. Consistent treatment is generally valuable, but rigidly applying the same process can overlook relevant differences or preserve a process that no longer works. Good judgment therefore considers the purpose of the action, the safeguards in place, and its practical consequences.
+Judge the purpose, safeguards, and consequences in context. Restriction may protect privacy or block an authorised role. Speed may rescue delivery or curtail needed review. Consistency may support fairness or overlook relevant differences.
 
 ## Workplace conditions affect whether people speak up
 
@@ -115,11 +115,11 @@ Research on employee voice and silence shows that people’s willingness to spea
 
 Consider a leader who asks for candid discussion at every meeting but interrupts questions, treats challenges as personal criticism, and assigns additional difficult work to whoever identifies a problem. Employees may formally be invited to speak, but the consequences discourage them from doing so. By contrast, a leader can reject a proposal while still supporting constructive challenge. They can summarise the concern accurately, explain why the proposal was rejected, record any unresolved risk, and identify the evidence that would justify reconsidering the decision.
 
-This book therefore does not treat organisational influence as a contest that individuals can win through personal skill alone. Individual capability matters, but process design affects everyone’s ability to participate. Shared agendas, common briefing material, explicit criteria, decision logs, clear authorship rules, alternative review routes, and time-limited ownership of unresolved issues are relatively simple controls. They reduce the need for individuals to rely on personal influence to overcome weak processes.
+Individual skill and process design both matter. Shared agendas, common briefs, explicit criteria, decision logs, authorship rules, alternative reviews, and deadlines for unresolved issues reduce dependence on personal influence.
 
 ## Keep evidence collection relevant and authorised
 
-Once people learn to identify process patterns, they may be tempted to collect extensive evidence: screenshots, messages, recordings, access logs, or informal files about colleagues. That is usually unnecessary. Wanting certainty does not give someone the right to gather information they are not authorised to access.
+A concern does not authorise extensive collection of screenshots, messages, recordings, logs, or files about colleagues. Begin with evidence relevant to the question and available to you legitimately.
 
 Use only information you are entitled to see and only for a legitimate purpose. Keep records proportionate to the issue. Distinguish observable facts from your interpretation, and follow workplace policy and applicable law. Do not secretly record conversations, access other people’s accounts, request confidential material without authority, or create monitoring systems simply to test a framework. Official privacy guidance generally treats employee monitoring as potentially intrusive and expects it to be lawful, fair, transparent, necessary, and proportionate.[^8] Specific requirements vary by jurisdiction, but these principles provide a useful baseline.
 
@@ -127,7 +127,7 @@ For an initial conversation, a short factual note is often sufficient:
 
 > 14 May, product review. Invitation received at 9:10 for a 10:00 meeting. Finance and sales received the revised forecast on 12 May; I received it with the invitation. I requested additional review time. The decision was postponed to 16 May.
 
-This record identifies the date, event, comparison, request, and outcome without assigning motive. If the concern later enters a formal process, an authorised or qualified person can advise which additional records are appropriate. If the matter is resolved informally, unnecessary information about colleagues has not been collected or retained.
+The note records the event, comparison, request, and result. An authorised or qualified reviewer can advise what else a formal process requires. A resolved concern need not leave an unnecessary file about colleagues.
 
 ## When to seek formal or specialist support
 
@@ -135,31 +135,29 @@ Some workplace concerns require immediate, formal, or specialist support. The re
 
 International Labour Organization Convention No. 190 addresses violence and harassment in the world of work for states that have ratified it. National bodies, including the U.S. Equal Employment Opportunity Commission and Occupational Safety and Health Administration, also publish guidance on retaliation within their respective areas of responsibility.[^9] These examples show why some concerns should not be treated merely as “workplace politics” when specific legal protections or formal duties may apply.
 
-The same principle applies to health and well-being. Work can support health, but workplace conditions can also contribute to harm. World Health Organization guidance emphasises organisational measures, capable management, worker participation, and access to appropriate support.[^10] A colleague who is distressed should not be treated as an example to classify. The situation may require practical support, workplace accommodation, professional assistance, or urgent intervention.
+The same principle applies to health and wellbeing. Work can support health, but workplace conditions can also contribute to harm. World Health Organization guidance emphasises organisational measures, capable management, worker participation, and access to appropriate support.[^10] A colleague who is distressed should not be treated as an example to classify. The situation may require practical support, workplace accommodation, professional assistance, or urgent intervention.
 
 ## How the book is organised
 
-The next twelve chapters trace how work moves from access to outcomes.
+The 12 main chapters connect access, decisions, delivery, and outcomes. These processes overlap rather than following a fixed sequence.
 
-The first chapters focus on the conditions that shape participation before a decision is made. **Access and opportunity** examines who gets into important forums and developmental opportunities. **Information** considers who receives the knowledge needed to contribute. **Attention** looks at which issues receive time and consideration. **Sponsorship and coalitions** examines how support is built, while **decision processes** focuses on forums, membership, records, and decision criteria. **Resources and dependencies** considers how capacity, control, and bottlenecks affect influence.
+Chapters 1–6 examine **Access and opportunity**, **Information**, **Agendas and attention**, **Sponsorship and coalitions**, **Decision processes**, and **Resources and dependencies**. They follow evidence and support into decisions, then examine the capacity needed to deliver them.
 
-The second half examines what happens once work becomes visible. **Credit and visibility** considers whose contribution is recognised. **Accountability** examines ownership, responsibility, records, and corrective action. **Reputation and legitimacy** explores how status and labels affect how ideas and people are received. **Participation and challenge** asks whether disagreement can be expressed and considered. **Entrenchment and continuity** examines the risks created when roles, workflows, or knowledge become concentrated. **Narratives and outcomes** concludes by considering how metrics and retrospective explanations shape what the organisation believes happened and what it learns from the result.
+Chapters 7–12 examine **Credit and visibility**, **Accountability**, **Reputation and legitimacy**, **Participation and challenge**, **Entrenchment and continuity**, and **Narratives and outcomes**. They ask how contributions are recognised, authority remains answerable, evidence is heard, services survive transitions, and results inform the next decision.
 
-Each chapter begins with a fictional composite example. It then examines five recurring patterns, considers legitimate explanations for similar events, and offers responses at three levels: questions an individual can ask, issues a manager can clarify, and processes an organisation can improve. Each chapter ends with a short exercise and supporting endnotes.
+Each main chapter opens with a fictional composite case and examines five recurring patterns, including legitimate explanations and relevant evidence. Supporting discussion leads to **How to respond** guidance, **For managers** actions, a **Returning to** case resolution, and a **Practice** exercise. A transition and supporting endnotes close the chapter. The introduction supplies the inquiry method; the conclusion combines the tools into a practical reset.
 
 The chapters can be read independently. A reader dealing with a recognition problem can begin with **Credit and visibility**, while someone responsible for a committee may begin with **Decision processes**. The sequence is intended to show how the different forms of influence connect, not to require a fixed reading order.
 
-## Address unfairness without assuming bad intent
+## Put inquiry into practice
 
-Writing about workplace power can easily become cynical. A sharp, suspicious tone may feel satisfying because it names experiences that organisations often avoid discussing. But it can also oversimplify them. Sponsors become patrons, meetings become performances, and mistakes become deliberate tactics. Readers may feel validated while becoming less able to distinguish what happened from why they think it happened.
+Careful inquiry can support action in an unequal system. People may sincerely defend arrangements that benefit them, and shortcuts may cause harm without coordination. Clear processes protect both the person raising a concern and those whose conduct is questioned.
 
-This book takes a different approach. It recognises unequal power while remaining cautious about motive. Systems can produce unfair outcomes without deliberate coordination. People can sincerely defend arrangements that also benefit them. Informal influence can help useful work get done, and people under pressure often rely on shortcuts. Clear processes can protect both the person raising a concern and the person whose conduct is being questioned.
+Make the requested action concrete: “This is the rule we understood. These are the comparable cases. This is how the process differed. This is the practical consequence. This is the correction we are requesting.” A fair response is not guaranteed, but the concern can now be assessed.
 
-Caution about motive does not require passivity. It means describing the issue in terms that can be examined: “This is the rule we understood. These are the comparable cases. This is how the process differed. This is the practical consequence. This is the correction we are requesting.” Such a statement does not guarantee a fair response, but it gives others a concrete basis for reviewing the concern.
+Elena can ask about presenter criteria, cite last month’s comparable review, request access for questions, and confirm how her contribution will appear. A reasonable rule and accurate record may resolve the matter. Repeatedly changing criteria, unanswered requests, or continued omission would give her clearer grounds for formal review.
 
-For Elena, the next step is not to accuse her director of taking credit. She can ask how presenters are selected, identify the comparable project review from the previous month, request to attend the relevant item for questions, and confirm in writing how her role will be acknowledged in the slides and meeting record. If the criteria are reasonable and her contribution is recorded accurately, the issue may be resolved. If the criteria repeatedly change, her requests receive no response, and her contribution continues to be omitted, she will have clearer evidence for a more formal review.
-
-A process-first approach cannot remove politics from organisations. It can make influence more visible, decisions more accountable, and concerns easier to examine. It provides a stronger starting point than suspicion alone.
+Politics will remain. The aim is influence people can examine, decisions people can explain, and errors they can correct.
 
 [^1]: K. Michele Kacmar and Gerald R. Ferris, “Perceptions of Organizational Politics Scale (POPS): Development and Construct Validation,” *Educational and Psychological Measurement* 51, no. 1 (1991): 193–205, [https://doi.org/10.1177/0013164491511019](https://doi.org/10.1177/0013164491511019); Gerald R. Ferris, Brian P. Ellen III, Chad P. McAllister, and L. P. Maher, “Reorganizing Organizational Politics Research: A Review of the Literature and Identification of Future Research Directions,” *Annual Review of Organizational Psychology and Organizational Behavior* 6 (2019): 299–323, [https://doi.org/10.1146/annurev-orgpsych-012218-015221](https://doi.org/10.1146/annurev-orgpsych-012218-015221).
 

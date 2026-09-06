@@ -47,7 +47,7 @@ Describe specific conduct and its context. “Marcus challenged the forecast in 
 
 Some labels concern serious safety, integrity, harassment, or safeguarding issues. Use the authorised process and preserve necessary confidentiality. Do not investigate casually or disclose confidential reports in the name of fairness. Distinguish interim protective measures from final findings. A manager may need to restrict access before every fact is resolved, but the restriction should have a defined purpose, review point, and authorised owner.
 
-If an imprecise label affects you, accusing someone of bias or malice immediately may harden positions before you understand the source. Ask what the label means in practice: “Which specific behavior should I change?” “Can you give me a recent example?” “How will we know the concern is resolved?” Even when a manager cannot disclose confidential details, they may be able to explain the expectation and the process being followed.
+If a label affects you, ask what it means in practice: “Which specific behaviour should I change?” “Can you give me a recent example?” “How will we know the concern is resolved?” An immediate accusation of bias or malice may harden positions before the source is clear. A manager unable to disclose confidential details may still explain the expectation and process.
 
 ## 2. Escalation precedes safe clarification
 
@@ -73,7 +73,7 @@ Managers should assess the facts behind an escalation. Dramatic wording should n
 
 A concern about someone’s judgement may be legitimate at any stage. But a vague doubt raised just before a vote, promotion, contract award, or approval can influence the outcome before anyone has time to examine it.
 
-Suppose Marcus is being considered to lead a forecasting redesign. The day before selection, a director says, “I'm not sure the business trusts him.” The claim matters, but its meaning is unclear. Which business leaders? Trust him to do what? Based on which events? The panel may exclude Marcus to avoid risk even though no one can answer.
+Suppose Marcus is being considered to lead a forecasting redesign. The day before selection, a director says, “I’m not sure the business trusts him.” The claim matters, but its meaning is unclear. Which business leaders? Trust him to do what? Based on which events? The panel may exclude Marcus to avoid risk even though no one can answer.
 
 Social hierarchies influence whose contributions receive attention and credibility. Status can be used as a shortcut for judging competence. Hierarchy can also help coordinate work when it reflects relevant differences and remains open to correction.[^3] A late credibility concern often carries weight because of the speaker’s status rather than the supporting evidence.
 
@@ -99,10 +99,10 @@ A change may have a legitimate explanation: new information can show that anothe
 
 Where possible, define the question and relevant expertise before seeking views:
 
-- engineers assess whether the design meets the technical tolerance;
-- service staff explain operating conditions and failure patterns;
-- finance tests cost assumptions; and
-- the accountable executive decides the trade-off within approved risk limits.
+- Engineers assess whether the design meets the technical tolerance.
+- Service staff explain operating conditions and failure patterns.
+- Finance tests cost assumptions.
+- The accountable executive decides the trade-off within approved risk limits.
 
 A contributor does not need expertise in every aspect for their evidence to matter. Someone may be wrong about the preferred solution and right about a factual constraint. Assess each claim within its scope.
 
@@ -125,7 +125,7 @@ For a material decision, confirm four things:
 
 Legal advice may identify risk without determining the business decision. A published regulatory rule differs from an employee’s prediction of a regulator’s response. A customer preference differs from a contractual obligation. A chief executive’s strategic aim may not determine the design choice being discussed.
 
-Ask neutrally: “Can we see the requirement or confirm it with the policy owner?” “Is that a legal prohibition, a risk recommendation, or our internal preference?” “Who received the customer's instruction, and what wording did they use?” The aim is to establish the actual constraint without embarrassing the messenger.
+Ask neutrally: “Can we see the requirement or confirm it with the policy owner?” “Is that a legal prohibition, a risk recommendation, or our internal preference?” “Who received the customer’s instruction, and what wording did they use?” The aim is to establish the actual constraint without embarrassing the messenger.
 
 If confirmation must wait, record the assumption and its consequence: “Proceeding on the unverified assumption that data must remain in-country; privacy counsel to confirm by Tuesday.” Making the uncertainty explicit reduces the risk that an assumption becomes a permanent, unquestioned rule.
 
@@ -147,18 +147,36 @@ People need to be able to share relevant warnings. Managers have duties to commu
 
 Apply clear limits:
 
-- describe relevant behaviour rather than the person’s entire character;
-- share information with an authorised audience;
-- include necessary detail, without adding details for entertainment;
-- use current evidence and avoid permanent stigma;
-- state the purpose instead of using the discussion to bond at someone’s expense; and
-- provide a route to review, correction, or expiry where appropriate.
+- Describe relevant behaviour rather than the person’s entire character.
+- Share information with an authorised audience.
+- Include necessary detail, without adding details for entertainment.
+- Use current evidence and avoid permanent stigma.
+- State the purpose instead of using the discussion to bond at someone’s expense.
+- Provide a route to review, correction, or expiry where appropriate.
 
 Confidentiality means people may have different access to information. The subject of a complaint may not receive every identity or document, but confidentiality alone does not validate a claim. Authorised reviewers can test the evidence, disclose what fairness and law require, and avoid using unresolved allegations for unrelated purposes.
 
 Professional judgement still has a place. A hiring manager does not need a courtroom finding to conclude that a candidate’s examples fall short of the role’s requirements. They should apply job-relevant criteria, comparable scrutiny, and an accurate record. The task is to assess suitability, not diagnose the candidate’s character.
 
-## A response ladder for a damaging label
+## Repair reputations through current evidence
+
+“Start fresh” rarely displaces an expectation already shaping assignments and interpretations. Replace the broad judgement with a concern, evidence, expectation, fair opportunity, and review point.
+
+First, test the concern. For three late client deliverables, establish dates, control, changes, and comparable treatment. If the concern is supported, set a specific expectation for the next two client cycles: confirm dependencies at launch, flag forecast delays within one working day, and meet milestones unless the owner approves a change.
+
+Provide work through which the person can demonstrate improvement, with staged responsibility, check-ins, mentoring, or review to manage risk. Withholding all relevant work prevents that demonstration. Support does not establish that the earlier concern was false.
+
+Agree what evidence would change the assessment and when. For example: “We will review these two projects in September using delivery, escalation, client feedback, and the agreed dependencies. If the evidence is sustained, the reliability concern will no longer limit assignment eligibility.” Retain accurate records under governing rules, but do not let an outdated summary restrict opportunity indefinitely.
+
+Correct unsupported accounts with the authorised recipients who received them. A manager might say: “I previously described Marcus as resistant. That was too broad. We are addressing specific communication issues, but his forecast challenge was supported by changed assumptions and should not be treated as refusal to collaborate.”
+
+The person may need to acknowledge supported concerns and act on feedback. Colleagues retain genuine experience but must be willing to update it. Relevant conduct and a fair opportunity to demonstrate it make that possible.
+
+Where past events remain disputed, record the disagreement and specify the current standard, support, evidence period, and review route. Forced agreement is unnecessary.
+
+Apply the same method to teams. A “bureaucratic” function may have inherited poor controls; an “uncommercial” department may be measured only on risk. Shared measures, visible service standards, observation, and successful joint work can replace the caricature with evidence.
+
+## How to respond: a damaging label
 
 - **Translate.** Ask which observable behaviour the label describes and why it matters to the current decision.
 - **Locate.** Identify the source, date, audience, and whether the account is first-hand.
@@ -170,33 +188,15 @@ Professional judgement still has a place. A hiring manager does not need a court
 
 If you are personally affected, keep a factual record of decisions, dates, feedback, and clarification requests. Do not collect private messages you are not entitled to access or respond by spreading rumours. When the stakes warrant it, seek help from a manager, employee representative, human-resources adviser, ombuds function, or qualified adviser.
 
-## Repair reputations through current evidence
-
-Once a reputational judgement affects work, asking people to “start fresh” is rarely enough. The old expectation still shapes assignments, interpretations of ambiguous conduct, and decisions about whose opinion to seek. Repair requires a way to replace broad conclusions with relevant new evidence.
-
-First, define the concern. Suppose a manager calls an employee unreliable because three client deliverables were late. Establish the agreed dates, what the employee controlled, what changed, and how comparable work was assessed. If the concern is supported, set a specific expectation. During the next two client cycles, the employee should confirm dependencies at launch, flag a forecast delay within one working day, and meet agreed milestones unless the owner approves a change.
-
-Give the person a fair opportunity to demonstrate that they can meet the expectation. Withholding the work needed to demonstrate readiness prevents them from showing what they can do. The assignment can limit risk through staged responsibility, defined check-ins, a mentor, or review at key points. Providing support does not establish that the original concern was false; it is part of responsible performance management.
-
-Agree in advance what evidence will change the assessment and when it will be reviewed. “Reputation improves over time” gives the person no clear standard or timetable. A manager can say: “We will review these two projects in September using delivery, escalation, client feedback, and the agreed dependencies. If the evidence is sustained, the reliability concern will no longer limit assignment eligibility.” Accurate records may still be retained under governing rules. The purpose is to prevent an old summary from restricting opportunities indefinitely after it loses current relevance.
-
-Repair may also require correcting someone else’s conduct. A manager who circulated an unsupported characterisation should update the authorised recipients: “I previously described Marcus as resistant. That was too broad. We are addressing specific communication issues, but his forecast challenge was supported by changed assumptions and should not be treated as refusal to collaborate.” The correction should be proportionate and reach the people who received the error.
-
-The affected person also has responsibilities. They may need to acknowledge supported concerns about their behaviour, act on agreed feedback, and accept that colleagues retain genuine experience. Trust grows through relevant conduct, a fair opportunity to demonstrate it, and observers willing to revise their assessments. It cannot be restored by declaration alone.
-
-A careful process may still leave a manager and employee disagreeing about past events. Record the specific disagreement, then clarify the current standard, support, evidence period, and review route. A precise record of unresolved issues is more useful than forced agreement or a permanent judgement of character.
-
-Teams may also need to repair their reputations. A function labelled “bureaucratic” may have inherited poorly designed controls. A department called “uncommercial” may be measured only on risk. Shared service measures, opportunities to observe each other’s work, visible response standards, and successful joint work can give colleagues evidence to replace a caricature. Slogans about partnership rarely achieve this.
-
 ## For managers: make reputation revisable
 
 Start with labels that influence talent decisions. Terms such as “high potential,” “not ready,” “trusted,” and “performance concern” need an explanation of what they mean in practice, an evidence period, a decision owner, and a review point. People can receive useful expectations and feedback without seeing confidential comparisons with others.
 
 In selection and promotion, distinguish minimum requirements from preferences. Record the evidence behind the decision, including any late material concern and how it was handled. Do not create a permanent, undisclosed record of untested impressions.
 
-In references and handovers, give role-relevant facts and follow applicable law and policy. “She sometimes struggled to manage competing deadlines during the fourth-quarter launch; we agreed weekly prioritization and delivery improved” conveys more useful information than “not resilient.”
+In references and handovers, give role-relevant facts and follow applicable law and policy. “She sometimes struggled to manage competing deadlines during the fourth-quarter launch; we agreed weekly prioritisation and delivery improved” conveys more useful information than “not resilient.”
 
-Keep the scope of a label within the evidence. Conflict with one manager should not automatically define someone’s ability to work with every team. A mistake in one technical area should not become a general label of “poor judgment.” Positive reputations also need review: are favoured people still benefiting from old success while their current contribution goes untested?
+Limit a label to its evidence. Conflict with one manager does not establish difficulty with every team; one technical mistake does not establish generally “poor judgement.” Review positive reputations too, especially where old success shields current work from scrutiny.
 
 Make corrections visible enough to take effect. If a review clears a material allegation or new evidence changes an assessment, update the systems and decision-makers that received the earlier account where lawful and appropriate. A private correction cannot repair a widely distributed label.
 
@@ -212,13 +212,13 @@ Elena has not established that every earlier criticism was unfair. She has preve
 
 Choose a label you have heard or used at work that affects someone’s work. Do not choose a matter that belongs in a protected investigation. Write:
 
-1. the exact label;
-2. the observable behaviour it may describe;
-3. the source and date of your information;
-4. the work consequence the label is influencing;
-5. one plausible alternative explanation;
-6. the evidence that would confirm, narrow, or update it; and
-7. a more precise sentence you could use instead.
+1. the exact label
+2. the observable behaviour it may describe
+3. the source and date of your information
+4. the work consequence the label is influencing
+5. one plausible alternative explanation
+6. the evidence that would confirm, narrow, or update it
+7. a more precise sentence you could use instead
 
 The exercise allows people to make judgements while making them specific enough to examine and fair enough to revise.
 

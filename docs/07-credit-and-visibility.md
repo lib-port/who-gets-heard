@@ -6,9 +6,9 @@ Amara spends nine months coordinating a product launch across design, engineerin
 
 The launch succeeds. At the company meeting, the product director praises “the brilliant engineering team” and invites the lead engineer onstage. A slide headed “Launch team” names six senior leaders but omits Amara. The following week, the director presents the launch as evidence that his new operating model works, although it was introduced halfway through the project.
 
-None of these statements is necessarily false. The engineers may have performed exceptionally well, the director may have held formal accountability, and the meeting cannot recognise every contributor individually. But the account omits a significant coordination role, presents others as the owners, and attributes success to an initiative that governed only part of the work. That account may later influence promotions, hiring, assignments, and decisions about which practices to repeat.
+The engineers may have excelled, the director may have held formal accountability, and the meeting cannot name everyone. The account still omits material coordination, presents others as owners, and credits a model introduced halfway through. It may later shape promotions, assignments, hiring, and decisions about which practices to repeat.
 
-**Credit** connects a material contribution to the recognition it receives. **Visibility** gives relevant audiences an opportunity to observe the work, judgment, or learning behind that contribution. The distinction matters. Someone may receive accurate credit in a written record without public visibility. A highly visible leader may still credit others accurately.
+**Credit** connects a material contribution to the recognition it receives. **Visibility** gives relevant audiences an opportunity to observe the work, judgement, or learning behind that contribution. The distinction matters. Someone may receive accurate credit in a written record without public visibility. A highly visible leader may still credit others accurately.
 
 Recognition must be selective: an account of complex work cannot list every contribution. Selection becomes problematic when material contributions are repeatedly omitted, comparable contributors are recognised under different rules, or inaccurate attribution cannot be corrected.
 
@@ -18,14 +18,14 @@ Research illustrates why explicit attribution matters. Studies in experimental a
 
 Credit includes more than verbal praise. It can take the form of:
 
-- authorship on a document;
-- named ownership in a project record;
-- time to present the work;
-- recognition in a performance review;
-- eligibility for an award or bonus;
-- access to clients or senior decision-makers;
-- a reference, portfolio example, or published byline; or
-- an opportunity to explain the methods, decisions, and lessons behind the work.
+- authorship on a document
+- named ownership in a project record
+- time to present the work
+- recognition in a performance review
+- eligibility for an award or bonus
+- access to clients or senior decision-makers
+- a reference, portfolio example, or published byline
+- an opportunity to explain the methods, decisions, and lessons behind the work
 
 These forms of recognition serve different purposes. A leader may be accountable for the outcome while a specialist receives credit as the author of the analysis. A presenter may speak for a team while naming its contributors. Confidentiality may restrict public recognition without preventing accurate internal attribution. A fair system records each contribution accurately; it does not require one person to be named in every role.
 
@@ -47,13 +47,13 @@ If someone has been omitted, request a specific correction:
 
 This request names the missing contributions and proposes a proportionate remedy. It does not assume that everyone deserves equal prominence. If the material has already circulated publicly, the correction should reach the same audience where practical.
 
-Managers should establish the recognition arrangements before the outcome is known. At the start of significant work, and whenever roles materially change, clarify who contributes what and how it will be recorded. Those arrangements may evolve. An early standard makes later changes easier to explain and review.
+Set recognition arrangements before the outcome is known and revise them when roles change. The team protocol below provides a sequence for doing so.
 
 ## 2. The visible presenter replaces the contributor
 
 The person who produces the work is not always the best person to present it. A board may require an executive presenter, a client may want one accountable contact, or a specialist may lack access to the forum. A leader may also be better placed to explain technical material to a nontechnical audience.
 
-Using a different presenter becomes problematic when it removes a contributor’s opportunity without a work-related reason, misrepresents who produced the work, or prevents accurate answers to the audience’s questions. The consequences matter especially when career progression depends on exposure to senior audiences and some employees rarely get that opportunity.
+A substitution warrants review if it removes a contributor’s opportunity without a work-related reason, misrepresents who produced the work, or prevents accurate answers. The stakes are higher when senior exposure affects career progression and some employees rarely receive it.
 
 Distinguish four roles:
 
@@ -64,15 +64,15 @@ Distinguish four roles:
 
 One person may perform all four roles, but often they are divided among several people. A presentation can state the division explicitly: “Presented by the product director; analysis led by Amara Khan; technical questions: Leo Chen.” A senior presenter can introduce the work, then hand part of the presentation or question period to the relevant contributor.
 
-Discuss any necessary substitution before the material is final. Explain why the forum requires a different presenter, agree on attribution and participation, and provide feedback afterward. If readiness to present is the concern, define a development plan. For example, the contributor could co-present the current review, lead a smaller forum next, and be told what evidence of readiness is needed before presenting independently.
+Discuss substitutions before finalising the material. Explain the forum’s requirements, agree on attribution and participation, and give feedback afterwards. If readiness is the concern, define a development plan: co-present this review, lead a smaller forum next, and establish what readiness for independent presentation would look like.
 
-Employees may choose to decline travel, public speaking, or other exposure. Clarify how their contribution will be recorded and whether another form of recognition is available. Managers should ask about preferences rather than infer interest or lack of interest from silence.
+Employees may decline travel, public speaking, or other exposure. Ask about their preferences, agree how to record their contribution, and clarify what other recognition is available. Silence does not establish interest or its absence.
 
 ## 3. Success rewrites ownership
 
 Ownership of an uncertain project may be shared or unclear at the start. After success, the account often becomes simpler. Leaders may emphasise decisive choices, contributors may remember sustained effort, and the organisation may connect the result to its current priorities. Over time, this simplification can change who is seen as having owned the work.
 
-The clearest warning sign is a discrepancy between records made before the outcome and claims made afterward. A leader who called the work a team experiment may later describe it as “my strategy.” A unit that declined to participate may appear as the sponsor once the results become valuable. A temporary contributor may be described as the project’s architect. After failure, the reverse can happen: a previously visible sponsor may disappear from the account. Chapter 8 examines that pattern.
+The clearest warning sign is a discrepancy between records made before the outcome and claims made afterwards. A leader who called the work a team experiment may later describe it as “my strategy.” A unit that declined to participate may appear as the sponsor once the results become valuable. A temporary contributor may be described as the project’s architect. After failure, the reverse can happen: a previously visible sponsor may disappear from the account. Chapter 8 examines that pattern.
 
 Interpretations can also change for valid reasons. Success may reveal that a contribution mattered more than initially understood. A leader may have created the conditions for success without doing the visible work. New evidence may show that an early decision, initially considered minor, was critical.
 
@@ -82,7 +82,7 @@ An account can distinguish the main contributions:
 
 > The concept originated in customer support. Design and engineering built the service. Amara led cross-functional delivery. The product director held executive accountability and secured the final investment.
 
-This gives more information than a slogan without reproducing an activity log. It identifies the main contributions without assigning all ownership to one person.
+The account identifies distinct contributions without reproducing the activity log or assigning all ownership to one person.
 
 ## 4. Some contributions receive more visibility
 
@@ -106,7 +106,7 @@ Each nomination method has limits. Manager-only nominations may miss work outsid
 
 Panels should define what the recognition rewards. A criterion such as “impact” might mean revenue, safety, quality, service, innovation, or community value. If the criterion remains broad, assessors should identify the type of impact observed and the evidence supporting it. When a sponsor or panel member has a close relationship with a nominee, use the organisation’s normal conflict-of-interest process. The relationship alone establishes neither misconduct nor impartiality.
 
-An appeal process may focus on eligibility errors, missing material evidence, or procedural failures without reconsidering every judgment. Aggregate information about nominations and recipients by function, location, or other appropriate categories can help reveal possible blind spots. Protect privacy, including the risk of identifying people within small groups.
+An appeal process may focus on eligibility errors, missing material evidence, or procedural failures without reconsidering every judgement. Aggregate information about nominations and recipients by function, location, or other appropriate categories can help reveal possible blind spots. Protect privacy, including the risk of identifying people within small groups.
 
 ## Appreciation and evaluation serve different purposes
 
@@ -124,7 +124,7 @@ Distributed work can leave important contributions visible only within the immed
 
 Legal, contractual, and confidentiality requirements may limit recognition. A client may own the deliverable, a supplier agreement may restrict public attribution, or confidential work may be unsuitable for a portfolio. Clarify these limits before work begins where possible. If public recognition is restricted, options may include internal acknowledgement, references, anonymised case descriptions, or approved contribution statements.
 
-Do not measure remote contribution through visible online activity. Message volume, meeting airtime, and frequent updates are weak indicators of results, judgment, or coordination. Ask project owners and collaborators about material contributions. Use document or artefact histories only where appropriate and consistent with privacy rules. Recognition reviews should not become monitoring of individual activity.
+Do not measure remote contribution through visible online activity. Message volume, meeting airtime, and frequent updates are weak indicators of results, judgement, or coordination. Ask project owners and collaborators about material contributions. Use document or artefact histories only where appropriate and consistent with privacy rules. Recognition reviews should not become monitoring of individual activity.
 
 Time zones also shape visibility. If demonstrations for senior audiences always take place during one region’s night, the same employees will repeatedly get presentation opportunities. Rotate meeting times, allow recorded presentations followed by live questions, or hold regional showcases whose contributions feed into a shared organisational record.
 
@@ -146,13 +146,13 @@ A simple update identifies the outcome, your contribution, and the contributions
 
 > The branch completed the migration without missing a service window. I designed the cutover and led the overnight coordination. Lina’s infrastructure team completed the database work, and the branch leads tested customer access.
 
-For performance discussions, add the judgment you exercised and what you learned:
+For performance discussions, add the judgement you exercised and what you learned:
 
 > When the supplier delay threatened the deadline, I proposed splitting the migration and obtained approval for the resulting risk. The first phase showed that our checklist needs a clearly assigned rollback owner.
 
-These statements describe individual contributions without claiming sole ownership. Keep a brief monthly record: recent and visible work is often easier to remember than less visible contributions. Include work you enabled through coordination and support as well as tasks you completed yourself.
+Keep a brief monthly record using this format, including coordination and support. It helps performance discussions capture contributions that recent or highly visible work might otherwise overshadow.
 
-When correcting inaccurate recognition, focus on the record:
+Use that record to support a specific correction:
 
 > I was pleased to see the project recognised. Could we update the slide before it is reused? It currently describes me as support, but I led the rollout and made the regional sequencing decision. “Delivery lead” would match the project record.
 
@@ -174,9 +174,9 @@ If contributors disagree about authorship or ownership, managers should review w
 
 ## Correct attribution without unnecessary public blame
 
-When a contribution has been omitted, a manager’s first priority should be to correct the record. Publicly saying, “Alex forgot to thank the team,” may cause unnecessary embarrassment and discourage contributors from raising future concerns.
+Correct an omission directly. Publicly saying, “Alex forgot to thank the team,” may embarrass people and discourage future requests.
 
-Correct the attribution directly: “The original slide did not accurately reflect the delivery roles. Here is the updated contribution list.” Then examine privately how the omission occurred and improve the process. Deliberate or repeated appropriation may require formal accountability. The public correction should disclose only what is needed to restore an accurate record.
+A manager can say: “The original slide did not accurately reflect the delivery roles. Here is the updated contribution list.” Examine the cause privately and improve the process. Deliberate or repeated appropriation may need formal accountability; disclose only what the public correction requires.
 
 An effective apology identifies the error and remedy. “Sorry if anyone felt overlooked” shifts attention to people’s reactions. A clearer statement is: “We omitted Amara’s delivery leadership from the launch story. We have corrected the record and added a contribution review before future presentations.”
 
@@ -184,7 +184,7 @@ People should not have to show gratitude for having their contribution accuratel
 
 ## Common mistakes in a credit dispute
 
-The first mistake is waiting until an award, promotion, or performance decision to establish who contributed what. Reconstructing months of work afterward allows memory, visibility, and status to shape the record.
+The first mistake is waiting until an award, promotion, or performance decision to establish who contributed what. Reconstructing months of work afterwards allows memory, visibility, and status to shape the record.
 
 The second is assuming that every omission is deliberate. Space limits, audience expectations, professional conventions, or error may explain a missing name. Ask for a factual correction and observe the organisation’s response.
 
@@ -196,7 +196,7 @@ The fifth is making a public correction the first response when a prompt private
 
 The sixth is assuming that a general team thank-you repairs a specific omission. “Thanks to everyone” can accompany a formal record that names only one contributor. Ask for the recognition needed to correct the relevant record or inform the decision.
 
-## A response ladder for missing credit
+## How to respond: missing credit
 
 - **Clarify the recognition standard.** Establish what authorship, ownership, acknowledgement, and presenter status mean in this context.
 - **Describe the contribution accurately.** Identify the work, decision, artefact, or result without overstating its scope.
@@ -217,15 +217,17 @@ The record gives evaluators evidence beyond who is most visible or confident at 
 
 Review the account that will be used internally or publicly. Does it identify the accountable leader, major contributors, delivery owners, and important partners at an appropriate level? Does it recognise leadership without implying sole authorship? Are there privacy, confidentiality, contractual, or safety limits on recognition?
 
+## Returning to Amara
+
 In Amara’s case, the company clarifies the launch roles in the internal record, names her as delivery lead, and invites her to co-present the retrospective. The product director remains the executive sponsor, and engineering retains recognition for its central technical contribution. More accurate attribution does not require taking credit away from others.
 
 ## Practice: write the truthful launch sentence
 
 Choose a recent successful project or outcome and describe it in three ways:
 
-1. the simplified version people usually repeat;
-2. a complete account of every significant task and contributor; and
-3. a practical account of the origin, material contributions, and accountable roles, with enough detail for the audience.
+1. the simplified version people usually repeat
+2. a complete account of every significant task and contributor
+3. a practical account of the origin, material contributions, and accountable roles, with enough detail for the audience
 
 Compare the second and third versions. Which contributors or forms of work disappear as the account gets shorter? Is each omission reasonable for the audience, or does the selection repeatedly exclude coordination, maintenance, junior contributions, remote work, or a particular group? Where needed, add a short contribution line or a link to the fuller record to preserve important context.
 
