@@ -1,6 +1,6 @@
 # Chapter 3: Agendas and Attention
 
-## The item at 4:55
+## Case: Mateo’s billing concern receives too little discussion time
 
 Mateo has spent six weeks reviewing customer complaints about a new billing process. The problem is not catastrophic, but it is persistent: invoices are technically correct and regularly misunderstood, leading to calls, late payments, and avoidable distress. To address this, he is allocated ten minutes at the monthly operations meeting.
 
@@ -12,7 +12,7 @@ Information can be complete, timely, and usable yet still fail if no process giv
 
 The lesson is not that every choice of agenda is manipulation. It is that the allocation of attention is a form of governance and deserves an explicit process.
 
-## The anatomy of attention
+## Five conditions for reviewing an issue properly
 
 An issue receives meaningful attention when five conditions align:
 
@@ -26,7 +26,7 @@ An agenda can list an item while denying several of these conditions. Conversely
 
 This chapter examines five ways that chance narrows: unequal preparation, low-visibility placement, avoidable urgency, sequencing that constrains later choices, and scope drawn too tightly.
 
-## 1. Some participants prepare before others
+## 1. Unequal time and information for preparation
 
 Pre-meetings are not inherently unfair. A technical lead may brief the chair so that the agenda is realistic. A manager may rehearse with a nervous presenter. Parties to a negotiation may clarify their authority. People with accessibility or language needs may require materials in a different format or earlier than others.
 
@@ -40,7 +40,7 @@ A chair can reset expectations by disclosing the process: “Three members devel
 
 If you enter the process late, avoid accusing better-prepared participants of collusion. Ask what work preceded the meeting, which choices remain open, and what deadline prevents further review. If the answer is “nothing is really open,” ask the record to describe the meeting accurately as ratification or communication, not consultation.
 
-## 2. Important issues are placed out of sight
+## 2. Agenda placement limits attention to important issues
 
 An agenda item can be obscured by where, when, or how it is presented. It may be scheduled at the end of a lengthy meeting, included in a consent agenda, given an unclear title, or placed deep within an attachment. It may also be postponed repeatedly without resolution. Any of these choices may be reasonable on its own, but a recurring pattern that provides no clear path to consideration or decision should be examined.
 
@@ -52,7 +52,7 @@ A document can make information available without making it easy to find or asse
 
 When an item is deferred, the minutes should explain the reason, identify the person responsible for the next action, specify where the matter will be reconsidered, and set a deadline. Simply stating “Return next month” does not establish a clear process. Mateo’s billing issue was easier to overlook because no one was assigned responsibility, and the minutes documented a proposed solution before the underlying problem had been fully understood.
 
-## 3. Avoidable urgency narrows review
+## 3. Avoidable urgency reduces time for review
 
 Genuine urgency sometimes requires organisations to act before all the information is available. Systems may fail, customers may be at risk, markets may change, deadlines may approach, or key people may become unavailable. In these circumstances, decision-makers need authority to act quickly. However, urgency should not remove the obligation to explain why accelerated action is necessary.
 
@@ -73,7 +73,7 @@ An urgency statement should record:
 - the date on which the decision will be reviewed retrospectively.
 
 This process need not delay urgent action. Its purpose is to preserve accountability when normal review procedures must be shortened.
-## 4. Early decisions constrain later input
+## 4. Early commitments limit later choices
 
 The order of decisions affects the choices that remain available. Once an organisation announces a launch date, signs a lease, assigns a team, or tells a customer that it has selected an option, reversing course becomes more difficult. Although these early actions may not formally determine the final decision, they increase the financial, reputational, and psychological cost of choosing differently later.
 
@@ -85,7 +85,7 @@ The solution is not to consult indefinitely. It is to make the sequence of decis
 
 Before making an important early commitment, ask: “Which future choices will become more difficult if we act now?” This question can reveal when an announcement, reservation, or pilot will constrain later decisions more than its description suggests.
 
-## 5. Scope can predetermine the answer
+## 5. Review scope can predetermine the decision
 
 Every review needs a defined scope. Without clear boundaries, discussion can expand indefinitely and decisions may be delayed. However, the scope becomes problematic when it excludes factors that are central to the issue or is framed so narrowly that it effectively predetermines the conclusion.
 
@@ -97,7 +97,7 @@ A scope note should state what is included, what is excluded, why those boundari
 
 Participants can test the scope by asking a direct question: “If staffing levels are excluded, can this review still explain the increase in response times?” Managers should answer clearly: yes, no, or only partly. A limited review can be appropriate, provided its limitations are stated openly.
 
-## Status shapes attention—and design can counter it
+## How status affects which concerns receive attention
 
 Concerns are not presented in an environment where every issue receives equal consideration. How leaders respond may depend on the presenter’s seniority, expertise, relationships, and connection to current organisational priorities. Employees and middle managers therefore often describe concerns in terms that are likely to gain executive attention, such as cost, risk, customer impact, organisational values, or strategic opportunity. Research on “issue selling” examines how people seek support and attention for matters that might otherwise remain outside senior leaders’ priorities.[^4]
 
@@ -107,7 +107,7 @@ Organisations can broaden their attention by maintaining several appropriate rou
 
 Meeting chairs also have significant influence over which views receive attention. They can invite contributions from people who have not spoken, separate requests for factual clarification from substantive debate, reserve enough time for the stated decision, describe disagreements accurately, and reject requests for unannounced approvals. Effective chairing is not merely impartial observation; it involves actively creating fair conditions for informed participation.
 
-## Overloaded agendas reward easy decisions
+## Overloaded agendas favour easy decisions
 
 An overloaded agenda affects more than the length of each discussion. It tends to give priority to items that are familiar, supported by senior sponsors, immediately visible, or relatively easy to resolve. Long-term preventive work may be postponed in favour of urgent problems, while issues involving several functions may receive less attention than those assigned to a single accountable leader. Participants may also avoid raising difficult objections when they believe those objections are unlikely to succeed.
 
@@ -115,7 +115,7 @@ As a result, an overloaded agenda can reinforce existing differences in influenc
 
 Meeting time should be allocated according to the complexity and consequences of a decision, not the seniority of the presenter. No allocation will be perfect, but this principle gives the chair a reasonable basis for setting priorities. A ten-minute status update presented by an executive should not automatically take precedence over a forty-minute safety decision led by a junior specialist.
 
-## The first frame becomes the default
+## The opening description shapes the discussion
 
 How an agenda item is introduced continues to shape the discussion after the item begins. The opening description tells participants what problem they are expected to solve. Saying, “We need to reduce resistance to the new system,” assumes that employees’ unwillingness to adopt the system is the problem. Saying, “We need to understand why system use has declined,” allows the group to consider other possible causes, including system design, training, incentives, and measurement errors.
 
@@ -135,7 +135,7 @@ This format does not require the author to be neutral about the likely cause. It
 
 When an opening description appears to assume its own conclusion, participants can propose a broader formulation without questioning the sponsor’s motives. For example: “Could we begin by describing the increase in repeat calls and then test whether customer education is one of the causes?” Reframing the issue in neutral terms is often more useful than accusing the sponsor of bias.
 
-## Attention outside the meeting room
+## How issues receive attention outside meetings
 
 Modern workplaces divide attention among dashboards, messaging platforms, project-management tools, email, town halls, and recorded presentations. Moving work outside scheduled meetings can allow people in different time zones to participate and give them more time to consider the issues. However, information can still be overlooked even when it is widely available.
 
@@ -147,7 +147,7 @@ Written input can reduce the immediate influence of status and confidence by rec
 
 Accessibility must also be built into the process. Captions, documents that work with screen readers, legible charts, sufficient breaks, and materials circulated in advance affect whether participants can understand and assess an issue within the time provided. Giving everyone the same ten-minute discussion period is not genuinely equal when some participants cannot access the relevant document until it is displayed during the meeting.
 
-## When the stakes are personal
+## Respond to concerns about employment, health, or wellbeing
 
 Discussions about agenda management can seem detached when the issue affects employment, health, identity, professional responsibilities, or the wellbeing of a community. A person asking for an issue to be heard may interpret a delay as evidence that the organisation does not consider it important. At the same time, the chair may be deciding among several urgent matters, each with serious consequences for those affected.
 
@@ -175,7 +175,7 @@ The retrospective should therefore be scheduled at the same time the emergency e
 
 The purpose of the retrospective is not to blame people who acted under pressure. It is to prevent a temporary exception from becoming an accepted practice without review. If the decision was sound, the review can confirm why it worked. If avoidable internal delays created the emergency, the organisation can improve its planning and lead times rather than treating the last-minute response as a success.
 
-## Common mistakes when seeking attention
+## Common mistakes when seeking attention for an issue
 
 The first mistake is assuming that a more detailed presentation will make an issue a higher priority. If the forum lacks the authority to act or the time to consider the matter properly, additional slides will not solve the problem. First identify the decision the forum can make and the evidence needed to support it.
 
@@ -187,7 +187,7 @@ The fourth mistake is treating every deferral as a rejection. Postponement can i
 
 The fifth mistake is turning the wording of the minutes into the main dispute. Material inaccuracies should be corrected promptly, but minor differences in phrasing should not consume attention. Concentrate on whether the record accurately states the decision, the supporting evidence, any dissent, the responsible owner, and the next action.
 
-## For managers: design an honest agenda
+## For managers: plan agendas for informed decisions
 
 Before a meeting involving significant decisions, label each agenda item with four details:
 
@@ -206,7 +206,7 @@ Postponing the decision openly is better than claiming that an incomplete review
 
 After the meeting, confirm the next step for every deferred or conditional item. Each one should have a named owner, a destination, and a date. Mateo’s organisation eventually establishes a monthly review of customer complaints and process failures, led by a designated owner and linked directly to operational planning. When forty minutes is allocated to his billing issue, the group concludes that both clearer invoice language and a change to the billing process are required. The earlier claim that customers simply lacked financial understanding remains documented as an unsupported hypothesis.
 
-## Practice: read an agenda as a decision map
+## Practice: check an agenda’s purpose, timing, and follow-up
 
 Review a recent meeting agenda and classify each item according to what participants were actually expected to do: receive an update, prepare for later work, discuss an issue, consider a recommendation, make a decision, or complete a ceremonial requirement. Then ask:
 

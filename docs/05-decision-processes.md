@@ -1,6 +1,6 @@
 # Chapter 5: Decision Processes
 
-## The decision that moved rooms
+## Case: A platform decision moves to another committee
 
 Renee is part of a cross-functional team selecting a new customer-support platform. The team has published evaluation criteria, tested three systems, and begun preparing a final recommendation. Two days before the scheduled decision meeting, the executive sponsor cancels it and moves the purchase to the senior technology steering committee, explaining that the organisation needs to act quickly.
 
@@ -12,7 +12,7 @@ Coalitions help proposals gain support; decision processes determine how that su
 
 This chapter does not argue that every decision requires consensus. Organisations need authorised people and bodies to make choices. The aim is to make decision authority, evidence, criteria, and reasoning sufficiently visible that the process can be understood and reviewed.
 
-## Six parts of a legible decision
+## Six elements of a clear decision process
 
 A consequential decision is easier to understand and review when six elements are explicit:
 
@@ -27,7 +27,7 @@ The level of formality should match the significance of the decision. A supervis
 
 Five recurring problems can make a decision difficult to reconstruct: changing the decision forum, changing who participates, creating commitments before formal review, obscuring the source or history of the decision, and changing the criteria after the available options are already known.
 
-## 1. Moving the decision changes who decides
+## 1. Changing the decision forum changes who decides
 
 A decision venue is more than a physical location. It may be a meeting, committee, workflow, jurisdiction, digital platform, or informal discussion. Moving an issue from one venue to another can change who participates, which rules apply, what expertise is available, how the decision is recorded, whether review or appeal is possible, and which outcomes are available.
 
@@ -59,7 +59,7 @@ Meeting quorum establishes the minimum number required for formal action; it doe
 
 Do not infer motive from attendance records alone. Reconstruct the sequence of invitations, recusals, substitutions, attendance, and decision authority. If a membership change may have materially affected the outcome, first determine whether the decision should be paused, reconsidered, or formally ratified with the required participants.
 
-## 3. Commitment can precede review
+## 3. Commitments made before approval limit later choices
 
 Precommitment occurs when actions taken before formal approval make a later choice difficult to change. A sponsor may announce a launch date to a customer, a manager may identify a preferred candidate, a team may begin implementation, or a presentation may describe one option as “the plan” while calling the others “alternatives.” None of these actions formally determines the final decision, but each can increase the cost of choosing differently.
 
@@ -79,7 +79,7 @@ When a decision appears to have been settled in advance, ask what remains genuin
 
 Participation after a decision can still provide useful feedback, but it is different from participation while alternatives remain open. Experimental research has found that both pre-decision and post-decision opportunities for voice can improve perceptions of fairness, with stronger effects for pre-decision voice in the setting studied.[^2] The practical principle is simple: consultation should occur while participants can still influence the choice. If the decision has already been made, the process should be described accurately as implementation feedback, evaluation, or review.
 
-## 4. Provenance shows who decided and why
+## 4. Decision records show who decided and why
 
 Decision provenance is the record of how a decision moved from the original question to the final authority, evidence, choice, and rationale. The term sounds technical, but the test is simple: six months later, can a reasonable person tell what was decided, who decided it, what authority they used, and which information materially shaped the outcome?
 
@@ -101,7 +101,7 @@ The record does not need to reproduce the entire discussion. Its purpose is to p
 
 When a decision is given verbally, confirm it in writing. For example: “My understanding is that you authorised option C today because the regulatory deadline makes the longer implementation impractical. I will proceed on that basis unless I have misunderstood.” This creates a usable record while giving the decision-maker an opportunity to correct it.
 
-## 5. Criteria can drift after the options are known
+## 5. Criteria change after the options are known
 
 Decision criteria sometimes need to change. New evidence may reveal an overlooked requirement, a regulator may introduce a new rule, a candidate may disclose a conflict, or a prototype may expose a reliability problem. A process that cannot respond to relevant new information may be less fair than one that adapts transparently.
 
@@ -127,7 +127,7 @@ A decision-maker has three corresponding responsibilities. First, relevant input
 
 Consensus can be useful when broad commitment is necessary and there is enough time to develop it. It can also create problems if every participant effectively gains a veto, discussions continue until opponents give way, or pressure is concealed beneath the appearance of agreement. Define consensus in advance. It may mean no unresolved reasoned objection, an outcome everyone can accept, or complete agreement. If the chair or another authority may make the final decision when consensus cannot be reached, participants should know that before the discussion begins.
 
-## Delegation without disappearance
+## Define delegated authority, limits, and accountability
 
 Senior leaders cannot make every organisational decision themselves. Delegation allows decisions to be made closer to the relevant knowledge and keeps work moving. Problems arise when the allocation of authority is unclear—for example, when people say “the director decided” after the director had delegated the matter, or “the team agreed” when a manager still held final veto power.
 
@@ -141,7 +141,7 @@ Delegated responsibility should be matched by enough authority and resources to 
 
 Temporary delegation should also have a defined end. Acting appointments, emergency powers, and substitute approval arrangements may continue after the circumstances that justified them have passed. Record when the delegation begins, what it covers, and when it expires. If the arrangement proves useful enough to continue, approve it formally as part of the normal governance structure rather than allowing temporary authority to become permanent by default.
 
-## Review and appeal serve different purposes
+## Distinguish decision reviews from appeals
 
 A review asks whether a decision should be reconsidered under defined conditions. An appeal asks a separate authority to examine an alleged error, unfairness, or breach. Organisations sometimes use these terms interchangeably, which can create false expectations about whether the process will reconsider the merits of the decision or only check whether the correct procedure was followed.
 
@@ -161,7 +161,7 @@ The level of independence should reflect the nature of the issue. A routine expe
 
 A review route may exist formally but still be ineffective in practice. A process hidden in an obscure policy, dependent on evidence the applicant cannot access, or routinely referred back to the original decision-maker provides little meaningful review. Before problems arise, test whether a person can find the process, understand the requirements, use it without unreasonable barriers, and receive a reasoned response within the stated time.
 
-## Procedure can protect or obstruct
+## Excessive procedure can delay substantive review
 
 Detailed procedures can protect fairness, but excessive procedure can also prevent meaningful participation. Repeated formatting requirements, disputes over which forum has authority, and multiple rounds of review may delay a proposal or complaint before its substance is addressed. The relevant principle is that decision processes should include clear service standards.
 
@@ -169,7 +169,7 @@ Each process should state what is required for a submission to be complete, who 
 
 At the same time, reducing bureaucracy should not mean removing necessary safeguards. Before eliminating a step, identify the purpose it serves. If several approvals perform the same function, they may be combined. If an independent review exists because the primary decision-maker has a conflict or material interest, however, speed alone is not a sufficient reason to remove it.
 
-## Decision records require privacy boundaries
+## Protect sensitive information in decision records
 
 Good decision records preserve the information needed to explain and review a decision without retaining unnecessary personal or sensitive material. Health information, complaints, legal advice, security details, personal data, and commercially sensitive evidence may need to be stored separately or subject to restricted access.
 
@@ -177,7 +177,7 @@ A widely shared record might state: “Candidate B was appointed following asses
 
 Do not create informal dossiers because the official record is incomplete. Ask the responsible process owner to maintain the required documentation. If you keep a personal note, limit it to your own participation, the decision communicated to you, and any action you are responsible for taking. Follow the applicable privacy and retention requirements.
 
-## Decisions supported by algorithms or AI
+## Review decisions supported by algorithms or AI
 
 Organisations increasingly use scoring systems, automated recommendations, and generative AI to screen applications, rank options, summarise information, and support decisions. These tools do not replace the basic requirements of a clear decision process. They add further questions about how the technology is selected, used, and reviewed.
 
@@ -194,7 +194,7 @@ Ask:
 
 The National Institute of Standards and Technology’s voluntary AI Risk Management Framework organises AI risk management around four functions: govern, map, measure, and manage.[^5] An organisation does not need to adopt that framework to apply the underlying principles. It can define the purpose and context of the system, assign accountable owners, assess potential effects, test performance, and maintain a clear route for correction. Where automated employment decisions are regulated by law, appropriate legal and specialist advice should be obtained.
 
-## A good outcome does not cure a weak process
+## A good outcome does not justify a flawed process
 
 Suppose Renee’s preferred vendor is not selected and the chosen system performs well. Colleagues may conclude that her concerns about the decision process did not matter. That conclusion confuses the quality of the outcome with the quality of the process. Strong system performance may support the final choice, but it does not explain why the decision moved to another forum, whether the project team’s evidence was represented accurately, or why the evaluation criteria changed.
 
@@ -213,7 +213,7 @@ A retrospective can preserve the distinction by recording both perspectives sepa
 
 Keeping these records separate reduces the risk of rewriting the original decision in light of hindsight and prepares the ground for the discussion of organisational narratives in Chapter 12.
 
-## A response ladder for a questionable decision
+## How to address problems in a decision process
 
 - **Clarify the decision status and authority.** Establish whether the matter is still proposed, preferred, conditionally approved, or fully approved, and identify who has final authority to decide.
 - **Check the governing rule and record.** Review the mandate, criteria, membership requirements, or decision record that you are authorised to access.
@@ -224,7 +224,7 @@ Keeping these records separate reduces the risk of rewriting the original decisi
 
 Begin with clarification because some apparent process failures are misunderstandings. Move to stronger intervention when the problem is significant, urgent, or recurring.
 
-## For managers: a one-page decision charter
+## For managers: define the decision process before comparing options
 
 For recurring or high-stakes decisions, define the decision framework before evaluating the options:
 
@@ -243,7 +243,7 @@ Avoid vague terms. “Business needs” is not a usable criterion until it is tr
 
 Renee asks the steering committee to document the platform decision using this framework. The committee confirms that it held final authority and that enterprise fit was relevant, although it had been introduced late. It then reassesses all three vendors against that criterion using the project team’s evidence. The same vendor remains the preferred choice, but the revised record accurately distinguishes the project team’s assessment from the steering committee’s decision. The process is improved without assuming that the original outcome was necessarily wrong.
 
-## Practice: reconstruct one decision
+## Practice: trace a decision’s authority, evidence, and rationale
 
 Choose one decision made within the past three months. Using only records and information you are authorised to access, answer:
 

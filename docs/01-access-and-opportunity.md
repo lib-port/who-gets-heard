@@ -1,6 +1,6 @@
 # Chapter 1: Access and Opportunity
 
-## The invitation that never arrives
+## Case: Darius’s team lacks direct access to product decisions
 
 Darius manages customer research at a software company. His team interviews clients, monitors product adoption, and investigates why features that initially appear promising sometimes fail. When the company establishes a monthly product council, Darius expects a research representative to attend, but no one from his team is invited.
 
@@ -14,7 +14,7 @@ Research on organisational networks distinguishes a person’s formal position f
 
 This chapter examines five ways access may become restricted: exclusion from an important forum, late changes to attendance, dependence on sponsorship, reliance on a gatekeeper, and opportunities communicated mainly through informal insider networks.
 
-## 1. Unequal access to an important forum
+## 1. Unequal access to decision-making meetings
 
 Meetings differ in purpose and authority. Some are used only to exchange information, while others define the problem, set evaluation criteria, recommend action, or commit the organisation to a course of action. Receiving the minutes after a decision meeting is not equivalent to participating in it. The minutes may not capture how uncertainty was discussed, why alternatives were rejected, or whether an informal assurance influenced the decision.
 
@@ -30,7 +30,7 @@ An individual can make a focused request by explaining the contribution that is 
 
 Managers can improve trust by publishing the forum’s mandate, membership criteria, agenda-submission process, and method for consulting affected roles. The organisation should also compare those stated rules with actual attendance from time to time. The purpose is not to achieve perfect numerical representation, but to ensure that the forum has not gradually become accessible only through an informal closed network.
 
-## 2. Last-minute changes to who is in the room
+## 2. Last-minute changes to meeting participants
 
 Adding or replacing a participant shortly before a meeting can affect the discussion even if that person says very little. A new participant may contribute specialist knowledge, exercise formal or informal influence, or signal that senior leaders prefer a particular outcome. A substitute may also change the discussion by removing the original participant’s perspective, priorities, or willingness to challenge the proposal.
 
@@ -46,7 +46,7 @@ Consider a procurement review that the chief financial officer joins five minute
 
 The necessary safeguards are usually straightforward. Record significant attendance changes, explain substitutions, restate the forum’s authority, circulate any new material, and provide further review when a late intervention materially changes the basis of the decision. These measures also protect the late participant by preventing others from attributing more authority or intention to their presence than they intended.
 
-## 3. Access through a sponsor
+## 3. Access to opportunities through sponsors
 
 Sponsorship occurs when a person with organisational influence actively creates an opportunity for someone else or advances an idea on their behalf. A sponsor might recommend a colleague for a challenging assignment, introduce a proposal to senior decision-makers, or lend credibility to work that might otherwise receive little attention. Used well, sponsorship can be a constructive form of influence.
 
@@ -62,7 +62,7 @@ Individuals can also make sponsorship more transparent. A sponsor should explain
 
 Managers should examine patterns of advocacy, not merely whether a formal sponsorship programme exists. They should ask whether the same employees are repeatedly nominated and whether remote workers, part-time staff, contractors, and employees outside headquarters have realistic opportunities to demonstrate their abilities to potential sponsors. Uneven patterns may reveal a structural weakness in how talent becomes visible, rather than intentional favouritism.
 
-## 4. Dependence on a gatekeeper
+## 4. Depending on one person for access
 
 Gatekeepers manage access to limited time, information, and decision-making capacity. Executive assistants protect senior leaders’ schedules, programme managers direct requests to the appropriate forum, security staff control access to sensitive material, and community leads connect people across organisational boundaries. Effective gatekeepers reduce unnecessary traffic and help legitimate requests reach the right person or process.
 
@@ -78,7 +78,7 @@ Individuals should not try to bypass a legitimate gatekeeper through personal in
 
 This question clarifies responsibility without alleging misconduct. It may also reveal that the gatekeeper has been given more work than one person can reasonably manage, in which case the organisation should address the capacity problem.
 
-## 5. Narrow routes to opportunities
+## 5. Development opportunities repeatedly go to the same people
 
 Many career-building opportunities are assigned informally before they are recognised or advertised as such. An employee may be asked to attend a meeting, resolve a client problem, draft a note for senior leaders, or join a temporary project. Although each assignment may appear minor, it can build skills, relationships, visibility, and a record of experience that leads to further opportunities.
 
@@ -94,7 +94,7 @@ Managers can maintain a simple opportunity log recording significant assignments
 
 At the organisational level, major opportunities should be advertised, nomination routes should extend beyond a small group of managers, and employees should be given sufficient time or compensation when developmental work adds to their normal responsibilities. Leaders should not assume that the most visible employees are the most ambitious. People may avoid self-promotion because of cultural norms, personality, disability-related barriers, previous treatment, or uncertainty about informal expectations. A fair process provides several ways to express interest and become eligible.
 
-## What access is, and is not
+## What fair access requires
 
 Fair access does not mean that everyone is entitled to attend every meeting or join every conversation. Organisations may legitimately restrict participation to protect confidentiality, keep forums workable, and preserve delegated decision-making authority. Fair access also does not require identical results. Two employees may be considered through the same fair process and still receive different assignments.
 
@@ -107,7 +107,7 @@ A fair access process has four practical features:
 
 Clear rules benefit leaders as well as employees. They reduce informal lobbying, repeated private discussions, and suspicion about how access is allocated. They also help managers explain exclusions respectfully. For example, “This meeting includes one representative from each function, and your input will be submitted through this process” is clearer and more constructive than “You do not need to be there.”
 
-## How small access advantages compound
+## How early access can create further opportunities
 
 Access to an important forum often creates several advantages at once. A person invited to a senior meeting hears how leaders describe issues, learns which concerns receive attention, and builds relationships outside their reporting line. When another opportunity arises, that person is more visible and better prepared to take it on. Strong performance may then appear to confirm that granting the original access was the right decision. Even without favouritism, an initial opportunity can therefore lead to further advantages.
 
@@ -119,7 +119,7 @@ This does not require every assignment to rotate equally. Some tasks carry too m
 
 Managers may reasonably resist creating a formal selection process for every minor task. The response should be proportionate. A five-minute assignment does not require a panel, but recurring work that materially affects visibility or career development should be recorded and communicated. A monthly message listing upcoming client reviews and temporary leadership assignments, together with an invitation to express interest, may be enough to prevent the same people from receiving every opportunity.
 
-## The difference between representation and presence
+## How representatives gather views and report decisions
 
 Organisations often limit attendance by asking one person to represent a function, location, or employee group. This arrangement can work effectively when three conditions are met.
 
@@ -129,7 +129,7 @@ The representative’s authority should also be clear. Are they expected to expr
 
 People who are represented rather than present should ask practical questions: What information can they submit, and by what deadline? Will differing views be recorded? When and how will the outcome be communicated? Representatives should not claim that a group agrees when they have not established that agreement. They might say, for example, “The team agrees that action is needed, but members hold two different views about timing.” Limited attendance is easier to justify when the views of absent participants are gathered, presented, and reported accurately.
 
-## Common mistakes when access feels closed
+## Common mistakes when seeking access
 
 The first mistake is assuming that attendance automatically creates influence. A place in the meeting may help, but it has little value if the forum is overcrowded, participants have not reviewed the material, or the relevant decision has already been shaped elsewhere. A concise written brief delivered at the right time may have greater impact. Focus on the route that can genuinely affect the work. In some cases, the appropriate solution is not another attendee but a formal requirement to consult the relevant person or function before the decision.
 
@@ -141,7 +141,7 @@ The fourth mistake is collecting extensive evidence before defining the concern.
 
 The fifth mistake is treating the gatekeeper as the source of the problem before understanding the role. The person may be following instructions, compensating for a weak process, or managing more requests than the organisation recognises. Clarify what they are authorised and expected to do. If the role has acquired informal decision-making power, redefining its authority and workflow will usually be more effective than replacing the person currently performing it.
 
-## A fuller return to Darius
+## Case: Darius establishes a process for research input
 
 Darius decides not to seek permanent research membership on the product council. Instead, he asks the council secretary for its terms of reference and reviews the four most recent agendas. He finds that three council decisions relied substantially on the interpretation of customer research. He therefore proposes a targeted rule: whenever an agenda item relies on primary research, the researcher responsible for that work should receive the decision paper at the same time as council members, have an opportunity to correct material errors, and be invited to attend that portion of the meeting when the chair anticipates factual or methodological questions.
 
@@ -149,7 +149,7 @@ The chair agrees that the research owner should receive the paper and have a def
 
 The arrangement does not give researchers and product managers identical access to the council. Product managers continue to attend more regularly because of their ongoing responsibilities. The important change is that relevant research can now reach significant decisions through a dependable process. Darius gains neither a new title nor a permanent seat; he gains the access required for his team to perform its role effectively.
 
-## A response ladder
+## How to address concerns about access
 
 When access appears unfair, begin with the least formal step likely to clarify or resolve the problem.
 
@@ -165,7 +165,7 @@ When access appears unfair, begin with the least formal step likely to clarify o
 
 These steps are not a requirement to remain informal. Begin at a later stage when there is immediate danger, a substantial power imbalance, a credible risk of retaliation, or an urgent deadline. The purpose is to match the response to the circumstances, not to postpone action.
 
-## For managers: audit the edges
+## For managers: review access to meetings and opportunities
 
 Access problems often arise in informal parts of otherwise formal processes. Examples include reusing an outdated invitation list, assigning a temporary project to whoever happens to be available, or announcing a nomination only in a meeting that some eligible employees could not attend. Managers can identify these problems through a brief quarterly review.
 
@@ -183,7 +183,7 @@ Do not assume that every difference in participation results from bias. First as
 
 This review is especially important in hybrid and distributed workplaces. Distance may arise from differences in working hours, technology, workplace relationships, or organisational position, as well as physical location.[^4] A remote employee may attend the formal meeting but remain excluded from the informal conversations that shape the agenda and available options. Being able to join the same calendar event does not necessarily provide an equal opportunity to influence the work.
 
-## Practice: map an opportunity
+## Practice: trace how an opportunity is allocated
 
 Select one workplace opportunity that can materially affect an employee’s development or visibility. Examples include presenting to senior leaders, joining a project, receiving specialist training, acting in a more senior role, meeting an important client, or being nominated for recognition.
 

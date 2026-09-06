@@ -14,7 +14,7 @@ Every organisation must allocate limited resources, including attention, informa
 
 The challenge is to understand these dynamics without becoming either cynical or naïve. Treating every unclear decision as evidence of bad intent can lead to unsupported conclusions. Assuming that formal rules explain everything ignores the informal judgments and relationships through which much work is accomplished. A more useful approach takes informal influence seriously while distinguishing observable facts from assumptions about motive.
 
-## Why politics is difficult to discuss
+## Discuss workplace politics without assuming motives
 
 Workplace politics has been studied in several related ways. Researchers examine how people try to influence decisions, how effectively they navigate workplace relationships, and how political an organisation feels to its members.[^1] These are connected but distinct. A person may understand social dynamics without manipulating others. An organisation may feel political because its rules are unclear, even if no one intended that result. A decision may also advantage one group and disadvantage another without deliberate bias.
 
@@ -24,7 +24,7 @@ Technical language can create the same problem. Terms such as _gatekeeping_, _co
 
 This book therefore uses categories as prompts for inquiry rather than conclusions about wrongdoing. “Unequal advance briefing” means that participants entered the same decision with materially different levels of preparation; it does not explain why. “Recognition gatekeeping” means that access to an award, presentation, or other visible credit passes through a limited route; it does not establish discrimination or misappropriation. A useful category identifies what should be examined. The evidence determines what the examination reveals.
 
-## Three maps of the same workplace
+## Formal authority, relationships, and decision processes
 
 To understand how influence operates, it is useful to think of an organisation as having three overlapping maps.
 
@@ -38,7 +38,7 @@ The three maps may align. A project owner may receive the relevant information, 
 
 Such misalignment does not necessarily indicate wrongdoing. Organisations often adapt when circumstances change faster than formal procedures. An intermediary may solve a genuine coordination problem, a private briefing may help participants understand technical evidence, and a senior leader may present a junior colleague’s work because governance rules require senior representation. The relevant questions are whether the arrangement serves a legitimate purpose, is sufficiently transparent for the consequences involved, and can be corrected if it creates a problem.
 
-## Start with the process, not the person
+## Examine the process before judging motives
 
 When a workplace event feels unfair or harmful, people often form an immediate explanation: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ That explanation may be correct, but it may also combine observable facts with past experience and assumptions about motive.
 
@@ -55,11 +55,11 @@ Describing the event in neutral terms does not reduce its seriousness. It create
 
 This approach matters because judgment is affected by context. The way a choice is presented can influence how people interpret it. Knowing whether an outcome later succeeded or failed can change how people assess the earlier decision. Personal interests and expectations can also affect which evidence seems persuasive without anyone deliberately misrepresenting the facts.[^3] These influences affect everyone, including leaders, employees, investigators, and observers.
 
-## A six-part lens
+## Six questions for examining a workplace concern
 
 Throughout this book, six questions will recur. They are not a formal investigation procedure. They are a practical way to separate facts from interpretation and identify the smallest change that may improve the process.
 
-### 1. What process are we examining?
+### 1. Which process is involved?
 
 Identify the specific decision, opportunity, meeting, record, resource, or assignment, and define the relevant period. “Leadership excludes me” is too broad to assess. A more useful statement is: “I was not invited to the three project reviews held between March and May, although the technical lead’s role description states that the role presents risk findings.”
 
@@ -67,15 +67,15 @@ Identify the specific decision, opportunity, meeting, record, resource, or assig
 
 Identify the written authority, published criterion, established practice, or temporary arrangement that governed the situation. If no clear rule existed, record that fact. Disputes often arise because different people rely on different unwritten expectations.
 
-### 3. What is the appropriate comparison?
+### 3. Which similar cases provide a fair comparison?
 
 Compare cases that are similar in the factors relevant to the process. A colleague may have received greater access because of seniority, specialist expertise, a client requirement, or preferential treatment. The comparison should be close enough to distinguish among these explanations. “Everyone else was invited” is less useful than “the other two regional leads managing projects of similar value under the same governance process were invited.”
 
-### 4. What reasonable explanations should be tested?
+### 4. What other explanations fit the facts?
 
 Consider factors such as confidentiality, data protection, legal privilege, safety requirements, accessibility needs, workload, scheduling, emergencies, delegated authority, administrative error, or incomplete information. Testing these explanations does not dismiss the concern. It helps distinguish a justified exception from an unexplained inconsistency.
 
-### 5. What practical effect did the difference have?
+### 5. What were the practical consequences?
 
 Consider whether the difference affected a decision, created unnecessary work, removed an opportunity to respond, concealed a material risk, reduced appropriate recognition, or prevented meaningful review. The consequence should influence the seriousness of the response. A missed invitation corrected within ten minutes is different from repeated exclusion from decisions central to someone’s role.
 
@@ -89,7 +89,7 @@ Together, the six questions support a concise description:
 
 This description avoids premature conclusions about motive. It gives managers, representatives, ombuds practitioners, facilitators, and colleagues a clearer basis for deciding what should be examined or changed.
 
-## Patterns are not proof
+## Patterns do not prove wrongdoing
 
 A pattern is a recurring or significant feature of a process that may help explain how an outcome developed. A pattern alone does not establish motive, misconduct, discrimination, or legal liability.
 
@@ -107,7 +107,7 @@ The important question is not whether informal influence exists, but how it affe
 
 The distinction is not absolute. The same practice may be appropriate in one situation and harmful in another. Restricting information may protect privacy, but withholding it from someone who needs it to perform an authorised role may create risk. Acting quickly may rescue a failing project, while artificial urgency may prevent proper review. Consistent treatment is generally valuable, but rigidly applying the same process can overlook relevant differences or preserve a process that no longer works. Good judgment therefore considers the purpose of the action, the safeguards in place, and its practical consequences.
 
-## Speaking up is a system property
+## Workplace conditions affect whether people speak up
 
 Advice about office politics often focuses on individual behaviour: be more confident, build relationships, document important events, and speak up when something is wrong. These strategies can be useful, but they cannot compensate for every weakness in the surrounding process or culture.
 
@@ -117,7 +117,7 @@ Consider a leader who asks for candid discussion at every meeting but interrupts
 
 This book therefore does not treat organisational influence as a contest that individuals can win through personal skill alone. Individual capability matters, but process design affects everyone’s ability to participate. Shared agendas, common briefing material, explicit criteria, decision logs, clear authorship rules, alternative review routes, and time-limited ownership of unresolved issues are relatively simple controls. They reduce the need for individuals to rely on personal influence to overcome weak processes.
 
-## Evidence without surveillance
+## Keep evidence collection relevant and authorised
 
 Once people learn to identify process patterns, they may be tempted to collect extensive evidence: screenshots, messages, recordings, access logs, or informal files about colleagues. That is usually unnecessary. Wanting certainty does not give someone the right to gather information they are not authorised to access.
 
@@ -129,7 +129,7 @@ For an initial conversation, a short factual note is often sufficient:
 
 This record identifies the date, event, comparison, request, and outcome without assigning motive. If the concern later enters a formal process, an authorised or qualified person can advise which additional records are appropriate. If the matter is resolved informally, unnecessary information about colleagues has not been collected or retained.
 
-## Know when this book is not enough
+## When to seek formal or specialist support
 
 Some workplace concerns require immediate, formal, or specialist support. The relevant rights and procedures vary by jurisdiction and may also depend on profession, contract terms, union arrangements, or sector. A discussion about process should never delay urgent action. Where appropriate, contact an emergency service, regulator, union representative, ombuds office, human-resources function, or qualified adviser.
 
@@ -149,7 +149,7 @@ Each chapter begins with a fictional composite example. It then examines five re
 
 The chapters can be read independently. A reader dealing with a recognition problem can begin with **Credit and visibility**, while someone responsible for a committee may begin with **Decision processes**. The sequence is intended to show how the different forms of influence connect, not to require a fixed reading order.
 
-## A more generous realism
+## Address unfairness without assuming bad intent
 
 Writing about workplace power can easily become cynical. A sharp, suspicious tone may feel satisfying because it names experiences that organisations often avoid discussing. But it can also oversimplify them. Sponsors become patrons, meetings become performances, and mistakes become deliberate tactics. Readers may feel validated while becoming less able to distinguish what happened from why they think it happened.
 

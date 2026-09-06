@@ -1,6 +1,6 @@
 # Chapter 4: Sponsorship and Coalitions
 
-## The support behind the proposal
+## Case: Nora’s proposal gains support with unrelated conditions
 
 Nora wants her company to provide paid time for employees who mentor apprentices. The proposal would have little effect on the overall budget, but it requires coordination among operations, human resources, and finance. Her first written proposal receives no substantive response.
 
@@ -14,7 +14,7 @@ Attention brings an issue into a decision process; support helps it progress. Co
 
 Organisational research has long used the concept of coalitions to explain how individual preferences and influence become collective action.[^1] Research on mentoring, networks, and political skill similarly shows that relationships play an important role in how people navigate organisations and careers.[^2] The relevant distinction is therefore not between relationships and neutrality, but between legitimate advocacy and the inaccurate representation of support.
 
-## What support actually means
+## Different forms of support carry different authority
 
 Workplaces often treat different forms of support as though they mean the same thing. They do not.
 
@@ -56,7 +56,7 @@ A practical response can acknowledge the relationship while keeping the decision
 
 Leaders can reduce hidden exchanges by requiring participants to disclose material conditions attached to their support. A committee may still approve a negotiated package, but it should understand which commitments are linked and why.
 
-## 3. Using a messenger's status
+## 3. The messenger’s status influences the response
 
 Who delivers an idea can affect how it is received. The same proposal may be seen as practical when presented by an experienced operations leader, strategic when presented by an executive, and unrealistic when presented by a new employee. Differences in expertise and accountability can justify different levels of confidence, but status can also influence judgment independently of the evidence. Research on organisational power examines the relationship between structural position and influence without implying that every use of status is improper.[^3]
 
@@ -115,7 +115,7 @@ A package does not always need to be divided. Sometimes the better solution is t
 
 This makes the relationships between the decisions explicit. Nora’s mentoring pilot and its evaluation process are sufficiently connected to be considered together. The overtime policy change is not necessary for the pilot and can therefore receive separate consultation and approval. Separating weakly connected items does not prevent compromise; it allows each proposal to be assessed on its own merits.
 
-## The ethics of coalition building
+## Build coalitions around clear commitments
 
 A constructive coalition is built around a clearly defined purpose, an accurate account of who supports it, visible areas of disagreement, and limits on what each member has agreed to. Members may support the same outcome for different reasons and do not need to agree on every related issue.
 
@@ -133,7 +133,7 @@ Coalitions should not present vulnerable or less powerful participants as eviden
 
 Power differences also affect whether support is genuinely voluntary. A request from a colleague is different from a request made by someone who controls pay, assignments, promotion, or continued employment. Senior people should make clear that disagreement will not carry unrelated consequences: “I am asking for your independent view. Your answer will not affect my support for your project.” The credibility of that assurance depends on consistent behaviour over time.
 
-## Dissent inside a coalition
+## Record disagreements within a coalition
 
 Coalitions can become less transparent as they gain support. Members may worry that visible disagreement will weaken the proposal, so they minimise internal differences and present a unified position. This may help in the short term, but unresolved disagreements often reappear during implementation. If they later become visible, the coalition may appear to have overstated its level of agreement.
 
@@ -143,7 +143,7 @@ Coalitions also need a clear way to revise their position when new evidence emer
 
 The spokesperson should also have defined limits. Before a meeting, agree on what they may negotiate, which changes require further consultation, and how they will report back. In fast-moving situations, an agreed range can provide flexibility: “We can support a pilot lasting three to six months, but any permanent funding arrangement must return to the group for approval.”
 
-## Sponsorship, favouritism, and fair criteria
+## Distinguish sponsorship from favouritism using fair criteria
 
 From the outside, sponsorship and favouritism can look similar: an influential person helps someone they know gain access to an opportunity. The difference should not depend on the sponsor’s stated intentions. It should be assessed by whether the advocacy operates within a fair and reviewable process.
 
@@ -160,7 +160,7 @@ Some sponsors may see independent review as a challenge to their judgment. It is
 
 Organisations should not rely solely on individuals to find influential sponsors. Employees can build relationships and communicate their ambitions, but leaders should also create ways to identify capable people outside their immediate networks. Open office hours, evidence-based talent reviews, rotating exposure to senior forums, and multiple nomination routes can broaden access to sponsorship and opportunity.
 
-## Conflicts of interest are not moral stains
+## Disclose and manage conflicts of interest
 
 People often bring prior relationships, responsibilities, or interests into organisational decisions. A sponsor may have worked with a candidate before. A committee member may lead a team that could benefit from additional funding. A representative may already have argued publicly for one option. The existence of such an interest does not, by itself, prove bias or misconduct.
 
@@ -184,7 +184,7 @@ Verbal agreement can also be ambiguous. A “yes” may indicate firm support, w
 
 This approach does not rely on assumptions about national culture. Individuals differ, and workplace norms may matter more than geography. Clear confirmation reduces the need for people to interpret unfamiliar communication and relationship conventions.
 
-## When you are asked to lend your name
+## Define the limits of your endorsement
 
 Before endorsing a person or proposal, decide how much review is appropriate to the significance of the decision. You do not need to repeat every analysis, but you should understand the main claim, the evidence supporting it, the material risks, and any limits on what you have verified.
 
@@ -199,7 +199,7 @@ Also clarify how your endorsement will be represented. Will your name appear in 
 
 Using your reputation to support someone or something can create valuable opportunities. It is also an exercise of influence. Clear boundaries protect the person or proposal you support, the decision-maker relying on your endorsement, and your own credibility.
 
-## Common mistakes around support
+## Common mistakes when building or claiming support
 
 The first mistake is assuming that avoiding relationships makes a proposal neutral. Refusing to build support does not remove politics from the process; it may simply give an advantage to people who already have access and influence. Building support openly and responsibly is a legitimate organisational skill.
 
@@ -211,7 +211,7 @@ The fourth mistake is using a powerful person’s name as a substitute for expla
 
 The fifth mistake is assuming that a large coalition proves that a proposal is correct. Broad support may improve feasibility, legitimacy, or implementation, but it does not establish that the underlying analysis is sound. Evidence and support should be assessed separately.
 
-## A response ladder for ambiguous support
+## How to verify support and correct overstated endorsements
 
 - **Clarify the support.** Identify the exact person, proposal, version, or condition that has been endorsed.
 - **Confirm with the source.** Where appropriate and authorised, obtain a direct statement from the person or body whose support is being cited. Do not pressure anyone to disclose a confidential view; use the formal record when one exists.
@@ -222,7 +222,7 @@ The fifth mistake is assuming that a large coalition proves that a proposal is c
 
 This sequence moves from simple clarification to stronger governance controls. Most ambiguity can be corrected close to its source. Repeated or consequential misrepresentation requires a more formal response.
 
-## For managers: make advocacy auditable, not lifeless
+## For managers: record sponsors, endorsements, and conditions
 
 An organisation can support useful informal influence while setting clear limits around consequential decisions:
 
@@ -240,7 +240,7 @@ Nora applies these principles to the apprenticeship proposal. Managers at the th
 
 The proposal now claims less support, but the support it claims is clearer and more reliable.
 
-## Practice: make a support map
+## Practice: identify supporters, commitments, and conditions
 
 Choose one proposal or opportunity that relies on advocacy or support. Create a simple table:
 
