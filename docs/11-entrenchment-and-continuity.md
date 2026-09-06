@@ -33,28 +33,28 @@ Five patterns deserve attention: accumulating decision rights, allowing one owne
 
 Decision rights can accumulate without a formal reorganisation. A trusted specialist begins by recommending options. Colleagues rarely challenge the advice and start treating it as approval. The specialist then controls the supporting data, chooses who attends the review, and confirms whether the resulting action is complete.
 
-Each step may be convenient. Together, they combine roles whose separation allows useful challenge. One person defines the problem, selects the evidence, proposes the solution, authorises it, and reports success.
+Together, convenient additions can combine roles whose separation allows challenge: one person defines the problem, selects evidence, proposes and authorises a solution, then reports success.
 
 Map what people may do, rather than relying on titles. For a consequential process, who may:
 
-- request work;
-- set priority;
-- define eligibility or scope;
-- supply or restrict information;
-- recommend;
-- approve, reject, or stop;
-- implement;
-- verify;
-- change the rule;
-- grant an exception;
-- hear a challenge; and
+- request work
+- set priority
+- define eligibility or scope
+- supply or restrict information
+- recommend
+- approve, reject, or stop
+- implement
+- verify
+- change the rule
+- grant an exception
+- hear a challenge
 - report the outcome?
 
 A job description may say “process owner” while these rights sit across several teams or quietly with one person.
 
 Separation matters most when error, self-interest, or abuse would be hard to detect and costly to correct. Payment creation and approval are a familiar example. Others include hiring and final salary approval, system administration and access review, or sales credit and compensation calculation. Small organisations may be unable to separate every task. They can use compensating checks: independent sampling, dual approval above a threshold, immutable logs, rotating review, or external assurance.
 
-Separate roles must allow independent judgement. A verifier who sees only evidence selected by the process owner cannot provide a fully independent check. An approver needs time to question a recommendation. Reviewers need access, time, expertise, and authority.
+Reviewers need access, time, expertise, and authority for independent judgement. A verifier limited to the owner’s selected evidence cannot provide a fully independent check, nor can an approver who has no time to question the recommendation.
 
 Establish where accumulated rights came from. Was the authority delegated by policy, inherited after a departure, created during an emergency, or simply assumed? Even a sensible arrangement may need formal recognition, boundaries, and a review date.
 
@@ -66,12 +66,12 @@ An accountable owner should ensure that the process works. They need not persona
 
 Look for a process in which:
 
-1. one owner defines the intake;
-2. the owner decides which requests qualify;
-3. the owner controls the queue and status information;
-4. the owner approves exceptions;
-5. complaints return to the owner; and
-6. performance reports rely on measures chosen by the owner.
+1. One owner defines the intake.
+2. The owner decides which requests qualify.
+3. The owner controls the queue and status information.
+4. The owner approves exceptions.
+5. Complaints return to the owner.
+6. Performance reports rely on measures chosen by the owner.
 
 Poor service may remain invisible because the same person controls how every fact is interpreted. This does not prove bad faith. Overloaded owners often simplify work to cope. Their adaptations become rules because no other perspective is available.
 
@@ -91,11 +91,11 @@ Judgement is unavoidable. Future roles change, and leadership capability cannot 
 
 Distinguish five concepts:
 
-- **Eligibility:** Minimum requirements for consideration.
-- **Readiness:** Evidence that a person could perform now or within a stated period.
-- **Potential:** A forecast of capacity for larger or different work.
-- **Preference:** A choice among qualified options based on current needs.
-- **Risk:** Gaps and conditions that require support.
+- **Eligibility:** Minimum requirements for consideration
+- **Readiness:** Evidence that a person could perform now or within a stated period
+- **Potential:** A forecast of capacity for larger or different work
+- **Preference:** A choice among qualified options based on current needs
+- **Risk:** Gaps and conditions that require support
 
 These concepts are often blurred. Someone with strong long-term potential may not be ready today. A ready person may not be selected because another candidate better suits a particular transition. That preference does not establish that the unselected person was unqualified.
 
@@ -107,7 +107,7 @@ Succession also depends on opportunity. A list of names does not prepare success
 
 ## 4. History and operating knowledge remain concentrated
 
-Documents capture only part of what people know. Teams also rely on tacit knowledge: cues, relationships, exceptions, judgements, and physical or social routines learned through experience. A procedure may say “investigate differences above the threshold.” Daniel knows which difference signals a duplicated shipment, which results from currency timing, and whom to call before a customer’s warehouse closes.
+Documents capture only part of operating knowledge. Tacit knowledge includes cues, relationships, exceptions, judgements, and routines learned through experience. A procedure may say “investigate differences above the threshold.” Daniel can distinguish a duplicate shipment from currency timing and knows whom to call before a warehouse closes.
 
 Research on transactive memory describes how groups develop shared knowledge of who knows what. Performance may depend on a system for locating expertise as well as individual memory.[^1] Organisational knowledge can also pass through people, tools, routines, and networks, as well as documents.[^2] Continuity therefore requires more than asking an expert to write everything down.
 
@@ -120,7 +120,7 @@ Knowledge concentration takes several forms:
 - **Interpretive:** One person can distinguish a routine anomaly from a significant one.
 - **Access-based:** One person has the account, key, permission, or physical access needed to act.
 
-Inventory these forms separately. A shared folder does not solve the problem if only one person can interpret its contents. Giving another person access does not transfer judgement. Shadowing may reveal routines but miss rare exceptions. Combine clear procedures, paired work, scenario rehearsal, decision records, contact handovers, supervised practice, access review, and rotation through real cases.
+Inventory each form before choosing a transfer method. A shared folder may leave interpretation concentrated; access alone does not transfer judgement; shadowing may miss rare cases. Combine procedures, paired work, rehearsal, decision records, contact handovers, supervised practice, access review, and real-case rotation.
 
 Prioritise by service impact, replaceability, learning time, and likelihood of loss. Demanding exhaustive documentation from everyone creates outdated pages and signals distrust. Protect activities whose loss would cause serious harm, long delay, legal breach, or irreversible damage.
 
@@ -130,22 +130,22 @@ Relationships need continuity too. Introducing a deputy to a customer or regulat
 
 ## 5. Transfer is always postponed
 
-Delay often has a reasonable explanation: “After the quarter closes.” “Once the new system stabilizes.” “When we fill the vacancy.” Critical experts are usually busy precisely because others cannot perform their work. Building backup capability adds effort before it reduces it.
+“After the quarter closes,” “Once the new system stabilises,” and “When we fill the vacancy” may be reasonable explanations for delay. Transfer adds effort before it reduces the demand on an already busy expert.
 
 This creates a recurring problem:
 
-1. dependence produces urgent demand on the expert;
-2. urgent demand leaves no time for transfer;
-3. failed transfer preserves dependence; and
-4. continued dependence produces more urgent demand.
+1. Dependence produces urgent demand on the expert.
+2. Urgent demand leaves no time for transfer.
+3. Failed transfer preserves dependence.
+4. Continued dependence produces more urgent demand.
 
-Fund knowledge transfer as part of the work. Remove some operating work, narrow the first target, pair the expert with a named learner, and schedule a real test. The manager is responsible for that trade-off; the expert cannot carry it alone.
+The manager must fund the trade-off: remove operating work, narrow the first target, name a learner, and schedule a real test. The expert cannot create that capacity alone.
 
-Transfer small units of work. Instead of “document settlement,” choose “enable a deputy to identify and route the five highest-impact reconciliation exceptions during Daniel's two-week absence.” Capture inputs, decision cues, actions, approval boundaries, contacts, evidence, and recovery steps. Then let the deputy perform the work while Daniel observes.
+Transfer small units of work. Instead of “document settlement,” choose “enable a deputy to identify and route the five highest-impact reconciliation exceptions during Daniel’s two-week absence.” Capture inputs, decision cues, actions, approval boundaries, contacts, evidence, and recovery steps. Then let the deputy perform the work while Daniel observes.
 
 Delegation transfers a task or decision within stated boundaries. It requires giving the delegate appropriate choices. Define what they may decide, what requires consultation, what must be escalated, which resources are available, and how mistakes will be handled. If every non-routine case returns to the expert, the learner remains an assistant rather than a successor.
 
-Cross-training needs depth. Watching a demonstration creates familiarity; capability requires recalling what was learned, exercising judgement, and acting under realistic conditions. Use scenario drills, planned absence, peer review, and evidence from live work. Practice should not become unpaid invisible labour or an indefinite acting role without recognition.
+A demonstration creates familiarity; capability requires recall, judgement, and realistic action. Use drills, planned absence, peer review, and live-work evidence. Practice must not become unpaid invisible labour or an indefinite acting role without recognition.
 
 Some role holders resist transfer because scarcity protects their status or employment. Others resist because they had to repair mistakes after earlier delegation, leaders have recognised only their indispensability, or a requested handover leaves them accountable for the result. Understand the reason before judging their motives. Recognise teaching, adjust workload, preserve dignity in the role, and assess performance partly by the capability shared with others.
 
@@ -171,7 +171,7 @@ For vendors, examine data portability, documentation, access, subcontractors, te
 
 For founders and long-tenured leaders, personal relationships may still determine outcomes despite formal governance. Clarify which decisions belong to the current role, move commitments into organisational records, broaden external relationships, and create a succession process that does not require the current role holder’s private approval.
 
-For systems, distinguish technical constraints from choices hidden behind “the system won't allow it.” Who configured the rule? May an authorised person change it? What audit and exception routes exist? A machine cannot be accountable for policy embedded in its settings.
+For systems, distinguish technical constraints from choices hidden behind “the system won’t allow it.” Who configured the rule? May an authorised person change it? What audit and exception routes exist? A machine cannot be accountable for policy embedded in its settings.
 
 ## Transitions reveal how work actually gets done
 
@@ -179,7 +179,7 @@ Mergers, reorganisations, outsourcing, rapid growth, long leave, and planned exi
 
 Before changing roles, identify what must continue on day one. Which payments, care, access, customer responses, safety checks, approvals, and reporting duties cannot pause? Who performs them in practice? What workarounds and relationships make the formal process succeed?
 
-Use structured handover conversations alongside documents. Ask the current owner to walk through a normal case, a difficult case, the last failure, the next likely decision, and the people whose knowledge is essential to understanding the work. The incoming owner should restate the process and run a scenario. Differences reveal hidden assumptions more effectively than a passive presentation.
+Alongside documents, have the owner walk through a normal case, a difficult case, the last failure, the next likely decision, and essential contacts. Ask the incoming owner to restate the process and run a scenario. The differences reveal assumptions that a passive presentation may miss.
 
 Capture *why* as well as *how*. A rule that appears irrational may protect against an earlier failure, fulfil a contract, or compensate for a system limit. It may also be obsolete. Record its origin, current owner, and review condition so a successor can question it without erasing history.
 
@@ -189,13 +189,13 @@ Departing employees are vulnerable to unfair accounts of their conduct. A rushed
 
 Avoid coercive demands for knowledge. Employees should transfer organisational records and role knowledge as required, but continuity work must respect contracts, law, personal data, health, workload, and intellectual-property boundaries. Do not treat personal contacts, private devices, memories of confidential matters, or professional knowledge as an unlimited source of organisational information. Seek qualified advice in a contested exit.
 
-Hold a continuity review thirty days after a transition. Which decisions stalled? What could only the predecessor answer? Which documents were wrong? Which access arrived late? Which relationships need broader ownership? Correct the system before the same gaps make the new role holder indispensable.
+Hold a continuity review 30 days after a transition. Which decisions stalled? What could only the predecessor answer? Which documents were wrong? Which access arrived late? Which relationships need broader ownership? Correct the system before the same gaps make the new role holder indispensable.
 
 Transition pressure encourages responsibilities to concentrate again. Establish the backup, shared record, independent check, and learning time while rebuilding the role. Continuity is easiest to design before emergency routines become established practice.
 
-A well-handled transition can distinguish valuable expertise from accumulated workarounds, preserve the expertise, and remove the workarounds. It can give the next owner a role whose operation is clear enough to learn.
+A well-handled transition preserves valuable expertise while exposing accumulated workarounds to review. It gives the next owner a role clear enough to learn.
 
-## How to respond to concentrated power
+## How to respond: concentrated power
 
 - **Map.** Identify decision rights, critical knowledge, access, relationships, and review routes. Focus on a process rather than a personality.
 - **Test absence.** Ask what fails after one day, one week, one month, and permanent departure. Use a tabletop exercise before risking live service.
@@ -210,11 +210,11 @@ Escalate sooner when concentration enables financial abuse, safety risk, privacy
 
 ## For managers: a ninety-day continuity experiment
 
-Choose one critical activity. During the first thirty days, name the accountable owner and backup, identify essential inputs and decision boundaries, and assess the impact of failure. Observe a full cycle. Record the highest-impact exceptions and missing access. Protect time for both expert and learner.
+Choose one critical activity. During the first 30 days, name the accountable owner and backup, identify essential inputs and decision boundaries, and assess the impact of failure. Observe a full cycle. Record the highest-impact exceptions and missing access. Protect time for both expert and learner.
 
-During the next thirty days, the backup performs bounded work while the expert reviews. Update the guide through actual use. Introduce the backup to necessary partners. Move shared credentials into an authorised access system; never copy personal credentials informally. Confirm who may approve an emergency exception.
+During the next 30 days, the backup performs bounded work while the expert reviews. Update the guide through actual use. Introduce the backup to necessary partners. Move shared credentials into an authorised access system; never copy personal credentials informally. Confirm who may approve an emergency exception.
 
-During the final thirty days, run a planned absence or tabletop exercise. The current role holder is unavailable for routine questions during a defined window but reachable when an agreed emergency threshold is met. Measure completion, errors, delay, escalations, and the judgement the guide failed to capture.
+During the final 30 days, run a planned absence or tabletop exercise. The current role holder is unavailable for routine questions during a defined window but reachable when an agreed emergency threshold is met. Measure completion, errors, delay, escalations, and the judgement the guide failed to capture.
 
 At review, ask “Can the backup do it?” and examine whether the role design, tools, upstream data, workload, and decision rights make success possible. Choose the next unit of transfer. Reward both operational performance and reduced vulnerability to disruption.
 
@@ -226,24 +226,24 @@ Daniel’s director stops treating the missing manual as his personal overdue ta
 
 Finance takes responsibility for approving high-value adjustments. Technology moves shared configuration into a managed repository with backup administration. Daniel remains accountable for process quality, but a risk manager samples closed exceptions and the operations director hears appeals. Mei performs the next close while Daniel observes and intervenes only at agreed thresholds.
 
-The exercise reveals that three steps in the old procedure are obsolete and that Daniel has been compensating for a broken data feed every month. Repairing the feed removes more dependency than another hundred pages of documentation would have done.
+The exercise reveals that three steps in the old procedure are obsolete and that Daniel has been compensating for a broken data feed every month. Repairing the feed removes more dependency than another 100 pages of documentation would have done.
 
-Daniel receives recognition for stabilising the system and building continuity. He is invited to lead the replacement design, a role he could not accept while every settlement depended on him. His expertise remains valuable. The organisation no longer requires his constant presence as proof of that value.
+Daniel receives recognition for stabilising the system and building continuity. He can now lead the replacement design, which dependence on him previously prevented. His expertise remains valuable without requiring his constant presence.
 
 ## Practice: draw the continuity map
 
 Choose a legitimate process you know well and are authorised to examine. For each important activity, record:
 
-1. the role that decides;
-2. the role that performs;
-3. the knowledge or relationship on which the activity depends;
-4. the access required;
-5. the backup and the last time they performed the work;
-6. the independent check, when one is warranted;
-7. what would fail after a week of absence;
-8. the smallest useful transfer exercise;
-9. the time and support required; and
-10. the date on which the concentration will be reviewed.
+1. the role that decides
+2. the role that performs
+3. the knowledge or relationship on which the activity depends
+4. the access required
+5. the backup and the last time they performed the work
+6. the independent check, when one is warranted
+7. what would fail after a week of absence
+8. the smallest useful transfer exercise
+9. the time and support required
+10. the date on which the concentration will be reviewed
 
 Use the map to plan service continuity. Do not score the people involved or circulate sensitive access details.
 

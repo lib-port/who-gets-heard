@@ -4,9 +4,9 @@
 
 A customer portal fails for three hours on a Monday morning. Tariq, the service manager, coordinates the response. The outage begins after a software release, but several safeguards also fail: monitoring sends no alert, the rollback guide is outdated, vendor support is slow, and a change approver misunderstands the release window.
 
-At the first review, twelve people are listed as “owners.” No one can identify who was accountable for the final go/no-go decision. The incident timeline records Tariq’s late response to a message but omits that he was not on the release notification list. A director asks him to produce the remediation plan, although he controls neither the development team nor the budget.
+At the first review, 12 people are listed as “owners.” No one can identify who was accountable for the final go/no-go decision. The incident timeline records Tariq’s late response to a message but omits that he was not on the release notification list. A director asks him to produce the remediation plan, although he controls neither the development team nor the budget.
 
-Responsibility has been spread so widely that no one owns the system. It is then placed on the visible person who coordinated the response. Tariq can assign actions, but he cannot require the teams to complete them. The organisation has made him answer for work without giving him the authority to direct it.
+The organisation first spreads ownership across 12 people, then asks the visible coordinator to answer for the system. Tariq can assign actions but cannot require the teams to complete them. His obligation exceeds his authority.
 
 **Accountability** is the expectation that a person or body will explain and answer for conduct, decisions, or outcomes to an audience able to judge or respond. It differs from responsibility, blame, and task assignment. Someone may perform a task without owning the result. A leader may be accountable for a system failure without having caused it personally.
 
@@ -31,18 +31,18 @@ Unclear ownership often begins with collaborative language: “We all own qualit
 
 Distinguish at least four roles:
 
-- **Decision owner:** Authorised to choose.
-- **Delivery owner:** Accountable for producing the agreed result.
-- **Task owner:** Responsible for a defined action.
-- **Control or review owner:** Independently checks a requirement or risk.
+- **Decision owner:** Authorised to choose
+- **Delivery owner:** Accountable for producing the agreed result
+- **Task owner:** Responsible for a defined action
+- **Control or review owner:** Responsible for independently checking a requirement or risk
 
 One person may hold several roles, but each role should remain clear. A compliance reviewer who can stop a release may own the compliance decision without owning delivery. A service manager may coordinate an incident without owning the code change that caused it.
 
-A RACI chart—responsible, accountable, consulted, informed—can help, but the labels alone do not establish clear roles. Teams may name several people as “accountable” to avoid choosing an owner, or list everyone as “consulted” without meaningful consultation. A plain statement is more useful: “Tariq coordinates the incident; the release manager decides rollback; the platform director owns restoration; security must approve emergency access.”
+A RACI chart—responsible, accountable, consulted, informed—can help if its labels reflect actual authority and consultation. Several “accountable” names may conceal an unresolved choice. A plain statement is clearer: “Tariq coordinates the incident; the release manager decides rollback; the platform director owns restoration; security must approve emergency access.”
 
 Define when ownership begins and how it transfers. Who owns a risk while it is being assessed? At what severity does authority move to another role? Who confirms the handoff? Many failures occur where responsibilities meet or transfer.
 
-During an urgent event, explicitly assign temporary decision authority and review the arrangement afterward. Avoid spending the crisis debating the organisation chart. A statement such as “For this incident, Maya is the decision lead until restoration; domain owners advise and execute” may provide enough clarity to act.
+Assign temporary authority explicitly during an urgent event and review it afterwards. “For this incident, Maya is the decision lead until restoration; domain owners advise and execute” may provide enough clarity without debating the organisation chart during the crisis.
 
 ## 2. The record captures only part of the event
 
@@ -54,13 +54,13 @@ Tariq’s late reply is relevant, but so is the missing notification. Recording 
 
 Record these elements separately:
 
-- the event or requirement;
-- time and source;
-- action taken;
-- context or dependency;
-- decision and owner;
-- unresolved question; and
-- correction or later evidence.
+- the event or requirement
+- time and source
+- action taken
+- context or dependency
+- decision and owner
+- unresolved question
+- correction or later evidence
 
 Before finalising a record that may have significant consequences, invite materially involved people to correct factual errors. They do not have a veto over the findings. Their input can identify wrong dates, missing context, and unclear roles. Retain versions and document changes so later readers can see how the record developed.
 
@@ -92,7 +92,7 @@ Separate three questions:
 
 Combining these questions can lead reviewers to identify a culprit before understanding the system. Equally, using “system failure” to excuse reckless conduct or a knowing breach of an expectation prevents accountability. Both individual conduct and system conditions may matter.
 
-Research on learning from failure distinguishes the process from the outcome. A sound process can produce a bad result, while a faulty process can sometimes produce a good result by chance.[^3] Review what people could know and control at the time. The severity of the outcome should not, by itself, determine how negligent an earlier choice appears.
+Research on learning from failure distinguishes process from outcome.[^3] Judge conduct against what people could know and control at the time. Outcome severity alone does not establish negligence; Chapter 5 explains why a sound process can fail and a weak one succeed.
 
 Compare similar cases carefully. Were others coached for the same error while this person was disciplined? Were leaders judged by a different standard? Close comparisons can reveal selective blame, although consequences, history, role, established intent, and policy may justify different responses.
 
@@ -102,17 +102,17 @@ After a failure, organisations often assign corrective actions to the person clo
 
 Every corrective action needs:
 
-- a result rather than an activity;
-- an owner with authority;
-- resources and dependencies;
-- a due date that reflects the risk;
-- evidence of completion;
-- a verifier where independence matters; and
-- an escalation route for blocked work.
+- a result rather than an activity
+- an owner with authority
+- resources and dependencies
+- a due date that reflects the risk
+- evidence of completion
+- a verifier where independence matters
+- an escalation route for blocked work
 
 “Tariq to improve monitoring” is not actionable if the platform team owns the tool and finance controls the budget. A clearer assignment is: “Platform director to implement severity-one alerting by 30 June; Tariq to define service thresholds by 15 May; technology risk to verify through a failover test.”
 
-The owner should accept the assignment. If they cannot, the decision owner must resolve the constraint. Treating refusal as the problem leaves the constraint in place. Remediation meetings should examine what is blocking the work and how to resolve it, instead of simply marking overdue items red.
+Ask the owner to accept the assignment. If a constraint prevents acceptance, the decision owner must resolve it. Remediation meetings should address blocked work rather than merely mark it overdue.
 
 Do not assign every action to the report’s author. Analysts and incident managers may coordinate the response, but line owners must own changes to their systems. Otherwise, assurance functions become accountable for work while operational authority remains elsewhere.
 
@@ -168,11 +168,11 @@ A call-centre manager judged only on average handling time may shorten calls whi
 
 Use a small, balanced set of measures. Add a measure of quality or consequences where the main indicator creates an obvious trade-off. Review unusual cases using an explanation of the circumstances alongside the numbers. Adding a metric for every limitation can make the system too complex to understand.
 
-When a definition changes, retain the old definition or carefully restate the historical data. Otherwise, a change in measurement may look like a change in performance. Chapter 12 returns to this issue as a form of narrative control. Here, the concern is that people may face consequences based on an incorrect explanation of the numbers.
+Keep the old metric definition or carefully restate historical data when it changes. Otherwise, measurement changes may be mistaken for performance changes and lead to unjustified consequences. Chapter 12 develops the implications for outcome accounts.
 
 ## Give each part of a cross-functional action an authorised owner
 
-Suppose an audit finds that customer refunds are delayed because approval passes through service, finance, fraud, and payments. It assigns one action: “Head of Service to reduce refund time from twenty days to five.”
+Suppose an audit finds that customer refunds are delayed because approval passes through service, finance, fraud, and payments. It assigns one action: “Head of Service to reduce refund time from 20 days to five.”
 
 The head of service can improve intake but cannot change fraud thresholds or payment processing. She may spend months chasing peers and reporting progress before being marked overdue. She is held accountable for decisions made by other functions.
 
@@ -180,7 +180,7 @@ Assign the overall outcome and its component responsibilities explicitly. The op
 
 This arrangement makes it possible to identify where delays occur while keeping responsibility for the whole process clear. The operations director has authority to resolve competing priorities. If evidence shows the target is unsafe or technically impossible, the director returns to the risk committee instead of leaving the service head accountable for an unachievable result.
 
-This takes more explanation than “Head of Service to fix.” It can avoid six months of overdue reports and blame over an assignment the owner cannot control.
+Clear allocation can prevent months of overdue reports about an outcome the assigned owner cannot control.
 
 ## Repair the effects of misplaced blame
 
@@ -198,17 +198,17 @@ If the matter involves a formal complaint, discipline, a legal process, or prote
 
 Common failures include:
 
-- assigning ownership to a committee without naming someone responsible for progress;
-- measuring task completion instead of risk reduction;
-- treating the person closest to the problem as the person who controlled it;
-- expecting a junior action owner to secure cooperation from an uncooperative senior person without sponsorship;
-- retaining only the organisation’s account without allowing material factual corrections;
-- treating an apology as the end of repair; and
-- waiting until after the outcome to establish accountability instead of defining roles, standards, and review arrangements before work begins.
+- assigning ownership to a committee without naming someone responsible for progress
+- measuring task completion instead of risk reduction
+- treating the person closest to the problem as the person who controlled it
+- expecting a junior action owner to secure cooperation from an uncooperative senior person without sponsorship
+- retaining only the organisation’s account without allowing material factual corrections
+- treating an apology as the end of repair
+- waiting until after the outcome to establish accountability instead of defining roles, standards, and review arrangements before work begins
 
 Each failure weakens the link between authority and answerability. The remedy is usually clearer ownership, better evidence, effective review, or appropriate repair. A stronger demand that people “take accountability” will not supply what is missing.
 
-## A response ladder when blame is forming
+## How to respond: emerging blame
 
 - **Stabilise and preserve.** Address immediate safety or service needs and preserve necessary evidence that you are authorised to retain.
 - **Clarify the process.** Establish whether the purpose is learning, performance management, discipline, investigation, or regulatory response.
@@ -224,13 +224,11 @@ Before assigning a consequential outcome, complete this sentence:
 
 > **[Role]** is accountable for **[specific result]** because they can decide **[choices]**, control or obtain **[resources]**, must consult **[roles]**, and will report to **[audience]** by **[time]**. If **[threshold or exception]** occurs, authority moves to **[role]**.
 
-If you cannot specify the choices and resources, you may be making someone answer for an outcome they cannot control. If the role has decision authority but no review audience or standard, it may carry power without accountability.
+Use the opening control, resources, obligation, and review questions to test the completed statement. Resolve any gap before assigning the outcome.
 
 For corrective work, ask the owner to restate the intended result and identify anything blocking the work. Provide a named escalation route. Close the action only when evidence shows the risk or failure mode has been addressed. Uploading a document alone does not establish completion.
 
-Tariq’s incident review is revised. The platform director owns restoration and monitoring controls; the release manager owns go/no-go; Tariq owns customer-service coordination. The timeline adds the missing notification and outdated rollback guide. Tariq contributes to the remediation plan, but actions outside his authority are assigned elsewhere. The review still records his delayed reply. It now explains that fact in the context of the event instead of treating it as the complete explanation.
-
-## Questions an accountable leader asks
+### Questions an accountable leader asks
 
 Before a problem:
 
@@ -256,15 +254,19 @@ After a problem:
 
 These questions preserve standards and consequences while helping the organisation produce a reliable account of what happened.
 
+## Returning to Tariq
+
+Tariq’s incident review is revised. The platform director owns restoration and monitoring controls; the release manager owns go/no-go; Tariq owns customer-service coordination. The timeline adds the missing notification and outdated rollback guide. Tariq contributes to the remediation plan, but actions outside his authority are assigned elsewhere. The review still records his delayed reply. It now explains that fact in the context of the event instead of treating it as the complete explanation.
+
 ## Practice: turn a blame sentence into an accountability map
 
 Start with a statement such as “Tariq caused the outage” or “The team failed to deliver.” Create five rows:
 
-1. decision or action;
-2. person or role with authority;
-3. information and resources available;
-4. relevant expectation; and
-5. system condition or dependency.
+1. decision or action
+2. person or role with authority
+3. information and resources available
+4. relevant expectation
+5. system condition or dependency
 
 Mark each item as established, disputed, or unknown. Then write two separate questions: “What should change in the system?” and “Does any conduct require a separate response?” Keeping both questions in view helps avoid premature blame and the evasion of individual responsibility.
 

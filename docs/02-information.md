@@ -1,24 +1,22 @@
 # Chapter 2: Information
 
-## Case: Priya’s budget review uses different spreadsheet versions
+## The meeting with four versions
 
 Priya leads operations for a regional service business. On Friday afternoon, the finance team circulates a spreadsheet showing that one branch has exceeded its quarterly budget. At Monday’s review, Priya explains that the additional spending paid for emergency repairs authorised after a safety inspection. The chief operating officer is surprised because his version of the spreadsheet describes the cost as “unplanned local expenditure.” That comment does not appear in Priya’s version.
 
-The meeting pauses while participants compare their files. They discover four versions with nearly identical names. Finance had added comments to the version sent to executives, omitted the inspection report because the attachment was large, and sent branch managers a spreadsheet containing only the figures. No one had intended to create a false impression. Nevertheless, executives received a description of the spending without the evidence explaining it, while branch managers were unable to see or correct that description before the meeting.
+The meeting pauses. Participants find four files with nearly identical names. Finance added comments for executives, omitted the large inspection-report attachment, and sent branch managers only the figures. No one intended a false impression. Yet executives received a description without its supporting context, and branch managers could not correct it before the meeting.
 
-The problem was not simply that people had failed to communicate. Everyone had received a message and a spreadsheet. The problem was that the information process did not control which version each person received, what context accompanied it, when it was distributed, or which file constituted the authoritative record.
+Everyone received a message and a spreadsheet. The process failed to control versions, accompanying context, distribution timing, and the authoritative record.
 
-Teams require both shared information and knowledge specific to particular roles. Not everyone can or should have access to every detail. Confidentiality, privacy, legal obligations, security requirements, and role relevance may all justify restricting information. A restriction becomes problematic, however, when it prevents someone from contributing evidence or correcting an important misunderstanding.
+Teams need shared information and knowledge specific to their roles. Confidentiality, privacy, legal duties, security, and relevance can justify restrictions. Check whether those restrictions prevent someone from contributing evidence or correcting a material misunderstanding.
 
 This distinction matters because groups tend to give more weight to information already known by several participants than to relevant information introduced by only one person. This can occur even when the less widely shared information is necessary for the best decision.[^1] Poor distribution makes that tendency stronger. Effective information design helps the group identify and consider evidence that might otherwise remain overlooked.
 
 ## Equal notice does not ensure usable information
 
-Saying that “everyone received the email” does not establish that everyone had an equal opportunity to understand the information or respond to it. A data analyst may receive a model they can examine, while a community representative receives a spreadsheet with forty undefined columns. A manager may receive a detailed verbal briefing, while a remote colleague receives only brief minutes. Employees may receive a new policy after senior leaders have already spent two weeks discussing its likely effects and forming their views.
+An email does not give every recipient the same chance to understand or respond. An analyst may be able to examine a model that leaves a community representative facing 40 undefined columns. A manager may receive a verbal briefing while a remote colleague gets brief minutes. Employees may first see a policy after leaders have spent two weeks forming their views.
 
-Fair access does not mean giving every participant exactly the same material in exactly the same format. It means providing each person with information that is relevant to their role, sufficiently complete, available in time to be useful, and presented in an accessible form. Different participants may need different levels of detail, formats, or explanations. However, everyone involved in the decision should receive the same core information: the material facts, key assumptions, relevant definitions, available options, significant constraints, and expected outcomes.
-
-Five questions can be used to assess whether access is fair:
+Adapt detail, format, and explanation to participants’ roles. Maintain a common core of material facts, assumptions, definitions, options, constraints, and expected outcomes. Assess its usefulness through five qualities:
 
 - **Relevance:** Does the person need this information to perform a defined role in the process?
 - **Completeness:** Does the material include the facts, assumptions, and constraints that could affect the decision?
@@ -26,13 +24,13 @@ Five questions can be used to assess whether access is fair:
 - **Provenance:** Can the person identify the source, date, and authoritative version?
 - **Usability:** Can the intended reader understand and access the material in the format provided?
 
-The aim is not to distribute every document to everyone. It is to ensure that each participant can perform their role effectively. That opportunity is commonly weakened by selective distribution, missing context, unequal advance briefings, knowledge held by only a few people, and information provided too late to influence the outcome.
+The five patterns below show how selective distribution, missing context, unequal briefings, concentrated knowledge, and delay can weaken that access.
 
 ## 1. Participants receive different information
 
-A difference in distribution matters when participants in the same decision process receive substantially different information without a legitimate reason related to their roles, responsibilities, or legal obligations. The difference may concern who receives the material, which attachments or links are included, which version is sent, whether comments are visible, or what access permissions are granted.
+Review unexplained differences in what participants receive: versions, attachments, links, visible comments, or permissions. Ask whether the difference serves a legitimate role, responsibility, or legal obligation.
 
-The first question is not whether everyone received identical material, but whether each participant received what they needed to perform their role. Legal advisers may need access to privileged advice that cannot be circulated more widely. A manager may need confidential personal information that should not be shared with the wider group. A security lead may require technical details that would create additional risk if broadly distributed. Even in these cases, other participants may still need a non-sensitive summary of the relevant background, process, or constraint.
+Some differences are necessary. Legal advisers may need privileged advice, managers may need confidential personal information, and security leads may need restricted technical details. Others may still need a non-sensitive summary of the relevant background, process, or constraint.
 
 A strong distribution process separates protected details from information that is material to the decision. Restricting legal advice does not prevent other participants from being told that the contract cannot be terminated before June. Protecting an employee’s confidential record does not prevent a committee from being informed that an approved accommodation affects the schedule. Redaction, role-based access, and summaries of relevant constraints can protect sensitive information while supporting informed participation.
 
@@ -43,15 +41,15 @@ When participants discover that they received different information, establish f
 3. What policy, obligation, or role-based reason justified the difference?
 4. What action, assessment, or correction could recipients not perform because information was missing?
 
-In Priya’s case, the problem was not that executives received additional comments. The problem was that those comments characterised the expenditure in a way that branch managers could neither see nor correct, while the safety report explaining the cost had been removed. A common decision pack with a version number, a short explanation of the safety approval, and controlled links to restricted documents would have preserved both appropriate access and the context needed for the decision.
+In Priya’s case, managers could not see or correct comments characterising their expenditure, and the safety report explaining it was missing. A versioned decision pack, a short explanation of the approval, and controlled links to restricted records would preserve the context and appropriate access.
 
 ## 2. Missing context in decision papers
 
-Every summary leaves out information; an executive paper cannot reproduce the complete history of a programme. The relevant question is whether the omitted information could materially change how a reasonable reader understands the decision.
+A summary must omit detail. Test whether an omission could materially change a reasonable reader’s understanding of the decision.
 
 Material context may include the purpose of the decision, previous commitments, key assumptions, dependencies, rejected alternatives, and known risks. For example, suppose a proposal recommends replacing a supplier because its price is 12 percent higher than a competitor’s. If the paper does not disclose that the lower-priced supplier has failed a required safety audit, the comparison is misleading. By contrast, omitting three years of routine correspondence may have no effect on the decision.
 
-Important context is often omitted because work is divided among different people, not because anyone intends to conceal it. Authors may know the background so well that they assume others know it too. Deadlines can lead them to shorten explanations or leave out facts they regard as obvious. Templates may encourage excessive brevity, while relevant information may be scattered across emails, presentations, and conversations. In distributed teams, this missing context can cause colleagues to interpret an apparently unreasonable action as an individual failure rather than as a response to circumstances they have not seen.[^2]
+Divided work, deadlines, and terse templates can strip out context. Authors may assume familiar facts are shared, although the evidence is scattered across messages and conversations. In distributed teams, colleagues may then attribute an apparently unreasonable action to individual failure rather than unseen circumstances.[^2]
 
 A concise decision brief can reduce this risk by answering:
 
@@ -63,68 +61,68 @@ A concise decision brief can reduce this risk by answering:
 - Which previous commitments restrict the available options?
 - Where can reviewers find the supporting evidence?
 
-The brief does not need to be long. A clear sentence under each heading is more useful than a polished narrative that conceals assumptions or uncertainty. When space is limited, the paper can link to the supporting record or include a relevant extract.
+A clear sentence under each heading may suffice. Link to the supporting record or include an extract where space is limited. Keep assumptions and uncertainty visible.
 
 When identifying missing context, explain how it affects the decision. Saying, “You omitted my earlier email,” may sound like a complaint about recognition. Saying, “The brief assumes a two-week deployment, but the signed client schedule permits six weeks, which changes the cost comparison,” identifies both the missing fact and its significance.
 
 ## 3. Unequal advance briefings
 
-Advance briefings are a normal part of preparing for decisions. Senior leaders may brief the meeting chair, specialists may explain technical matters, negotiators may test possible positions, and managers may help new employees understand who will attend and what questions to expect. When used appropriately, these conversations help participants prepare and make the formal meeting more productive.
+Briefings can prepare a chair, explain technical material, test negotiating positions, or help a new employee anticipate questions. These conversations can improve the formal meeting.
 
-Advance briefings become problematic when only some participants are given enough time or information to shape the issue, build support, or prepare responses to objections before others are told that a decision is under consideration. In those circumstances, the formal meeting should not be presented as an entirely open review.
+Review whether some participants had time and information to shape the issue and organise support before others knew a decision was pending. A meeting shaped this way should not be presented as an entirely open review.
 
 Both the timing and the content of a briefing matter. Two groups may receive the final paper on the same day, even though one group has discussed earlier drafts for a month. One participant may receive a short administrative call, while another is told the chair’s preferred outcome and advised how to support it. Saying that “both participants were briefed” conceals these material differences.
 
-Separate conversations do not always need to be disclosed in full. Participants require space for candid preparation, and some discussions are properly confidential. The relevant question is whether a private conversation changed the information or choices on which the shared decision depends. If it produced a new option, constraint, forecast, or commitment, that development should be added to the common record. If the matter was effectively decided in advance, the later meeting should not be described as a consultation.
+Candid preparation and confidentiality may justify keeping a conversation private. Add any new option, constraint, forecast, or commitment that affects the shared decision to the common record. If the issue was effectively decided beforehand, describe the later meeting accurately.
 
-A useful standard is the **common-core rule**: everyone responsible for the same decision should receive the same essential facts, criteria, options, and material updates early enough to use them. Additional briefings may differ according to role, accessibility needs, language, expertise, or responsibility, but the common core should remain consistent.
+Apply the **common-core rule** to advance briefings: return material developments to the shared brief early enough for everyone responsible for the decision to use them. Tailor additional explanation to role, accessibility, language, expertise, or responsibility.
 
 Managers can make this standard visible by designating one document as the “common decision brief” and maintaining a single record of changes. Participants can then distinguish role-specific explanation from changes to the facts or options that everyone needs to know.
 
 ## 4. Essential knowledge held by one person or team
 
-Specialisation allows organisations to divide complex work efficiently. Employees do not need to understand every system in detail; instead, teams learn who holds expertise in particular areas and rely on those people when relevant questions arise. Researchers sometimes describe this shared understanding of “who knows what” as a transactive memory system.[^3]
+Specialisation helps organisations divide complex work. Teams learn who holds particular expertise and turn to those people when questions arise. Researchers sometimes describe this shared understanding of “who knows what” as a transactive memory system.[^3]
 
-Specialisation becomes a risk when essential work cannot continue, be reviewed, or be transferred without the involvement of one person or team. The problem is not limited to absence. A concentrated knowledge base may also give its holder excessive control over how information is interpreted, which questions are answered, and whether a requirement is judged to have been met.
+Concentration becomes a risk when essential work cannot continue, be reviewed, or be transferred without one person or team. Even when that expert is available, they may have excessive control over how information is interpreted, which questions are answered, and whether requirements are judged to have been met.
 
 Common warning signs include:
 
-- only one person can perform a recurring critical process;
-- important decisions rely on undocumented explanations;
-- no authorised backup has access to essential credentials or source files;
-- requests must repeatedly pass through one specialist for interpretation;
-- the organisation cannot distinguish an expert’s judgment from a formal policy requirement; or
-- handover has been delayed despite several foreseeable absences.
+- Only one person can perform a recurring critical process.
+- Important decisions rely on undocumented explanations.
+- No authorised backup has access to essential credentials or source files.
+- Requests must repeatedly pass through one specialist for interpretation.
+- The organisation cannot distinguish an expert’s judgement from a formal policy requirement.
+- Handover has been delayed despite several foreseeable absences.
 
-The solution is not to reduce the value of expertise or circulate sensitive information without restriction. It is to manage concentrated knowledge explicitly. For each critical area, the organisation should identify the primary owner, authorised backups, minimum documentation requirements, access controls, and a recovery plan. Specialists should be paired for essential processes. Documentation should explain not only the routine steps but also the judgment points—for example, the conditions that lead an expert to stop, escalate, or select a different approach.
+Manage concentrated knowledge while protecting expertise and sensitive information. For each critical area, identify the primary owner, authorised backups, minimum documentation, access controls, and a recovery plan. Pair specialists for essential processes. Document routine steps and judgement points: when to stop, escalate, or choose a different approach.
 
-Effective knowledge transfer depends on several factors, including available time, the type of knowledge involved, the method of transfer, participants’ motivation, and the recipient’s level of engagement.[^4] Sending a collection of documents on an employee’s final day does not constitute an effective handover. A successor needs opportunities to practise the work, receive feedback, and retrieve and apply the knowledge in realistic situations.
+Knowledge transfer depends on time, the type of knowledge, the transfer method, motivation, and the recipient’s engagement.[^4] Documents sent on an employee’s final day are not an effective handover. A successor needs to practise, receive feedback, and apply the knowledge in realistic situations.
 
-The term _knowledge hoarding_ should be used carefully. Research often defines knowledge hiding as the intentional withholding of knowledge that another person has requested.[^5] That definition concerns motive, which cannot be inferred from a weak process alone. Begin with observable facts: requests remain unanswered, documentation is incomplete, or no authorised backup can perform the task. Possible causes include excessive workload, fear of becoming replaceable, poor incentives, confidentiality requirements, or a role that was never designed to include teaching. Each cause requires a different response.
+Use _knowledge hoarding_ carefully. Research often defines knowledge hiding as intentionally withholding knowledge another person has requested.[^5] A weak process alone does not establish that intent. Start with observable gaps: unanswered requests, incomplete documentation, or no authorised backup able to perform the task. Workload, fear of being replaced, poor incentives, confidentiality, or a role without teaching responsibilities may explain the gap. Each calls for a different response.
 
 ## 5. Information arrives too late for review
 
-Information may be formally accessible but arrive too late to be used properly. Releasing a 200-page contract at 4:00 p.m. for approval at 9:00 a.m. the next day gives reviewers the document, but not enough time for a meaningful assessment. Similarly, if a material risk is disclosed after a meeting has begun, the chair may need to pause or defer the decision, even when the underlying deadline is genuine.
+Information can arrive too late to use. A 200-page contract released at 4:00 p.m. for approval at 9:00 a.m. the next day leaves too little time for meaningful review. A material risk disclosed during a meeting may require the chair to pause or defer the decision, even when the deadline is genuine.
 
-Late information can have ordinary explanations. Relevant facts may have emerged only recently, an external party may have responded late, a review may have taken longer than expected, or someone may simply have failed to circulate the material. Time-zone differences may have disrupted the handoff, or leaders may have delayed sharing a draft because its conclusions were still uncertain. These possibilities should be examined before concluding that the delay was deliberate.
+Before treating a delay as deliberate, check when the facts emerged, when an external party responded, and how long review took. A missed circulation, a handoff across time zones, or uncertainty about a draft may also explain it.
 
-The next step is to determine whether the delay could have been avoided and how it affected the decision process. Establish who knew the information and when they knew it. Consider how much work a reasonable review required, whether some participants had more time than others, and whether the deadline could be extended. Determine whether the new material could change the recommendation or merely supports a conclusion already reached. Any decision to proceed without full review should be recorded as an explicit exception.
+Establish who knew what and when. Assess the review work required, differences in preparation time, and scope to extend the deadline. Could the new information change the recommendation? Record any decision to proceed without full review as an explicit exception.
 
-Minimum review periods are useful, but the number of days alone does not determine whether the time is adequate. Five pages of familiar information require less work than five hundred pages of unfamiliar analysis. A stronger rule combines a standard review period with a requirement to reassess the timetable whenever material information changes. If new information could reasonably affect the decision, the chair should extend the review period, reduce the scope of the immediate decision, or document why the consequences of delay outweigh the risks of proceeding.
+Set a standard review period and reassess it when material information changes. Five familiar pages take less work than 500 unfamiliar ones. If a change could affect the decision, the chair should extend review, narrow the immediate decision, or record why delay poses the greater risk.
 
 A participant can make a specific and limited request:
 
-> I received the revised forecast forty minutes ago. It changes two assumptions used in my analysis. I can provide an initial assessment today, but I need until noon tomorrow to complete an updated recommendation. If the decision proceeds today, please record that I was unable to review the revised forecast fully.
+> I received the revised forecast 40 minutes ago. It changes two assumptions used in my analysis. I can provide an initial assessment today, but I need until noon tomorrow to complete an updated recommendation. If the decision proceeds today, please record that I was unable to review the revised forecast fully.
 
-This statement does not refuse to participate. It explains the limitation, identifies the additional work required, and gives the group clear options.
+The request identifies the limitation, the work still needed, and the available choices.
 
 ## Information overload can obscure important evidence
 
 When trust is low, organisations may respond by sending every document and message to everyone. This does not necessarily create transparency. Excessive distribution can obscure important information, expose confidential material unnecessarily, and leave recipients uncertain about who must review, respond, or act.
 
-The five qualities of effective information—relevance, completeness, timeliness, provenance, and usability—must be considered together. A complete record is of little value if it arrives after the decision. A model delivered on time does not provide fair access if its intended readers cannot understand it. A relevant document cannot be relied upon if recipients cannot identify the current and authoritative version. A single decision pack with a change log may therefore provide greater transparency than thirty disconnected emails. Similarly, a concise summary supported by controlled access to the evidence may be safer and more useful than circulating confidential records widely.
+Apply the five qualities together. A late record, an unintelligible model, or a document of uncertain version can each prevent informed action. A decision pack with a change log may be clearer than 30 emails. A summary with controlled access to evidence may also be safer than wide circulation of confidential records.
 
-Information systems should be designed to support informed action, not merely to maximise the amount of detail shared or the number of people who receive it.
+Design distribution around the action recipients need to take.
 
 ## Status affects how information is judged
 
@@ -140,11 +138,11 @@ Readers can then assess the competence and responsibilities of the sources witho
 
 Anonymous contributions can reduce the influence of rank, especially when a group is gathering ideas or identifying concerns. However, anonymity can make follow-up questions difficult and may hide relevant interests or relationships. It should therefore be used for a specific purpose rather than treated as a substitute for a workplace in which people can speak safely. In many cases, a better process is to collect views independently before discussion, present comparable evidence in a consistent format, and involve relevant specialists when technical questions arise.
 
-Leaders can broaden the discussion by asking targeted questions such as: “What have we learned directly from customers?” “Which assumption has the least supporting evidence?” and “Who may hold relevant information that we have not yet considered?” These questions help the group move beyond facts already known to most participants. The purpose is not to require everyone to speak, but to identify relevant knowledge before an incomplete interpretation becomes a confident and self-reinforcing consensus.
+Ask what customers have reported, which assumption has the least support, and who may hold evidence the group has missed. Seek relevant knowledge before an incomplete account hardens into consensus; participation need not require everyone to speak.
 
 ## Report uncertainty early and make corrections visible
 
-People may delay sharing preliminary information because they worry that uncertainty will be interpreted as poor judgment or inadequate preparation. A forecast owner may wait until the figures are polished, a project manager may withhold a risk that could later disappear, and a leader may delay circulating a draft until all stakeholders agree. The information eventually appears more certain, but recipients have less time to question it, contribute evidence, or influence the outcome.
+People may withhold preliminary information for fear of appearing unprepared. A forecast owner waits for polished figures, a project manager waits for a risk to settle, or a leader waits for agreement on a draft. The eventual account looks more certain but leaves less time to question it or contribute evidence.
 
 A reliable information process allows people to communicate uncertainty precisely. Useful statements include:
 
@@ -158,23 +156,37 @@ Such statements help recipients understand what decisions the information can su
 
 Corrections require the same clarity. Silently replacing a file leaves different participants relying on different versions. The organisation should identify the change, explain whether it affects the decision, and notify anyone who may have relied on the earlier information. Leaders strengthen this practice when they acknowledge and correct errors in their own work.
 
-## Case: A launch briefing omits a failed safety test
+## The failed test missing from the brief
 
 Consider a warehouse team preparing to launch a new packing line. On Friday, the project board receives a memo recommending that operations begin on Monday. The memo states that the safety review is “complete, subject to routine closeout,” but does not define that phrase. The worker representative receives the paper on Sunday evening and later learns from a supervisor that one of the guarding tests failed on Thursday.
 
-Several information-process failures may have occurred, but they should be examined separately rather than treated as proof of deliberate concealment. The worker representative received the paper later than other participants. The common briefing did not mention the failed test. Some board members may have received additional verbal information, and the safety specialist may be the only person able to interpret the technical findings.
+Examine the gaps separately. The worker representative received the paper late; the common brief omitted the failed test; some board members may have heard more verbally. The safety specialist may be the only person able to interpret the findings. These facts alone do not establish concealment.
 
-The first question is whether the line can be launched safely on Monday and who has authority to make that determination. The board should establish when the failed test became known, how the result was classified, whether an approved alternative control is in place, and what “routine closeout” means under the organisation’s safety procedures. The specialist may determine that the failed test concerned an optional cover and that a verified interlock provides the required protection. Alternatively, the wording may have understated an unresolved hazard. The decision must follow the technical evidence.
+The first question is whether the line can be launched safely on Monday and who has authority to make that determination. The board should establish when the failed test became known, how the result was classified, whether an approved alternative control is in place, and what “routine closeout” means under the organisation’s safety procedures.
 
-The response should reflect the potential consequences. If safety remains uncertain, the board should not proceed merely to avoid delaying an announced launch. It should pause the launch, obtain a judgment from the authorised safety professional, document the supporting evidence, and use the formal escalation process where necessary. If an exception permits the launch to proceed, the record should identify who authorised it, the evidence and reasoning supporting it, how long it applies, and what follow-up action is required.
+The specialist may determine that the failed test concerned an optional cover and that a verified interlock provides the required protection. Alternatively, the wording may have understated an unresolved hazard. The decision must follow the technical evidence.
+
+The response should reflect the potential consequences. If safety remains uncertain, the board should not proceed merely to avoid delaying an announced launch. It should pause the launch, obtain a judgement from the authorised safety professional, document the supporting evidence, and use the formal escalation process where necessary. If an exception permits the launch to proceed, the record should identify who authorised it, the evidence and reasoning supporting it, how long it applies, and what follow-up action is required.
 
 After addressing the immediate risk, the organisation should review how the information was handled. It should determine why a failed test could be described as “routine closeout,” why the worker representative received the paper later than other participants, and whether the safety specialist had a clear method for reporting a material change. These process weaknesses require correction even if the line is ultimately found to be safe and no one intended to mislead the board.
 
-This example also illustrates the limits of an information-process review. Such a review can identify late, inconsistent, or incomplete communication, but it cannot establish whether the equipment is safe. That judgment must be made by qualified personnel through the organisation’s authorised safety process.
+An information review can identify late, inconsistent, or incomplete communication. Qualified personnel must determine whether the equipment is safe through the authorised safety process.
 
-## Team rules for sharing usable information
+## Common mistakes in information disputes
 
-Teams can improve information flow without creating a complex knowledge-management system. A few clear working rules may be sufficient:
+Access does not establish understanding. A technical model without definitions may transfer responsibility without enabling review. Identify what the recipient needs to understand or do, then provide the necessary guidance.
+
+Distinguish confidentiality from unexplained secrecy. Confidentiality has a legitimate purpose and handling rules. Even when details are protected, participants can often learn that advice was obtained, what restriction applies, who may review the material, and when the restriction will be reconsidered.
+
+Use authorised records to examine unequal access: distribution lists, version histories, decision packs, and change logs. A concern does not justify inspecting colleagues’ inboxes or confidential briefings. Protected material required for a formal investigation belongs with an authorised reviewer.
+
+Test a suspected deliberate delay against the pattern: repeated failures, selected recipients, information known much earlier, or failed attempts at correction. An isolated late disclosure may reflect an imperfect system.
+
+Avoid using surveillance to repair trust. Tracking every message opening may invade privacy and damage relationships. Identify critical information and request explicit acknowledgement only where its importance warrants confirmation.
+
+## How to respond: information gaps
+
+Use these working rules to close an identified information gap:
 
 - **Maintain an authoritative record.** Drafts and supporting material may be stored in several places, but everyone should know where to find the current decision brief and the final record.
 - **Identify material changes.** Revisions to figures, assumptions, recommendations, or constraints should be clearly marked and communicated. Recipients should not have to compare multiple files to discover what changed.
@@ -183,34 +195,24 @@ Teams can improve information flow without creating a complex knowledge-manageme
 - **Require explicit responses when necessary.** For high-stakes information, the owner should request a defined confirmation, review, or decision. For routine information, forwarding an email should not be treated as proof that recipients understood it.
 - **Assign unresolved questions.** Every significant uncertainty should have a named owner and a date for the next update.
 
-These rules shift attention from appearing fully informed and in control to ensuring that people can coordinate effectively. They also reduce the need for participants to keep asking whether they have received the complete and current information.
-
-## Common mistakes in information disputes
-
-The first mistake is assuming that access to information means the recipient understands it. Sending a technical model without definitions or guidance may transfer formal responsibility without enabling the person to interpret the results. Instead of merely directing someone to a file, identify what they need to understand or do and provide the information necessary for that purpose.
-
-The second mistake is treating confidentiality and secrecy as the same thing. Confidentiality protects information for a legitimate reason and includes defined access and handling rules. Secrecy provides no explanation for why information is unavailable. Even when the underlying details cannot be disclosed, participants can often be told that advice was obtained, that a restriction applies, who is authorised to review the material, and when continued restriction will be reconsidered.
-
-The third mistake is demanding access to private communications in order to investigate unequal treatment. A concern that others received an unfair advantage does not justify inspecting colleagues’ inboxes or confidential briefings. Begin with records you are authorised to review, such as distribution lists, version histories, decision packs, and change logs. If protected material must be examined as part of a formal investigation, an appropriately authorised reviewer should do so.
-
-The fourth mistake is assuming that every late disclosure was deliberate. Information may arrive late because systems and processes are imperfect. Before alleging intentional delay, examine whether the problem has occurred repeatedly, affected selected participants, involved information known substantially earlier, or continued after attempts to correct it.
-
-The fifth mistake is using surveillance to address a lack of trust. Tracking whether every recipient opens every message may create privacy concerns and further damage working relationships. A better process clearly identifies critical information and requests explicit acknowledgement only when the importance of the material makes confirmation necessary.
+Agree which rule will address the gap, who will apply it, and how participants will know they have the current information.
 
 ## For managers: define how decision information is managed
 
 Teams do not need to store every document in a single repository. They need a consistent process for managing information used in important recurring decisions. For each decision, define:
 
-1. the authoritative decision brief;
-2. the accountable owner and current version number;
-3. the essential information that every decision participant must receive;
-4. any restricted supporting material and the reason for limiting access;
-5. the standard review period;
-6. the method for identifying material changes;
-7. the location where questions, answers, and corrections are recorded; and
-8. the final decision and the reasons supporting it.
+1. the authoritative decision brief
+2. the accountable owner and current version number
+3. the essential information that every decision participant must receive
+4. any restricted supporting material and the reason for limiting access
+5. the standard review period
+6. the method for identifying material changes
+7. the location where questions, answers, and corrections are recorded
+8. the final decision and the reasons supporting it
 
 This structure reduces unintended disclosure and unequal access to material information. It also distinguishes informal working discussions from the official decision record. Not every message needs to be retained, but any fact that could materially affect the decision should be added to the authoritative record.
+
+## Returning to Priya
 
 After the budget meeting, Priya’s company adopts this process. Finance provides an indexed workbook, a one-page explanatory summary, and permission-based links to supporting documents. Restricted comments are clearly identified and, where possible, summarised for the wider group. Any change requested by an executive is entered in the change log. The process does not prevent disagreement, but it ensures that participants are working from the same material facts and versions.
 
@@ -218,11 +220,11 @@ After the budget meeting, Priya’s company adopts this process. Finance provide
 
 Select a recent decision that surprised at least one participant or affected group. Create a simple timeline showing:
 
-1. when the issue first became known within the organisation;
-2. when the first written account, draft, or interpretation was produced;
-3. which people or roles received that material, and when;
-4. when any fact that could materially affect the decision changed; and
-5. when each affected role received enough information and time to respond meaningfully.
+1. when the issue first became known within the organisation
+2. when the first written account, draft, or interpretation was produced
+3. which people or roles received that material, and when
+4. when any fact that could materially affect the decision changed
+5. when each affected role received enough information and time to respond meaningfully
 
 For every significant difference in timing, content, or access, record one plausible legitimate explanation and identify the evidence that would support or disprove it. Then choose one process improvement that would reduce the risk of a similar problem even if no one acted improperly. Possible improvements include a common decision brief, clear version control, a redacted summary of restricted material, a minimum review period, or a requirement to notify participants when material information changes.
 

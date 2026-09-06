@@ -6,7 +6,7 @@ Northbridge Services launches a scheduling system for its field teams. The inves
 
 At the benefits review, the programme director presents the launch as a success. The main slide shows the fall in missed visits. Waiting time appears in an appendix, split into categories that are hard to compare with the original baseline. Administrative effort is described as “temporary adoption activity.” The director reminds the committee that the board’s strategic goal was digital modernisation.
 
-None of these statements is necessarily false. Missed visits matter. Early implementation often requires extra work. Modernisation was a strategic goal. But the basis of evaluation has changed. A project approved on three promised benefits is now judged mainly on one achieved benefit and the deployment of new technology.
+Missed visits matter, implementation can require extra work, and modernisation was a strategic goal. The evaluation has still shifted: three promised benefits have become one achieved benefit and the deployment of technology.
 
 The reverse can also happen. A technically successful project may be called a failure because it did not solve a problem it was never funded to solve. A pilot may be criticised for lacking national scale. A team may meet an agreed target only to learn that leaders now consider a different measure decisive.
 
@@ -16,12 +16,12 @@ Organisations need narratives to explain what data mean. Leaders must describe w
 
 Consider a project delivered two months late but under budget. It may be:
 
-- a scheduling failure;
-- a financial success;
-- a wise response to new safety evidence;
-- evidence of excessive optimism in the original plan;
-- a deliberate trade of time for scope; or
-- a warning that the budget excluded hidden internal labour.
+- a scheduling failure
+- a financial success
+- a wise response to new safety evidence
+- evidence of excessive optimism in the original plan
+- a deliberate trade of time for scope
+- a warning that the budget excluded hidden internal labour
 
 Several descriptions can be true at once. A useful review connects claims to agreed purposes, sufficiently complete evidence, and transparent judgement. It does not require one perfectly neutral account.
 
@@ -53,17 +53,17 @@ Ask seven questions about a consequential measure:
 6. Can the people judged by it inspect and correct the underlying data?
 7. Which behaviour could improve the number without improving the real outcome?
 
-The final question matters because measures become targets. A service centre can reduce average waiting time by ending complex calls early. A hospital can improve a recorded timeliness indicator by changing when the clock begins. A sales team can raise conversion by excluding difficult prospects. People respond rationally to what an accountability system rewards.
+Targets can encourage substitutes for the intended result. A service centre may end complex calls early, a hospital may change when its timeliness clock starts, or sales may exclude difficult prospects. Examine what the accountability system rewards.
 
 When one indicator omits an important effect, use a small set of measures covering relevant aspects of outcome, quality, volume or access, time, cost, and unintended consequences. Do not add all six automatically. Too many measures make selective reporting easier because presenters can choose whichever improved.
 
-Where possible, define the main measures and acceptable changes before results arrive. During a transition, show the original definition beside the revised one. Adopt a better measure when it becomes available. Explain the change, restate earlier periods when valid, and show whether the conclusion depends on the new definition.
+Where possible, define main measures and acceptable changes before results arrive. If a better measure becomes available, show both definitions, explain the change, restate earlier periods when valid, and test whether the conclusion depends on it.
 
 Qualitative evidence matters too. Customer accounts, staff observations, incident narratives, and expert judgement can reveal effects that numbers miss. State how cases were selected. A vivid anecdote may reveal how something happens without establishing how often it occurs.
 
 ## 2. The success story changes after the result
 
-Goals evolve. Regulation changes, competitors enter, safety issues emerge, and leaders deliberately trade one benefit for another. Adaptation is not dishonesty. The problem is changing the basis of evaluation without recording when, why, and by whom it changed.
+Regulation, competition, safety, or deliberate trade-offs may change goals. Record when, why, and by whom the basis of evaluation changed.
 
 At approval, Northbridge emphasised customer waiting time, administrative effort, and missed visits. After launch, the programme is defended primarily as modernisation. If modernisation genuinely became the main objective, the governance record should show that decision and its accepted consequences. Otherwise, the revised account shields the project from evaluation against the promises that secured its funding.
 
@@ -71,13 +71,13 @@ Motivated reasoning helps explain how this can happen without a conscious plan t
 
 Keep a history of expected benefits and subsequent changes. Record:
 
-- the original purpose and material assumptions;
-- baseline and target definitions;
-- approved changes to scope, benefits, timing, or risk;
-- the decision-maker and date;
-- what was knowingly traded away;
-- current results and uncertainty; and
-- which claims remain forecasts rather than realised benefits.
+- the original purpose and material assumptions
+- baseline and target definitions
+- approved changes to scope, benefits, timing, or risk
+- the decision-maker and date
+- what was knowingly traded away
+- current results and uncertainty
+- which claims remain forecasts rather than realised benefits
 
 Distinguish delivery, intermediate results, and benefits. Installing a system may be a delivery achievement. Creating the capacity to reduce waiting time is an intermediate result. Reducing waiting time is an outcome. Each may be worth reporting, but completing one does not prove the next.
 
@@ -104,7 +104,7 @@ Not every meeting needs a roll-call vote. Consensus may emerge through discussio
 
 Silence is weak evidence of agreement, especially in a hierarchy. It may mean assent, uncertainty, deference, fatigue, a lost connection, or belief that the decision is already made. Invite views before declaring consensus. Written follow-up can help participants who need time or could not safely interrupt.
 
-An accountable decision-maker may choose against the majority. Say so: “After consultation, I have selected Option B because it best meets the safety threshold, despite the operations team's preference for Option A.” Stating who decided and why is more trustworthy than claiming unanimity that did not exist.
+An accountable decision-maker may choose against the majority. Say so: “After consultation, I have selected Option B because it best meets the safety threshold, despite the operations team’s preference for Option A.” Stating who decided and why is more trustworthy than claiming unanimity that did not exist.
 
 Record material dissent without dramatising it. Preserve the objection and its relevance without turning the record into an account of personalities. Dissenters do not need permanent exemption from implementation. They do need confidence that the record will not later claim they endorsed an assumption they challenged.
 
@@ -133,19 +133,19 @@ A reassuring label does not erase real duties. Calling work a pilot, learning ex
 
 ## 5. The option set makes one answer inevitable
 
-Control of the options is control of the decision. A paper offering only “approve the full program” or “do nothing” makes approval appear inevitable even when phased, smaller, reversible, or differently owned approaches exist.
+Restricting the options can shape the decision. A paper offering only “approve the full programme” or “do nothing” may conceal phased, smaller, reversible, or differently owned approaches.
 
-Too many options can also obscure the choice. Decision-makers need a manageable set of substantially different approaches, rather than ten minor variants. Show the credible range and explain why other plausible options were excluded.
+Too many options can also obscure the choice. Decision-makers need a manageable set of substantially different approaches, rather than 10 minor variants. Show the credible range and explain why other plausible options were excluded.
 
 A useful option paper includes:
 
-1. the problem and decision deadline;
-2. the baseline or “continue current course” option, with its real consequences;
-3. at least one meaningfully different approach when available;
-4. assumptions, benefits, costs, risks, reversibility, and people affected;
-5. dependencies and authority;
-6. the recommendation and reasons; and
-7. uncertainty and the evidence that could change the choice.
+1. the problem and decision deadline
+2. the baseline or “continue current course” option, with its real consequences
+3. at least one meaningfully different approach when available
+4. assumptions, benefits, costs, risks, reversibility, and people affected
+5. dependencies and authority
+6. the recommendation and reasons
+7. uncertainty and the evidence that could change the choice
 
 Describe what “do nothing” would involve. Existing operations consume money and labour and require acceptance of risk. Give alternatives enough detail for a fair comparison; a favoured option should not receive a complete design while others are described only through vague disadvantages.
 
@@ -165,13 +165,13 @@ Before attaching consequences to a target, identify the behaviour it should enco
 
 Use three protections. First, pair the target with a constraint or quality check where a predictable trade-off matters: speed with first-time resolution, growth with returns, output with safety, or closure with recurrence. Second, examine results at the extremes and exceptions, as well as the average. Third, give teams a safe route to explain when meeting the target would harm the real purpose.
 
-Targets need governance. Who owns the definition? Who validates the data? Who approves exclusions? When will the threshold be reviewed? If local managers can reclassify cases that determine their own reward, use independent sampling or approval proportionate to the risk.
+Assign owners for the target’s definition, validation, exclusions, and threshold review. Where managers can reclassify cases affecting their own reward, use independent sampling or approval proportionate to risk.
 
 An unexpected response is not necessarily gaming. People may adapt because a target conflicts with another duty, tools are inadequate, or the recorded process differs from actual demand. Investigate why it happened. Punishing a visible workaround while retaining an impossible target teaches people to hide more effectively.
 
-Incentives extend beyond money. Promotion, praise, executive attention, public rankings, contract renewal, and relief from scrutiny all signal which account to produce. A leader who celebrates launches but never maintenance should expect reports full of launches. A board that asks only whether a project is marked green should expect definitions that keep it green.
+Promotion, praise, executive attention, rankings, renewal, and relief from scrutiny also shape reporting. Celebrating launches while ignoring maintenance may skew the account towards launches. Asking only whether a project is green may encourage definitions that keep it green.
 
-Reward accurate bad news, early stopping, prevented harm, corrected forecasts, and knowledge transfer. A leader can say, “This team missed the original date because testing found a serious access flaw; the discovery and transparent reset are evidence of control, not a reason to recolor the history.” This does not make every delay admirable. It makes truthful reporting and learning compatible with status.
+Reward accurate bad news, early stopping, prevented harm, corrected forecasts, and knowledge transfer. A leader can say, “This team missed the original date because testing found a serious access flaw; the discovery and transparent reset are evidence of control, not a reason to recolour the history.” This does not make every delay admirable. It makes truthful reporting and learning compatible with status.
 
 Allow enough time to assess consequences before giving rewards or final evaluations. A sales incentive paid before cancellations, a project award given before benefits review, or a speed ranking published before quality data arrives establishes a premature record of success. When waiting is impractical, make recognition provisional and return to the complete result.
 
@@ -189,9 +189,9 @@ Narrative evidence also needs clear sources. If a report says “staff welcomed 
 
 ## Precommitment without rigidity
 
-Recording important rules in advance helps prevent evaluation criteria from following the result. Before launch, record the primary outcome, threshold, review date, exclusions, decision owner, and likely responses. This is practical precommitment.
+Before launch, record the primary outcome, threshold, review date, exclusions, decision owner, and likely responses. This form of precommitment fixes evaluation rules; Chapter 5 examines commitments that restrict the options themselves.
 
-Include a rule for justified changes. Criteria may be revised when an assumption fails or new evidence emerges, provided the reason, authority, date, and effect on interpretation are recorded. Show the old and new analyses where feasible.
+Specify who may revise these rules when an assumption fails or evidence changes. Require the date, reason, and effect on interpretation, using the comparison method in the measures section.
 
 Use two views:
 
@@ -202,7 +202,7 @@ The first view prevents every bad outcome from becoming proof of a bad decision.
 
 Define a stop or review threshold too. What level of harm, cost, delay, or failed benefit triggers reconsideration? Research on escalation of commitment suggests that sunk investment and responsibility for an earlier decision can influence continued commitment.[^2] A pre-agreed review allows leaders to change course without presenting adaptation as defeat.
 
-## How to respond when the account and record diverge
+## How to respond: a disputed outcome account
 
 - **Recover the promise.** Find the approved purpose, measures, assumptions, scope, and constraints.
 - **Reconstruct changes.** Identify authorised revisions and their effective dates.
@@ -218,18 +218,18 @@ If you suspect deliberate falsification, unauthorised reclassification, fraud, c
 
 Ask someone who is not responsible for the preferred account to review a consequential proposal or report. Have them mark:
 
-- every evaluative word—*successful, delayed, efficient, strong, accepted*;
-- the measure or evidence supporting it;
-- the missing comparator or denominator;
-- changes from the original promise;
-- claims of agreement and the supporting decision record;
-- category changes;
-- plausible alternatives not shown; and
-- causal claims that may be correlation or interpretation.
+- every evaluative word—*successful, delayed, efficient, strong, accepted*
+- the measure or evidence supporting it
+- the missing comparator or denominator
+- changes from the original promise
+- claims of agreement and the supporting decision record
+- category changes
+- plausible alternatives not shown
+- causal claims that may be correlation or interpretation
 
 The reviewer’s job is to make the reasoning from evidence to conclusion clear. If the evidence strongly supports success, say so. Do not manufacture false balance.
 
-Begin the meeting with the decision required. Do not use a long history to exhaust scrutiny. Circulate materials early enough for review. Identify changes since circulation and record the selected option and reasons. Afterward, publish a proportionate account for affected people. Confidentiality may limit details, but it does not require invented consensus.
+Begin the meeting with the decision required. Do not use a long history to exhaust scrutiny. Circulate materials early enough for review. Identify changes since circulation and record the selected option and reasons. Afterwards, publish a proportionate account for affected people. Confidentiality may limit details, but it does not require invented consensus.
 
 Review the communication later. Did the internal or public summary preserve material conditions and trade-offs? A clear decision can be distorted as each organisational layer simplifies it. Provide an authoritative account of what was decided, by whom, why, what remains uncertain, what happens next, and where questions should go.
 
@@ -239,9 +239,9 @@ The benefits committee asks the programme director to restore the original three
 
 The committee records two judgements. The deployment met its technical scope and produced a meaningful reduction in missed visits. It has not yet delivered the full business case. The board’s modernisation objective supports continued investment but does not replace the customer and workload promises.
 
-The committee considers three options: continue unchanged, roll back, or keep the system while pausing expansion and redesigning exception rules with dispatchers. It selects the third and sets a twelve-week review using the original measures, case-mix information, and a sample of dispatcher workload.
+The committee considers three options: continue unchanged, roll back, or keep the system while pausing expansion and redesigning exception rules with dispatchers. It selects the third and sets a 12-week review using the original measures, case-mix information, and a sample of dispatcher workload.
 
-The final communication states what worked, what did not, what was learned, and what decision follows. It avoids declaring the project a triumph or a disaster. The account is less dramatic and more useful.
+The final communication describes benefits, shortfalls, learning, and the next decision. Its measured account preserves what a declaration of triumph or disaster would lose.
 
 ## Practice: give one outcome two honest readings
 
@@ -249,16 +249,16 @@ Choose a completed, non-sensitive project or decision. Write two brief interpret
 
 Then record:
 
-1. the original promise and source;
-2. the main measure and definition;
-3. one important measure that received less emphasis;
-4. any change in goal, scope, or category;
-5. who made the final decision;
-6. the level of support and any relevant dissent;
-7. at least one credible alternative;
-8. which interpretation you find more persuasive and why;
-9. which evidence would change your conclusion; and
-10. the next decision the evidence supports.
+1. the original promise and source
+2. the main measure and definition
+3. one important measure that received less emphasis
+4. any change in goal, scope, or category
+5. who made the final decision
+6. the level of support and any relevant dissent
+7. at least one credible alternative
+8. which interpretation you find more persuasive and why
+9. which evidence would change your conclusion
+10. the next decision the evidence supports
 
 The exercise develops the ability to reach a strong conclusion while showing the choices behind it.
 
