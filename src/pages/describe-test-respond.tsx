@@ -241,7 +241,7 @@ export default function DescribeTestRespond() {
                 </a>
                 <Link
                   className={landingStyles.closingTextAction}
-                  to="/introduction#know-when-this-book-is-not-enough"
+                  to="/introduction#when-to-seek-formal-or-specialist-support"
                 >
                   Read the safeguards
                 </Link>
