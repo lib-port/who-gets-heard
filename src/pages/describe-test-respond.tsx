@@ -15,7 +15,7 @@ const steps = [
   {
     number: '02',
     title: 'Test',
-    text: 'Choose a fair comparison, check ordinary explanations, and separate facts from assumptions.',
+    text: 'Choose a fair comparison, check alternative explanations, and separate facts from assumptions.',
   },
   {
     number: '03',
@@ -28,7 +28,7 @@ const outcomes = [
   {
     number: '01',
     title: 'A neutral account',
-    text: 'Describe the observable sequence and the process in question without trying to read anyone’s mind.',
+    text: 'Describe the observable facts and the process in question without trying to read anyone’s mind.',
   },
   {
     number: '02',
@@ -70,7 +70,7 @@ export default function DescribeTestRespond() {
                 id="worksheet-title"
                 className={`${landingStyles.title} ${styles.title}`}
               >
-                Describe. <em>Test.</em> Respond.
+                Describe <em>Test</em> Respond
               </Heading>
               <p className={landingStyles.subtitle}>
                 A practical guide to a constructive conversation
@@ -156,7 +156,7 @@ export default function DescribeTestRespond() {
             </div>
             <div>
               <Heading as="h2" id="method-title">
-                Turn an uncertain event into a clear conversation.
+                Turn an uncertain event into a clear conversation
               </Heading>
               <p className={landingStyles.sectionLede}>
                 The worksheet applies the book’s process-first method to one
@@ -220,7 +220,7 @@ export default function DescribeTestRespond() {
             <div>
               <p className={landingStyles.sectionLabel}>Use with care</p>
               <Heading as="h2" id="safeguards-title">
-                A starting point for inquiry, not a verdict.
+                A starting point for inquiry, not a verdict
               </Heading>
             </div>
             <div className={landingStyles.closingCopy}>
