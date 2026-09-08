@@ -8,17 +8,17 @@ Two executives confer before each meeting and arrive with a preferred answer. Au
 
 Noor could call this arrangement *political*. She would be right: relationships, authority, timing, information, and interpretation are shaping collective choices. But the label would not tell her what to repair.
 
-She starts with the work. Every paper must name the decision, decision owner, options, criteria, affected roles, and sources for key claims. Pre-meetings may continue, but any material change they produce must appear in the circulated paper or be disclosed at the meeting. Each item begins with questions before the recommendation is debated. Minutes distinguish consultation from decision, and actions go only to roles that accept them. The dashboard gains a service measure chosen with frontline teams and a measure of unintended effects.
+She starts with the work. Every paper must name the decision, decision owner, options, criteria, affected roles, and sources for key claims. Pre-meetings may continue, but any material change they produce must appear in the circulated paper or be disclosed at the meeting. Each item begins with questions before the recommendation is debated. Minutes distinguish consultation from decision, and actions go only to roles that accept them. The dashboard gains a service measure chosen with frontline teams that also take into consideration unintended effects.
 
 Influence remains. Executives still bring authority and wider context. Experts still frame technical issues. Skilled advocates still build support before the meeting. The system now makes it easier to see how those forces connect to evidence, responsibility, and correction.
 
-Trust depends on making these connections dependable in ordinary work.
+Trust comes from on making these connections dependable in ordinary work.
 
 ## Politics is part of organising
 
 Conflicting goals, scarce resources, distributed information, and uncertainty leave room for discretion, persuasion, coalitions, and trust. These conditions span multinational companies, public agencies, and family firms. Research accordingly treats organisational politics as perceptions, behaviours, actors, and outcomes rather than a few dramatic tactics.[^3]
 
-Use the word *politics* to locate choices that need examination. It explains little when attached to every unpopular decision, and denying it can disguise contested choices as technical necessities.
+Use the word *politics* to locate choices that need examination. It explains little when attached to every unpopular decision, and denying it can disguise contested choices between vested interests as equally necessary options judged against shifting criteria.
 
 The chapters trace these choices from access and information through support, decisions, and resources to recognition, accountability, and later interpretation. Across them, ask whether influence serves the work, is visible enough to examine, and remains open to correction.
 
@@ -296,7 +296,7 @@ The committee does not reach consensus. Eight members prefer the programme’s r
 
 The result is unpopular with some members, but evidence, authority, consequences, and learning remain visible.
 
-Politics remains, and people still have interests. They can now examine influence, challenge its effects, and repair the process. Influence becomes the capacity to make collective judgement possible and worthy of trust.
+Politics remains, and people still have interests. They can now examine influence, challenge its effects, and repair the process. Influence is acknowledged and audited to help make collective judgement possible and worthy of trust.
 
 [^1]: Jason A. Colquitt et al., “Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research,” *Journal of Applied Psychology* 86, no. 3 (2001): 425–445, [https://doi.org/10.1037/0021-9010.86.3.425](https://doi.org/10.1037/0021-9010.86.3.425).
 
