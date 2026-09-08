@@ -10,19 +10,19 @@ This book examines the informal arrangements that shape how work moves through o
 
 “Office politics” often suggests flattery, manipulation, alliances, and advancement through influence. These occur, but defining politics only as misconduct obscures the ordinary informal choices that shape organisational life.
 
-Organisations allocate limited attention, information, authority, opportunity, money, and recognition. Formal rules leave room for judgement: who attends, what is urgent, who is ready, and how disagreement or shortfalls are recorded. These decisions distribute influence and resources. They may be reasonable, careless, biased, generous, or defensive without necessarily being corrupt.
+Organisations allocate limited attention, information, authority, opportunity, money, and recognition. Formal rules leave room for judgement: who attends, what is urgent, who is ready, and how disagreement or shortfalls are recorded. These decisions distribute influence and resources. They may be reasonable, careless, biased, generous, or defensive without necessarily being political.
 
-Informal influence deserves serious examination. Distinguish what happened from assumptions about why it happened, while recognising that rules alone cannot explain every decision.
+Informal influence deserves serious examination. It is important to distinguish what happened from assumptions about why it happened, while recognising that rules alone cannot explain every decision.
 
 ## What workplace politics describes
 
-Researchers examine influence attempts, skill in navigating relationships, and perceptions of organisational politics.[^1] These are distinct. Social skill need not involve manipulation; unclear rules can make a workplace feel political; a decision can advantage one group without deliberate bias.
+Researchers have examined influence attempts, skill in navigating relationships, and perceptions of organisational politics.[^1] These are distinct. Social skill need not involve manipulation; unclear rules can make a workplace feel political; a decision can advantage one group without deliberate bias.
 
 “The meeting moved to a forum where finance held the deciding vote” describes a verifiable event. “Finance manipulated the process” adds an interpretation of intent. That interpretation may prove correct, but needs further evidence.
 
 Use technical terms carefully. _Gatekeeping_, _coalition formation_, _legitimacy borrowing_, and _decision provenance_ describe mechanisms; they can sound more conclusive outside specialist contexts.
 
-The book’s categories identify what to examine. Unequal advance briefing describes different preparation for the same decision. Restricted recognition routes identify how people reach an award or presentation. Neither category establishes motive, discrimination, or misappropriation.
+The book’s categories identify what to examine and not how to validate suspicions. Unequal advance briefing describes different preparation for the same decision. Restricted recognition routes identify how people reach an award or presentation. Neither category establishes motive, discrimination, or misappropriation.
 
 ## Formal authority, relationships, and decision processes
 
@@ -38,9 +38,9 @@ The maps align when the project owner receives evidence, reaches the authorised 
 
 Informal arrangements may adapt to circumstances faster than written rules. An intermediary may coordinate work, a private briefing explain technical evidence, or a senior presenter meet a governance requirement. Test the arrangement’s purpose, transparency, and capacity for correction.
 
-## Examine the process before judging motives
+## ==Examine the process before judging motives==
 
-An unfair or harmful event can suggest an immediate explanation: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ Preserve the concern while separating facts, past experience, and assumptions.
+An unfair or harmful event may prompt an immediate explanation: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ Preserve the concern while separating facts, past experience, and assumptions.
 
 Begin with what can be verified, without ignoring emotion or minimising harm:
 
