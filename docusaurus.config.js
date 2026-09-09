@@ -54,7 +54,7 @@ const config = {
           label: 'Book',
         },
         {
-          to: '/describe-test-respond',
+          to: '/worksheet',
           label: 'Worksheet',
           position: 'left',
         },

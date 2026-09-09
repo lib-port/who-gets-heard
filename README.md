@@ -10,7 +10,7 @@
 [![TypeScript TSX](https://img.shields.io/badge/TypeScript-TSX-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js 24](https://img.shields.io/badge/Node.js-24-5FA04E?logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 
-[Read the online edition](https://lib-port.github.io/who-gets-heard/) · [Begin with the introduction](https://lib-port.github.io/who-gets-heard/introduction) · [Use the worksheet](https://lib-port.github.io/who-gets-heard/describe-test-respond)
+[Read the online edition](https://lib-port.github.io/who-gets-heard/) · [Begin with the introduction](https://lib-port.github.io/who-gets-heard/introduction) · [Use the worksheet](https://lib-port.github.io/who-gets-heard/worksheet)
 
 ## About the book
 
@@ -41,7 +41,7 @@ These questions are intended for employees raising a concern, managers responsib
 
 The one-page *Describe. Test. Respond.* worksheet helps readers prepare for a workplace conversation, decision or review. It provides a structured way to record the event, identify the relevant expectation, test assumptions and choose a proportionate next step.
 
-[Open the worksheet guide](https://lib-port.github.io/who-gets-heard/describe-test-respond) · [Download the printable PDF](https://lib-port.github.io/who-gets-heard/files/describe-test-respond-worksheet.pdf)
+[Open the worksheet guide](https://lib-port.github.io/who-gets-heard/worksheet) · [Download the printable PDF](https://lib-port.github.io/who-gets-heard/files/describe-test-respond-worksheet.pdf)
 
 ## Contents
 
