@@ -38,50 +38,50 @@ The maps align when the project owner receives evidence, reaches the authorised 
 
 Informal arrangements may adapt to circumstances faster than written rules. An intermediary may coordinate work, a private briefing explain technical evidence, or a senior presenter meet a governance requirement. Test the arrangement’s purpose, transparency, and capacity for correction.
 
-## ==Examine the process before judging motives==
+## Examine the process before judging motives
 
-An unfair or harmful event may prompt an immediate explanation: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ Preserve the concern while separating facts, past experience, and assumptions.
+An unfair or harmful event may prompt an immediate conclusion: _They do not respect me. She wants the promotion. He is protecting his friend. This team punishes disagreement._ Preserve the concern while separating facts, past experience, and assumptions.
 
-Begin with what can be verified, without ignoring emotion or minimising harm:
+Begin with what can be verified, without ignoring emotion or minimising harm. Consider the following examples:
 
 - A decision brief was sent to six participants on Monday and to two others one hour before the vote.
 - The published eligibility criteria required two years of experience, but the selected candidate had one.
 - The meeting record named the presenter but did not identify the two people who produced the analysis.
 - After an employee raised a safety concern, her workload increased from five cases to nine.
 
-Check the records and context. Was another brief circulated? Did roles differ? Was an eligibility exception approved? Was the workload change already planned? How were comparable cases handled?
+Check the records and context. Was another brief circulated? Did roles differ? Was an eligibility exception approved? Was the workload change already planned? How were comparable cases handled? 
 
-Specific description makes even a serious concern easier to examine.
+A detailed description that carefully considers the context and includes relevant comparisons makes it easier to examine a concern and decide on a response.
 
-Context affects judgement. Framing can change preferences; knowing the result can change assessments of an earlier choice; interests and expectations can affect which evidence seems persuasive.[^3] Leaders, employees, investigators, and observers all need to account for these influences.
+Context affects judgement. Framing can change preferences. Knowing the result can change assessments of an earlier choice. Vested interests and pre-existing expectations can affect which evidence seems persuasive.[^3] Leaders, employees, investigators, and observers all need to account for these influences.
 
 ## Six questions for examining a workplace concern
 
-Use six questions to separate fact from interpretation and identify a useful correction. They guide inquiry; they do not replace a formal investigation.
+Use six questions to separate fact from interpretation and identify a useful correction. They guide inquiry, but they do not replace a formal investigation if one is required.
 
 ### 1. Which process is involved?
 
-Identify the specific decision, opportunity, meeting, record, resource, or assignment, and define the relevant period. “Leadership excludes me” is too broad to assess. A more useful statement is: “I was not invited to the three project reviews held between March and May, although the technical lead’s role description states that the role presents risk findings.”
+Identify the specific decision, opportunity, meeting, or assignment, and define the relevant period. “Leadership excludes me” is too broad to assess. A more useful statement is: “I was not invited to the three project reviews held between March and May, although the technical lead’s role description states that the role presents risk findings.”
 
 ### 2. What rule or expectation applied?
 
-Identify the written authority, published criterion, established practice, or temporary arrangement that governed the situation. If no clear rule existed, record that fact. Disputes often arise because different people rely on different unwritten expectations.
+Identify the written authority, published criterion, established practice, or temporary arrangement that governed the situation. If no clear rule existed, record that fact. Disputes often arise because different people are conforming with different unwritten expectations.
 
 ### 3. Which similar cases provide a fair comparison?
 
-Compare cases that are similar in the factors relevant to the process. A colleague may have received greater access because of seniority, specialist expertise, a client requirement, or preferential treatment. The comparison should be close enough to distinguish among these explanations. “Everyone else was invited” is less useful than “the other two regional leads managing projects of similar value under the same governance process were invited.”
+Compare cases that are similar in the factors relevant to the process. A colleague may have received greater access because of relevant experience, specialist expertise, or a client requirement. The comparison should be close enough to distinguish among these explanations. “Everyone else was invited” is less useful than “the other two regional leads managing projects of similar value under the same governance process were invited.”
 
 ### 4. What other explanations fit the facts?
 
-Consider factors such as confidentiality, data protection, legal privilege, safety requirements, accessibility needs, workload, scheduling, emergencies, delegated authority, administrative error, or incomplete information. Testing these explanations does not dismiss the concern. It helps distinguish a justified exception from an unexplained inconsistency.
+Consider factors such as confidentiality, legal privilege, safety requirements, accessibility needs, workload, scheduling, emergencies, delegated authority, administrative error, or incomplete information. Testing these explanations does not dismiss the concern. It helps distinguish a justified exception from an unexplained inconsistency.
 
 ### 5. What were the practical consequences?
 
-Consider whether the difference affected a decision, created unnecessary work, removed an opportunity to respond, concealed a material risk, reduced appropriate recognition, or prevented meaningful review. The consequence should influence the seriousness of the response. A missed invitation corrected within 10 minutes is different from repeated exclusion from decisions central to someone’s role.
+Consider whether the difference affected a decision, created unnecessary work, removed an opportunity to respond, concealed a material risk, reduced appropriate recognition, or prevented meaningful review. Meaningful consequences are major factors in considering the extent of a justified corrective response. A missed invitation corrected within 10 minutes is different from repeated exclusion from decisions central to someone’s role.
 
 ### 6. Could the problem be corrected?
 
-A sound system does not prevent every mistake; it allows mistakes to be identified and repaired. Ask whether the concern could be raised, whether the response addressed the underlying issue, whether the record was corrected, and whether the improvement continued. A prompt repair is relevant evidence. So is a review process that exists formally but cannot be used in practice without unreasonable cost or difficulty.
+A reliable system does not prevent every mistake, but it does allow mistakes to be identified and corrected. Ask whether the concern could be raised, whether the response addressed the underlying issue, whether the record was corrected, and whether the improvement continued. A prompt correction is relevant evidence. So is a review process that exists formally but cannot be used in practice without unreasonable cost or difficulty.
 
 Together, the six questions support a concise description:
 
@@ -91,17 +91,17 @@ The description gives managers, representatives, ombuds practitioners, facilitat
 
 ## Patterns do not prove wrongdoing
 
-A pattern is a recurring or significant process feature that may help explain an outcome. Its significance depends on context and the standard being applied.
+A pattern is a recurring or significant feature of a process that may help explain an outcome. Its significance depends on context and the standard being applied.
 
 Organisational justice research distinguishes fairness in outcomes, procedures, explanations, and interpersonal treatment.[^4] Unfairness need not be unlawful; an orderly process may still produce discriminatory effects requiring specialist assessment. Apply the relevant legal, regulatory, and organisational standards before reaching a finding.
 
-Do not score seriousness by counting patterns or diagnose someone by attaching labels. One ignored safety report may matter more than months of minor meeting problems. Counts create false precision.
+Do not score seriousness by counting patterns or diagnose someone by attaching labels. One ignored safety report may matter more than months of minor meeting problems. Numbers can give a false sense of precision and significance.
 
-Examine repetition, distribution, and sequence. Recurrence may weaken an explanation based on accident; disadvantage concentrated on one group differs from a mistake affecting everyone. A change after a complaint warrants examination without determining the conclusion.
+Examine repetition, distribution, and sequence. Recurrence may weaken an explanation based on accident; disadvantage concentrated on one group differs from a mistake affecting everyone. Examine changes that follow a complaint in context, considering whether the complaint or other factors explain them.
 
 ## Influence can be constructive
 
-The ability to understand people, build relationships, gain support, and communicate effectively is not inherently problematic. Research on political skill examines capabilities such as social awareness, interpersonal influence, networking ability, and apparent sincerity.[^5] These skills can support constructive outcomes. A sponsor can bring overlooked work to a decision-maker’s attention. A coalition can build support for a safety improvement. A pre-meeting can help an inexperienced presenter prepare. An informal relationship can help resolve an urgent customer problem when the normal process is failing.
+The ability to understand people, build relationships, gain support, and communicate effectively is not always a tool used to disadvantage others. Research on political skill examines capabilities such as social awareness, interpersonal influence, networking ability, and apparent sincerity.[^5] These skills can support constructive outcomes. A sponsor can bring overlooked work to a decision-maker’s attention. A coalition can build support for a safety improvement. A pre-meeting can help an inexperienced presenter prepare. An informal relationship can help resolve an urgent customer problem when the normal process is failing.
 
 Assess influence by its effects on informed action, fairness, transparency, and accountability. It can bring evidence to the right people, clarify support, and permit correction. It can also make access depend on private relationships, conceal commitments, concentrate credit, or raise the cost of disagreement.
 
@@ -145,7 +145,7 @@ Chapters 1–6 examine **Access and opportunity**, **Information**, **Agendas an
 
 Chapters 7–12 examine **Credit and visibility**, **Accountability**, **Reputation and legitimacy**, **Participation and challenge**, **Entrenchment and continuity**, and **Narratives and outcomes**. They ask how contributions are recognised, authority remains answerable, evidence is heard, services survive transitions, and results inform the next decision.
 
-Each main chapter opens with a fictional composite case and examines five recurring patterns, including legitimate explanations and relevant evidence. Supporting discussion leads to **How to respond** guidance, **For managers** actions, a **Returning to** case resolution, and a **Practice** exercise. A transition and supporting endnotes close the chapter. The introduction supplies the inquiry method; the conclusion combines the tools into a practical reset.
+Each main chapter opens with a fictional composite case and examines five recurring patterns, including legitimate explanations and relevant evidence. Supporting discussion leads to **How to respond** guidance, **For managers** actions, a **Returning to** case resolution, and a **Practice** exercise. A transition and supporting endnotes close the chapter. The introduction supplies the inquiry method; the conclusion combines the tools into a practical guide.
 
 The chapters can be read independently. A reader dealing with a recognition problem can begin with **Credit and visibility**, while someone responsible for a committee may begin with **Decision processes**. The sequence is intended to show how the different forms of influence connect, not to require a fixed reading order.
 
