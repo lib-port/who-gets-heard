@@ -135,7 +135,7 @@ Personal networks cannot correct every access problem. If analysts need a privat
 
 Compare relevant responsibilities before comparing permissions. A senior clinician, certified engineer, or authorised signatory may need different access. Test whether the criterion is relevant and proportionate to the work.
 
-Define the concern before collecting evidence. Start with one forum or opportunity, two or three comparable cases, the applicable rule, and the practical effect. Expand only when more evidence is necessary and you are authorised to examine it. Months of calendars and messages may add intrusion without clarity.
+Define the concern before collecting evidence. Start with a forum or opportunity, two or three comparable cases, the applicable rule, and the practical effect. Expand only when more evidence is necessary and you are authorised to examine it. Months of calendars and messages may add intrusion without clarity.
 
 Clarify the gatekeeper’s role before assigning blame. They may be following instructions, compensating for a weak process, or handling unrecognised demand. Where the role has acquired informal decision power, revising its authority and workflow will usually help more than replacing its occupant.
 
@@ -169,9 +169,9 @@ Select three forums that influence important decisions and three assignments tha
 - who participated during the review period
 - how an error or omission can be corrected
 
-Do not assume that every difference in participation results from bias. First ask whether the stated rules and communication methods explain who received access. If they do not, revise the process. If a concerning pattern continues and may involve protected characteristics or legal rights, refer the matter to the appropriate human resources, legal, equality, or other qualified specialist rather than conducting an informal personal investigation.
+Do not assume that every difference in participation results from bias. First ask whether the stated rules and communication methods explain who received access. If they do not, revise the process. If a concerning pattern continues and may involve protected characteristics or legal rights, refer the matter to the appropriate human resources, legal, or other qualified specialist rather than conducting an informal personal investigation.
 
-This review is especially important in hybrid and distributed workplaces. Distance may arise from differences in working hours, technology, workplace relationships, or organisational position, as well as physical location.[^4] A remote employee may attend the formal meeting but remain excluded from the informal conversations that shape the agenda and available options. Being able to join the same calendar event does not necessarily provide an equal opportunity to influence the work.
+This review is especially important in hybrid and distributed workplaces. Unequal access may arise from differences in working hours, technology, workplace relationships, or organisational position, as well as physical location.[^4] A remote employee may attend the formal meeting but remain excluded from the informal conversations that shape the agenda and available options. Being able to join the same calendar event does not necessarily provide an equal opportunity to influence the work.
 
 ## Returning to Darius
 
@@ -193,11 +193,11 @@ Summarise the opportunity on one page by answering:
 2. Who may express interest or nominate a candidate?
 3. Who makes the selection, and which criteria do they apply?
 4. Which formal or informal relationships affect a candidate’s visibility?
-5. Which legitimate requirements, such as experience, availability, qualifications, or capacity, limit eligibility?
+5. Which legitimate requirements, such as experience, availability, qualifications, or compliance, limit eligibility?
 6. What record is kept of the candidates considered, the decision, and the reasons for it?
 7. What route is available to someone who was overlooked or who wants to prepare for a future opportunity?
 
-An unanswered question does not by itself prove unfair treatment. It indicates that part of the process has not been clearly designed or communicated. The first improvement is to publish the route by which people can learn about the opportunity and be considered for it.
+An unanswered question does not by itself prove unfair treatment. It indicates that part of the process has not been clearly designed or communicated. An example improvement could be to publish the route by which people can learn about the opportunity and be considered for it.
 
 Access influences who enters important processes, who gains knowledge and experience, and who can demonstrate their abilities to others. The next chapter examines the information that becomes available through those opportunities.
 
