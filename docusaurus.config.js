@@ -12,6 +12,13 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenAnchors: 'throw',
 
+  future: {
+    faster: true,
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+    },
+  },
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],

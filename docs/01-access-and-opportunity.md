@@ -6,11 +6,11 @@ Darius manages customer research at a software company. His team interviews clie
 
 At first, the omission seems reasonable. Places are limited, and product managers may be expected to present customer evidence. Over time, Darius sees an uneven pattern. Engineers explain technical constraints directly; sales leaders describe customer demand. Researchers send summaries to a product manager, who decides what reaches the council. Darius often hears about questions only afterwards, too late to clarify the evidence before members form a view.
 
-Darius raises the concern with his manager, who replies, “You do not need to be in every meeting.” That leaves two questions unanswered: can the council reach the expertise it needs, and can researchers correct incomplete or inaccurate accounts before a decision?
+Darius raises the concern with his manager, who replies, “You do not need to be in every meeting.” That answer leaves the following questions unanswered: can the council reach the expertise it needs, and can researchers correct incomplete or inaccurate accounts before a decision?
 
 Access to meetings can appear to be a privilege, but it may also affect a person’s ability to perform their role. Attendance can provide timely information, professional visibility, and an opportunity to answer questions before a decision is made. Exclusion may mean becoming involved only after assumptions have been accepted and options have narrowed.
 
-Research on organisational networks distinguishes formal position from a person’s place in the relationships through which advice, information, and influence travel. Those relationships may confer advantages absent from an organisation chart.[^1] Career research also links social capital—the resources available through relationships—to information, sponsorship, and opportunity.[^2] Access to consequential forums deserves the same scrutiny as other organisational resources.
+Research on organisational networks distinguishes formal position from a person’s place in the relationships through which advice, information, and influence travel. Those relationships may confer advantages absent from an organisation chart.[^1] Career research also links social capital (the resources available through relationships) to information, sponsorship, and opportunity.[^2] Access to consequential forums deserves the same scrutiny as other organisational resources.
 
 This chapter examines five ways access may become restricted: exclusion from an important forum, late changes to attendance, dependence on sponsorship, reliance on a gatekeeper, and opportunities communicated mainly through informal insider networks.
 
@@ -22,7 +22,7 @@ Ask what authority the forum holds, what evidence it receives, and whether membe
 
 Then identify the participation rule. Membership may depend on representation, expertise, seniority, or rotation. Limited membership can protect confidentiality, efficiency, or delegated authority. Check whether the rule is clear and consistently applied, and whether excluded expertise has another route into the discussion.
 
-For Darius’s council, that route could be a rotating specialist seat, an invitation for relevant items, a written-response period, or referral of disputed findings to the research lead. Choose the access needed for a sound, accountable decision.
+For Darius’s council, that route could be a rotating specialist seat, an invitation for relevant items, a written-response period, or referral of disputed findings to the research lead. Choose the access needed for sound and accountable decision-making.
 
 An individual can make a focused request by explaining the contribution that is needed:
 
@@ -34,13 +34,13 @@ Managers should publish the mandate, membership criteria, agenda-submission rout
 
 A late addition or substitution can change a discussion even if the person says little. They may bring expertise, authority, or a signal of senior preference. A substitution may remove a perspective or someone willing to challenge the proposal.
 
-Attendance may change because a leader becomes available, expertise is needed, someone is ill, or an urgent issue involves another department. Timing alone does not establish unfairness. Ask:
+Attendance may change because a leader becomes available, expertise is needed, someone is unable to attend, or an urgent issue involves another department. Timing alone does not establish unfairness. Ask:
 
 1. Did the change introduce new information, authority, or constraints?
 2. Did the other participants have a reasonable opportunity to prepare for those changes?
 3. Did the forum retain the same purpose and decision-making rules?
 
-For example, if an advisory discussion becomes an approval meeting because an executive arrives, participants should be told that the forum’s authority has changed. If a late-arriving specialist identifies a new risk, the group may need additional time to assess the evidence rather than proceeding immediately to a vote.
+For example, if an advisory discussion becomes an approval meeting because an executive arrives, participants should be told that the forum’s authority has changed. If a late-arriving specialist identifies a new risk, the group may need additional time to assess the evidence rather than proceeding immediately to a decision.
 
 Consider a procurement review that the chief financial officer joins five minutes before it begins. Her attendance is legitimate. During the discussion, she states that one option “does not fit our direction.” Although the committee’s evaluation favours that option, the chair treats her comment as decisive. The record should distinguish the committee’s assessment from the CFO’s strategic concern and identify who had authority to make the final decision. The chair may also need to pause the process so affected teams can understand and respond to the newly introduced strategic constraint.
 
@@ -66,7 +66,7 @@ Review who receives advocacy. A formal sponsorship programme alone will not reve
 
 Gatekeepers manage access to limited time, information, and decision-making capacity. Executive assistants protect senior leaders’ schedules, programme managers direct requests to the appropriate forum, security staff control access to sensitive material, and community leads connect people across organisational boundaries. Effective gatekeepers reduce unnecessary traffic and help legitimate requests reach the right person or process.
 
-Dependence becomes risky when the gatekeeper is the only practical route, their authority is unclear, and their decisions cannot be reviewed. Even without misuse, work may stop during an absence. Regular contacts may learn shortcuts while others cannot distinguish rejection from delay or oversight.
+Dependence becomes risky when the gatekeeper is the only practical route, their authority is unclear, and their decisions cannot be reviewed. Even without misuse, work may stop during an absence. Regular contacts may learn shortcuts while others cannot distinguish rejection from delay or ongoing review.
 
 Consider an analyst who needs approval from a designated data owner. Although the policy names the owner as the decision-maker, every request must first go through a project coordinator. The coordinator requires a one-page explanation from some teams and a full business case from others. No expected response time is stated, and requests the coordinator rejects are not sent to the data owner. In practice, the coordinator is not merely routing requests but deciding which ones the authorised owner may consider.
 
@@ -84,7 +84,7 @@ Many career-building opportunities are assigned informally before they are recog
 
 Managers often select someone they already trust to complete urgent work. This may be reasonable in an individual case, but repeatedly choosing the same person can create a self-reinforcing pattern. That person receives more developmental assignments because they already have relevant experience, while others remain ineligible because they have not been given a chance to develop it. The same pattern can affect access to training, temporary leadership roles, and high-profile projects.
 
-Readiness, interest, availability, workload, and specialist knowledge can justify different assignments. Employees still need to know the criteria and have a realistic route to meeting them. Explain how to develop presentation skills, invite suitable candidates to express interest in overseas work, and show employees how to make their aspirations known when managers control nominations.
+Readiness, interest, availability, workload, and specialist knowledge can justify different assignments. Employees still need to know the criteria and have a realistic route to meeting them. Explain how to develop presentation skills, invite suitable candidates to express interest in specialised work, and show employees how to make their aspirations known when managers control nominations.
 
 An employee can express interest without asking for a guaranteed assignment:
 
@@ -92,7 +92,7 @@ An employee can express interest without asking for a guaranteed assignment:
 
 Keep an opportunity log: significant assignments, selection reasons, and employees who have expressed interest. Review it quarterly for repeated access to visible work, essential maintenance work that receives little attention, and interest without a route to readiness. These patterns may arise unintentionally.
 
-Advertise major opportunities and open nominations beyond a small group of managers. Provide time or compensation when development adds to normal responsibilities. Offer several ways to express interest: culture, personality, disability barriers, previous treatment, or unclear expectations may discourage self-promotion. Visibility alone does not establish ambition.
+Advertise major opportunities and open nominations beyond a small group of pre-selected applicants. Provide time or compensation when development adds to normal responsibilities and the skills acquired is not easily transferable to other roles or industries. Offer several ways to express interest: culture, personality, disability barriers, previous treatment, or unclear expectations may discourage self-promotion. Visibility alone does not establish ambition.
 
 ## What fair access requires
 
@@ -129,13 +129,13 @@ People who are represented rather than present should ask practical questions: W
 
 ## Common mistakes when seeking access
 
-Attendance alone does not create influence. An overcrowded or unprepared forum may offer little scope to affect a decision, especially if it was shaped elsewhere. Choose the route that can affect the work: a timely brief or required consultation may be more useful than another seat.
+Attendance alone does not create influence. An overcrowded or unprepared forum may be incapable of making or reviewing a decision, especially if it was shaped elsewhere. Choose the route that can affect the work: a timely brief or required consultation may be more useful than another attendee.
 
-Personal networks cannot repair every access problem. If analysts need a private connection with an executive assistant to obtain routine decisions, the formal route needs attention.
+Personal networks cannot correct every access problem. If analysts need a private connection with an executive assistant to obtain routine decisions, the formal route needs attention.
 
 Compare relevant responsibilities before comparing permissions. A senior clinician, certified engineer, or authorised signatory may need different access. Test whether the criterion is relevant and proportionate to the work.
 
-Define the concern before collecting evidence. Start with one forum or opportunity, two or three comparable cases, the applicable rule, and the practical effect. Expand only when more evidence is necessary and you are authorised to examine it. Years of calendars and messages may add intrusion without clarity.
+Define the concern before collecting evidence. Start with one forum or opportunity, two or three comparable cases, the applicable rule, and the practical effect. Expand only when more evidence is necessary and you are authorised to examine it. Months of calendars and messages may add intrusion without clarity.
 
 Clarify the gatekeeper’s role before assigning blame. They may be following instructions, compensating for a weak process, or handling unrecognised demand. Where the role has acquired informal decision power, revising its authority and workflow will usually help more than replacing its occupant.
 

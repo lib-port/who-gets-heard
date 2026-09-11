@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "latest",
+    "@docusaurus/faster": "latest",
     "@docusaurus/preset-classic": "latest",
     "@mdx-js/react": "^3.0.0",
     "react": "^19.0.0",
