@@ -92,7 +92,7 @@ An employee can express interest without asking for a guaranteed assignment:
 
 Keep an opportunity log: significant assignments, selection reasons, and employees who have expressed interest. Review it quarterly for repeated access to visible work, essential maintenance work that receives little attention, and interest without a route to readiness. These patterns may arise unintentionally.
 
-Advertise major opportunities and open nominations beyond a small group of pre-selected applicants. Provide time or compensation when development adds to normal responsibilities and the skills acquired is not easily transferable to other roles or industries. Offer several ways to express interest: culture, personality, disability barriers, previous treatment, or unclear expectations may discourage self-promotion. Visibility alone does not establish ambition.
+Advertise major opportunities and open nominations beyond a small group of pre-selected applicants. Provide time or compensation when development adds to normal responsibilities and the skills acquired are not easily transferable to other roles or industries. Offer several ways to express interest: culture, personality, disability barriers, previous treatment, or unclear expectations may discourage self-promotion. Visibility alone does not establish ambition.
 
 ## What fair access requires
 
