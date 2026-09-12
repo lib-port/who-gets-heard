@@ -8,9 +8,9 @@ Who selects presenters? Are comparable projects treated consistently? How will E
 
 This book examines the informal arrangements that shape how work moves through organisations: whose knowledge reaches decision-makers, which concerns receive attention, who receives recognition for successful work, and who is held responsible when something goes wrong. These arrangements are often described as “office politics.”
 
-“Office politics” often suggests flattery, manipulation, alliances, and advancement through influence. These occur, but defining politics only as misconduct obscures the ordinary informal choices that shape organisational life.
+“Office politics” often suggests flattery, manipulation, alliances, and advancement through influence. These occur, but defining politics only as the self-interested circumvention of formal processes obscures the ordinary informal choices that shape organisational life.
 
-Organisations allocate limited attention, information, authority, opportunity, money, and recognition. Formal rules leave room for judgement: who attends, what is urgent, who is ready, and how disagreement or shortfalls are recorded. These decisions distribute influence and resources. They may be reasonable, careless, biased, generous, or defensive without necessarily being political.
+Organisations allocate limited attention, information, authority, opportunity, money, and recognition. Formal rules leave room for judgement: who attends, what is urgent, who is ready, and how disagreement or shortfalls are recorded. These decisions distribute influence and resources. They may be opaque, biased, generous, or defensive without necessarily being political.
 
 Informal influence deserves serious examination. It is important to distinguish what happened from assumptions about why it happened, while recognising that rules alone cannot explain every decision.
 

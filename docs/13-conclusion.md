@@ -12,7 +12,7 @@ She starts with the work. Every paper must name the decision, decision owner, op
 
 Influence remains. Executives still bring authority and wider context. Experts still frame technical issues. Skilled advocates still build support before the meeting. The system now makes it easier to see how those forces connect to evidence, responsibility, and correction.
 
-Trust comes from on making these connections dependable in ordinary work.
+Trust comes from making these connections dependable in ordinary work.
 
 ## Politics is part of organising
 
