@@ -6,19 +6,19 @@ Renee is part of a cross-functional team selecting a new customer-support platfo
 
 Only two members of Renee’s project team sit on the steering committee. Instead of receiving the full test results, the committee receives a four-slide summary. It selects the vendor preferred by the infrastructure director on the basis of “enterprise fit,” although that criterion was not included in the original evaluation. The minutes later state that the steering committee “confirmed the project team’s direction.”
 
-The system may be the best choice. The infrastructure director may know risks the team missed, and the committee may hold approval authority. The record still leaves questions: why did the forum change, what had the team recommended, and who added “enterprise fit”? Did the committee confirm the recommendation or replace it, and can a reader reconstruct why?
+The system may be the best choice. The infrastructure director may know risks the team missed, and the committee may hold approval authority. The record still leaves questions: why did the forum change, what had the team recommended, and who added “enterprise fit”? Did the committee confirm the recommendation or replace it, and can a reviewer reconstruct why?
 
-Decision processes turn support into commitments. Process quality and outcome quality are distinct: a fair process can produce an unpopular result, and a weak process can produce a sound choice. Organisational justice research distinguishes procedures, outcomes, explanations, and interpersonal treatment.[^1] Voice research also suggests that a meaningful chance to contribute matters even without control of the result.[^2] Studies of group decisions and information sharing show why membership and relevant evidence can affect decision quality.[^3]
+Decision processes turn support into commitments. Process quality and outcome quality are distinct: a fair process can produce an unpopular result, and a weak process can produce a reliable choice. Organisational justice research distinguishes procedures, outcomes, explanations, and interpersonal treatment.[^1] Voice research also suggests that a meaningful chance to contribute matters even without control of the result.[^2] Studies of group decisions and information sharing show why membership and relevant evidence can affect decision quality.[^3]
 
-Make authority, evidence, criteria, and reasoning clear enough for review. Authorised people and bodies still need to choose; consensus is not always required.
+Make authority, evidence, criteria, and reasoning clear enough for review. Authorised people and bodies may still need to make unilateral decisions without consultation, as consensus is not always required.
 
 ## Six elements of a clear decision process
 
-A consequential decision is easier to understand and review when six elements are explicit:
+A consequential decision is easier to understand and review when the following six elements are explicit:
 
 1. **Question:** What specific decision must be made now?
 2. **Authority:** Who provides advice, who makes a recommendation, and who has final decision authority?
-3. **Participation:** Which people, roles, or affected groups need to contribute relevant knowledge or interests?
+3. **Participation:** Which people, roles, or affected groups need to contribute relevant knowledge or information?
 4. **Criteria:** What standards will be used to compare the available options?
 5. **Record:** What was decided, why, and subject to what dissent, conditions, or qualifications?
 6. **Review:** What process allows the decision to be reconsidered, appealed, or evaluated later?
@@ -29,9 +29,9 @@ Five recurring problems can make a decision difficult to reconstruct: changing t
 
 ## 1. Changing the decision forum changes who decides
 
-A decision venue can be a committee, workflow, jurisdiction, platform, meeting, or informal discussion. Moving the issue can change participants, rules, expertise, records, review rights, and available outcomes.
+A decision forum can be a committee, meeting, or informal discussion. Moving the issue can change participants, rules, expertise, records, review rights, and available outcomes.
 
-A move may supply missing authority, independent review, an organisation-wide standard, or emergency capacity. Explain why the new forum is appropriate and what it may decide.
+Changing the forum may supply missing authority, independent review, an organisation-wide standard, or emergency capacity. Explain why the new forum is appropriate and what it may decide.
 
 Renee’s purchase may properly belong to the steering committee. The record must still distinguish the project group’s usability and service assessment from final approval. If the committee added enterprise fit and selected another vendor, state that change and its reasons.
 
@@ -39,11 +39,11 @@ When a decision moves to another venue, ask:
 
 - What mandate gives the new forum authority?
 - What participation, expertise, or review is lost or gained?
-- Will the existing evidence and recommendation move with the issue?
-- Is the new forum deciding the same question or addressing an additional level of approval?
+- Will the existing evidence and recommendation transfer with the issue?
+- Is the new forum deciding the same question, addressing an additional level of approval, or reconsidering a previous decision?
 - What record will connect the work of the two forums?
 
-Preserve the original forum’s evidence and reasoning without giving it control merely for having done the work. Watch for venue shopping: repeated moves seeking a more favourable audience. Stated forum and escalation rules make that pattern easier to assess.
+Preserve the original venue’s evidence and reasoning without giving it control just for having done the work. Watch for venue shopping: repeated moves seeking a more favourable audience. Explicitly stated forum and escalation rules make that pattern easier to assess.
 
 ## 2. Membership and quorum shape the decision
 
@@ -55,9 +55,9 @@ Consider a hiring panel that normally includes the hiring manager, a peer, an in
 
 Record whether a late participant is a member, adviser, observer, or voter. State what evidence they reviewed and whether they may score or vote on matters they did not observe.
 
-A body may meet quorum while a relevant function, region, or employee representative is repeatedly absent. Where that representation serves the forum’s purpose, include it in membership or quorum requirements and record exceptions.
+A body may meet quorum while a relevant function, region, or employee representative is repeatedly absent. Where that representation serves the forum’s primary purpose, include it in membership or quorum requirements and record exceptions.
 
-Do not infer motive from attendance records alone. Reconstruct the sequence of invitations, recusals, substitutions, attendance, and decision authority. If a membership change may have materially affected the outcome, first determine whether the decision should be paused, reconsidered, or formally ratified with the required participants.
+Do not infer motive from attendance records alone. Reconstruct the sequence of invitations, recusals, substitutions, attendance, and decision authority. If a membership change may have materially affected the outcome, first determine whether the decision should be paused, reconsidered, or formally accepted with the required participants.
 
 ## 3. Commitments made before approval limit later choices
 
@@ -73,24 +73,25 @@ A decision paper can make the status of each option explicit:
 - **Approved:** The authorised decision-maker has formally committed the organisation.
 - **Implemented:** Action has begun; later review concerns continuation, modification, or correction.
 
-Use the labels to distinguish feasibility work from approval. Repetition alone should not turn a preferred option into an authorised commitment.
+Use the labels to distinguish feasibility work from approval. Repeated consideration alone should not turn a preferred option into an authorised commitment.
 
-When a decision appears to have been settled in advance, ask what remains genuinely open and what has already been committed. “Can this committee still choose vendor B without breaching a contract or an external commitment?” is more precise than asking whether the meeting is merely a rubber stamp. If the answer is no, the record should identify the earlier commitment, who authorised it, and what decision remains for the current forum.
+When a decision appears to have been settled in advance, ask what remains genuinely open and what has already been committed. “Can this committee still choose vendor B without breaching a contract or an external commitment?” is more precise than asking whether the meeting is only a rubber stamp. If the answer is no, the record should identify the earlier commitment, who authorised it, and what decision remains for the current forum.
 
-Participation after a decision can still provide useful feedback, but it is different from participation while alternatives remain open. Experimental research has found that both pre-decision and post-decision opportunities for voice can improve perceptions of fairness, with stronger effects for pre-decision voice in the setting studied.[^2] The practical principle is simple: consultation should occur while participants can still influence the choice. If the decision has already been made, the process should be described accurately as implementation feedback, evaluation, or review.
+Participation after a decision can still provide useful feedback, but it is different from participation while alternatives remain open. Experimental research has found that both pre-decision and post-decision opportunities for input can improve perceptions of fairness, with stronger effects for pre-decision voice in the setting studied.[^2] The practical principle is that consultation should occur while participants can still influence the choice. If the decision has already been made, the process should be described accurately as implementation feedback, evaluation, or review.
 
 ## 4. Decision records show who decided and why
 
-Decision provenance records how a question became an authorised choice: who decided, on what evidence, and why. Six months later, a reasonable reader should be able to reconstruct the decision and the authority behind it.
+Decision provenance records how an option became an authorised choice: who decided, on what evidence, and why. Six months later, a reasonable reader should be able to reconstruct the decision, the reasoning, and the authority behind it.
 
-Vague minutes, unowned documents, undocumented verbal instructions, and concealed disagreement can obscure that history. “It was agreed” may mean a formal vote, the chair’s conclusion, no objection, or the most senior participant’s preference. State which occurred.
+Vague minutes, missing or unmaintained documents, undocumented verbal instructions, and concealed disagreement can obscure that history. “It was agreed” may mean a formal vote, the chair’s conclusion, no objection, or the most senior participant’s preference. State which occurred.
 
-Ambiguity may reduce visible conflict and make a decision seem collective. Later, it can prevent people from identifying responsibility, comparing new evidence with the original basis, or reconciling different memories.
+Ambiguity may reduce visible conflict and make a decision seem collective. Later, it can prevent people from identifying responsibility, comparing new evidence with the original basis, or reconciling different records.
 
 A concise decision record should include:
 
 - the date and decision question
 - the authorised decision-maker or body
+- the options that were available
 - the option selected
 - the main criteria or constraints
 - the material evidence and relevant version
@@ -103,9 +104,9 @@ When a decision is given verbally, confirm it in writing. For example: “My und
 
 ## 5. Criteria change after the options are known
 
-Criteria may need to change when evidence reveals an overlooked requirement, a regulator introduces a rule, a candidate discloses a conflict, or a prototype exposes a reliability problem. Transparent adaptation can be fairer than ignoring relevant new information.
+Criteria may need to change when evidence reveals an overlooked requirement, a regulator introduces a rule, a candidate discloses a conflict, or a prototype exposes a reliability problem. Transparent adaptation controls risks more effectively than ignoring relevant new information.
 
-Scrutinise changes made after decision-makers know which option will benefit, especially when no general, documented reason is given. A hiring panel may emphasise management experience until its preferred candidate lacks it, then shift to “future potential.” A project may be approved on expected revenue but later defended as a branding investment when the revenue does not appear. One vendor’s weakness may be reclassified as nonessential while the same weakness remains disqualifying for a competitor.
+Closely examine changes to the decision criteria made after decision-makers know which options those changes would favour, especially when there is no documented reason that would justify the changes. A hiring panel may emphasise management experience until its preferred candidate lacks it, then shift to “future potential.” A project may be approved on expected revenue but later defended as a branding investment when the revenue does not appear. One vendor’s weakness may be reclassified as nonessential while the same weakness remains disqualifying for a competitor.
 
 When criteria change, apply five tests:
 
@@ -123,9 +124,9 @@ Check weighting changes too: the criteria may stay the same while one factor gai
 
 Many workplace decisions appropriately belong to a person or body with defined authority. A safety officer may stop work, a budget owner may reject spending, a manager may select among qualified candidates, and a board may make a decision despite substantial disagreement. Participation should inform the decision, but it does not always determine the outcome.
 
-Decision-makers should consider relevant input while the choice is open, apply criteria consistently or explain departures, and accept responsibility for the outcome. Record the authority accurately: a leader’s choice should not become “the group decided,” nor a committee vote merely what “leadership wanted.”
+Decision-makers should consider relevant input while the choice is open, apply criteria consistently or explain exceptions, and accept responsibility for the outcome. Record the authority accurately: a leader’s choice should not become “the group decided,” nor a committee vote become what “leadership wanted.”
 
-Consensus can help when commitment matters and time permits. Define it beforehand: no unresolved reasoned objection, an acceptable outcome for everyone, or complete agreement. Otherwise, participants may gain unintended vetoes or feel pressured to give way. State who may decide if consensus fails.
+Consensus can help when time permits and widespread agreement is a prerequisite to the implementation of a decision. Define it beforehand: no unresolved objection that is within scope, an acceptable outcome for affected stakeholders, or complete agreement from all participants. Otherwise, participants may gain unintended vetoes or feel pressured to not express objection. Select prior to the vote who may decide if consensus fails to avoid the appearance of circumventing the outcome.
 
 ## Define delegated authority, limits, and accountability
 
@@ -157,7 +158,7 @@ A credible review or appeal process should state:
 
 Valid grounds may include a material factual error, an undisclosed conflict of interest, a procedural breach, significant new evidence that was not previously available, or a decision made outside the stated authority. Simple disagreement with the outcome may not be sufficient. That limitation is reasonable when it is stated in advance and applied consistently.
 
-Match independence to the issue. The next manager may review a routine expense dispute, but a complaint about that manager needs another reviewer. A technical question may need an independent specialist. Apply the stated grounds rather than the reviewer’s personal preference.
+Match the independence of decision makers in the review process to the issue. The next level manager may review a routine expense dispute, but a complaint about that manager needs another reviewer. A technical question may need an independent specialist. Apply the stated grounds rather than the reviewer’s personal preference.
 
 Test the route before it is needed. Can someone find it, understand it, obtain the necessary evidence, and receive a reasoned response on time? Hidden policies, inaccessible evidence, and automatic referral to the original decision-maker may make review ineffective.
 
@@ -171,7 +172,7 @@ At the same time, reducing bureaucracy should not mean removing necessary safegu
 
 ## Protect sensitive information in decision records
 
-Good decision records preserve the information needed to explain and review a decision without retaining unnecessary personal or sensitive material. Health information, complaints, legal advice, security details, personal data, and commercially sensitive evidence may need to be stored separately or subject to restricted access.
+Good decision records preserve the information needed to explain and review a decision without retaining unnecessary personal or sensitive material. Complaints, health information, legal advice, security details, personal data, and commercially sensitive information may need to be anonymised or subject to restricted access.
 
 A widely shared record might state: “Candidate B was appointed following assessment against the published criteria. One panel member recused because of a prior working relationship with the candidate.” The general record does not need to include confidential references, detailed interview notes, or other protected information. Those materials can be retained in an access-controlled file where policy requires them.
 
@@ -179,7 +180,7 @@ Do not create informal dossiers because the official record is incomplete. Ask t
 
 ## Review decisions supported by algorithms or AI
 
-Scoring systems, automated recommendations, and generative AI add questions to the decision process. Establish how a tool used to screen, rank, summarise, or recommend is selected, authorised, and reviewed.
+Scoring systems, automated recommendations, and generative AI add considerations to the decision process. Establish how a tool used to screen, rank, summarise, or recommend is selected, authorised, and reviewed.
 
 Ask:
 
@@ -187,7 +188,7 @@ Ask:
 - What task is it authorised to perform?
 - Which data, rules, criteria, or thresholds influence its output?
 - Can affected people identify and correct inaccurate information?
-- Who makes the final judgement, and can that person depart from the system’s recommendation?
+- Who makes the final judgement, and can that person reject the system’s recommendation?
 - What monitoring or review identifies errors, unequal effects, or safety concerns?
 
 “The system decided” leaves owners, data, configurations, and thresholds unexplained. A “human is in the loop” offers little assurance if that reviewer lacks time, information, training, or authority to question or override the output.
@@ -198,9 +199,9 @@ The National Institute of Standards and Technology’s voluntary AI Risk Managem
 
 If Renee’s preferred vendor loses and the selected system performs well, that supports the choice. It does not explain the forum change, representation of evidence, or revised criteria.
 
-Poor performance would not establish manipulation either. Implementation, new evidence, market changes, or uncertainty may explain it. Assess the process against what was known and authorised then, and the outcome against what happened later.
+Poor performance would not establish manipulation either. Ineffective implementation, market changes, or vendor non-compliance may explain it. Assess the process against what was known and authorised then, and the outcome against what happened later.
 
-A reasonable decision under uncertainty can fail; a weak process can succeed by chance. Learn from the result while correcting process weaknesses. Experimental research on outcome bias supports keeping these assessments separate.[^4] Chapter 12 develops their implications for later accounts.
+A reasonable decision under uncertainty can result in a failed outcome due to realisation of unforseen risks; a weak process can succeed by chance. Learn from the result while correcting process weaknesses. Experimental research on outcome bias supports keeping these assessments separate.[^4] Chapter 12 develops their implications for later accounts.
 
 A retrospective can preserve the distinction by recording both perspectives separately:
 
@@ -239,7 +240,7 @@ For recurring or high-stakes decisions, define the decision framework before eva
 |Record|Where will the decision, rationale, conditions, and dissent be documented?|
 |Review|What new evidence or event could trigger reconsideration?|
 
-Avoid vague terms. “Business needs” is not a usable criterion until it is translated into factors such as capacity, cost, risk, or user requirements. “Leadership” does not identify decision authority until the responsible person or body is named.
+Avoid vague terms. “Business needs” is not a usable criterion until it is translated into factors such as capacity, cost, risk, or user requirements. “Leadership” does not identify decision authority until the specific responsible person or body is identified.
 
 ## Returning to Renee
 
@@ -247,7 +248,7 @@ Renee asks the steering committee to document the platform decision using this f
 
 ## Practice: trace a decision’s authority, evidence, and rationale
 
-Choose one decision made within the past three months. Using only records and information you are authorised to access, answer:
+Choose a decision made within the past three months. Using only records and information you are authorised to access, answer:
 
 1. What specific question was being decided?
 2. Who understood themselves to have decision authority?
@@ -257,9 +258,7 @@ Choose one decision made within the past three months. Using only records and in
 6. What does the final decision record state?
 7. What event, evidence, or condition could trigger review?
 
-Mark each answer as _clear_, _inferred_, or _unknown_. Then select one unknown that could affect future decisions and ask the responsible process owner to clarify it.
-
-The purpose is not to reopen every past decision. It is to identify uncertainties that should not be carried into the next one.
+Mark each answer as _clear_, _inferred_, or _unknown_. Then select one unknown that could affect future decisions and ask the responsible process owner to clarify it. The purpose is to identify uncertainties that should not be carried into subsequent decisions.
 
 Decision processes turn attention and support into organisational commitments. The next chapter examines the resources required to carry out those commitments and the dependencies that can shape who has practical leverage over them.
 
