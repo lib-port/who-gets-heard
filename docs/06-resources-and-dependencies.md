@@ -6,7 +6,7 @@ Sofia manages a small data team. A transformation programme asks her to provide 
 
 At the portfolio meeting, Sofia learns that three other teams received similar warnings. Every contribution is labelled critical, although some tasks start four months later. The programme retains unused contractor funding and two unfilled approved vacancies. The director may be protecting a difficult schedule, but the requests do not distinguish genuine constraints from claims for priority.
 
-Delivery depends on money, people, time, equipment, data, permissions, space, attention, and capacity for change. Committing these resources to one activity usually leaves less for another. Allocation makes those trade-offs explicit.
+Delivery depends on money, people, time, equipment, data, permissions, attention, and capacity for change. Committing these resources to one activity usually leaves less for another. Once allocated, these trade-offs are then made explicit.
 
 Control of a workflow, scarce expertise, or uncertainty can confer influence beyond formal rank. Organisational theory links subunit power to centrality, control of uncertainty, and difficulty of substitution.[^1] This helps explain the influence of an administrator, specialist, scheduler, or coordinator without treating it as improper.
 
@@ -27,9 +27,9 @@ Five recurring patterns can make resource choices harder to evaluate: overstatin
 
 ## 1. Overstating a resource dependency
 
-A dependency means that one task, decision, system, or resource must be available before other work can proceed. It is overstated when the claimed necessity, exclusivity, or urgency exceeds the evidence.
+A dependency means that a task, decision, system, or resource must be available before other work can proceed. It is overstated when the claimed necessity, exclusivity, or urgency exceeds the evidence.
 
-Overstatement may be deliberate or defensive. Leaders fear reassignment, specialists remember ignored warnings, and teams buffer against unstable priorities. Together, these precautions can obscure which constraints are real.
+Overstatement may be deliberate or defensive. Specialists remember ignored warnings, leaders fear reassignment of committed resources, and teams buffer against unstable priorities. Together, these precautions can obscure which constraints are real.
 
 Test a claimed dependency by asking:
 
@@ -66,21 +66,21 @@ When a request is described as being “for” a high-priority objective, ask wh
 
 Budgets, skills, equipment, and sustainable workloads impose real limits. A claim such as “There is no budget” or “Only one place is available” still needs to identify the constraint.
 
-Specify the resource pool, period, commitments, and decision authority. This quarter’s discretionary budget may be exhausted while emergency funding has another route. Lower-priority work might be delayed, or an additional training session purchased.
+Specify the resource pool, period, commitments, and decision authority. This quarter’s discretionary budget may be exhausted while emergency funding has another route. An additional training session to meet compliance requirements can still go ahead, even if lower-priority work might be delayed.
 
 Those alternatives may be costly or undesirable. They should still be recognised as alternatives rather than described as impossible.
 
 Do not assume hidden capacity. Data may be incomplete or restricted. Request enough to understand the limit, commitments, priority rule, and next review; full budget or staffing disclosure may be inappropriate.
 
-Distinguish **unavailable** from **not prioritised**. “Our capacity is committed elsewhere, and we are maintaining those priorities” identifies an allocation choice that “We have no capacity” leaves unclear.
+Distinguish **resources not being available** from **requests not being prioritised**. “Our capacity is committed elsewhere, and we are maintaining those priorities” identifies an allocation choice that “We have no capacity” leaves unclear.
 
-Plan for sustainable output, including routine work, coordination, leave, learning, recovery from errors, and unexpected demand. WHO guidance on workplace mental health likewise emphasises organisational conditions and psychosocial risks instead of relying solely on individual resilience.[^2]
+Plan for sustainable output, including routine work, coordination, leave, learning, recovery from errors, and unexpected demand. WHO guidance on workplace mental health advises against relying solely on individual resilience and instead emphasises organisational conditions and psychosocial risks.[^2]
 
 ## 4. Reserving resources before allocation decisions are made
 
-Precommitment occurs when resources are reserved for one option before the organisation completes the allocation process it has announced. Reserving money, staff, space, or capacity early can narrow the later decision because other proposals must compete for what remains.
+Precommitment occurs when resources are reserved for an option before the organisation completes the allocation process it has announced. Reserving money, staff, space, or capacity early can narrow the later decision because other proposals must compete for what remains.
 
-Advance orders, provisional specialist bookings, expiring grants, contingency funds, and low-cost preparation may justify early holds. Establish their firmness and cost of reversal.
+Advance orders, provisional specialist bookings, expiring grants, contingency funds, and low-cost preparation may justify early holds. Establish how firm prior commitments were and the cost of their reversal.
 
 Ask:
 
@@ -90,7 +90,7 @@ Ask:
 - What financial, operational, or reputational cost would arise if the final decision changes?
 - Do other applicants know how much of the original resource pool remains genuinely available?
 
-Label provisional holds and give them expiry dates. “Subject to portfolio approval” should leave a realistic option to reject. A cancellation fee, external obligation, or substantial reputational cost means part of the commitment already exists and should be recorded.
+Label provisional holds and give them expiry dates. “Subject to portfolio approval” should leave a realistic option to reject. A cancellation fee, external obligation, or substantial reputational cost means a partial commitment has already been made and should be recorded.
 
 Budget owners can make the remaining choice clearer by separating resources into categories such as mandatory commitments, contingency reserves, previously approved work, provisional holds, and genuinely unallocated capacity. This prevents a committee from being asked to prioritise an apparent total budget when much of it is no longer realistically available.
 
@@ -102,7 +102,7 @@ Check what _available_ means before judging withholding. Apparent spare capacity
 
 Link any reserve to an owner and rule. “We reserve 15 percent of capacity for incidents because service levels require a two-hour response” explains the constraint. “We might need it later” leaves its extent and duration open. The reserve section below explains how to set these limits.
 
-Withholding may also create bargaining power. A central team may respond quickly to favoured work but delay routine requests, making personal relationships more influential than formal priorities. A manager may keep a vacancy unfilled to prevent the position from being reassigned. A department may delay approval until another group accepts its preferred design.
+Withholding may also create bargaining power. A central team may respond quickly to favoured work but delay routine requests, making personal relationships more influential than formal priorities. A manager may deliberately leave a vacancy unfilled, then use the resulting capacity shortage to justify greater personal discretion over delivery priorities. A department may delay approval until another group accepts its preferred design.
 
 Define request criteria, priorities, response times, reserve rules, escalation, and proportionate capacity reporting. These boundaries make allocation judgement reviewable.
 
@@ -118,7 +118,7 @@ Incentives also matter. A specialist who becomes less valuable or less secure af
 
 ## Clarify what budget labels mean for available funds
 
-Translate budget labels into practical constraints. A cost described as _fixed_ may arise under a contract that permits termination. _Ring-fenced_ funding may be restricted by law, donor conditions, policy, or internal allocation. An _approved_ role may lack recruitment funding. Distinguish money spent, committed, accrued, forecast, and reserved by asking what has happened and what remains reversible.
+Translate budget labels into practical constraints. A cost described as _fixed_ may arise under a contract that permits termination. _Ring-fenced_ funding may be restricted by law, donor conditions, policy, or internal allocation. An _approved_ role may lack recruitment funding. Distinguish money spent, committed, forecast, and reserved by asking for what has been permanently allocated and what remains reversible.
 
 Ask what the label means in this case: “When you say the funds are committed, has a contract been signed, or have they only been allocated in the forecast?” Establish what can change and at what cost.
 
@@ -140,21 +140,21 @@ A monthly demand report can show major commitments, estimated capacity, the age 
 
 ## Include overlooked support work in capacity plans
 
-Plans may omit coordination, emotional support, onboarding, translation, accessibility, maintenance, and relationship repair. A team can appear more productive because others supply this work. An employee can appear underused because it is missing from their workload.
+Plans may omit effort needed for coordination, onboarding, accessibility, and maintenance. A team can appear more productive because others supply this work. An employee can appear underused because records of these factors are missing.
 
 To identify this hidden workload, ask what makes the visible output possible. Who schedules, checks, explains, cleans data, supports upset customers, trains new employees, or corrects mistakes? Which of these tasks recur? Which are formally assigned, and which are taken on voluntarily? Does the organisation recognise the work, distribute it fairly, or allow people to decline it?
 
-Use periodic workload reviews where detailed time sheets are unnecessary. Compare deliverables, support tasks, demand peaks, and single-person dependencies with sustainable capacity. Decide whether recurring note-taking, mentoring, or other enabling work should be recognised, rotated, or made part of the role.
+Use periodic workload reviews where detailed time sheets are unnecessary to avoid adding to administrative burden. Compare deliverables, support tasks, demand peaks, and single-person dependencies with sustainable capacity. Decide whether recurring note-taking, mentoring, or other enabling work should be recognised, rotated, or made part of the role.
 
-This can also raise equity concerns. Research and workplace practice have identified cases in which some groups perform disproportionate amounts of “office housework” or diversity-related labour. A conclusion about a particular organisation, however, requires evidence from that workplace. Examine task allocation and comparable roles rather than assuming a pattern solely from demographic characteristics.
+This can also raise equity concerns. Research and workplace practice have identified cases in which some groups perform disproportionate amounts of “office housework” or work to support inclusion. Examine task allocation and comparable roles rather than assuming a pattern solely from demographic characteristics.
 
 ## Set rules for holding and using resource reserves
 
-Unused capacity is not always waste. In systems exposed to incidents, staff absences, demand spikes, or uncertain work, spare capacity can provide resilience. Hospital beds, cash reserves, backup suppliers, free calendar time, and unused server capacity may be maintained because demand can exceed its normal level.
+Unused capacity is not always waste. In systems exposed to incidents, staff absences, demand spikes, or uncertain work, spare capacity can provide resilience. Cash reserves, backup suppliers, free calendar time, and unused server capacity may be maintained because demand can exceed its normal level.
 
 Define each reserve’s purpose, size or range, release authority, and review point. For example: “The service team reserves one person-day each week for severity-one incidents. If the capacity is unused by Thursday, it may be reassigned to the improvement queue.” This protects response capacity and sets a route for its release.
 
-Reserves can also be used to protect resources from scrutiny. One unit may describe most spare capacity as contingency while another operates with persistent shortages. Portfolio owners should therefore compare reserve levels across teams while recognising that different risks may justify different amounts. Equal reserve percentages are not necessarily fair or efficient; a clear rationale is more useful.
+Reserves can also be used to protect resources from scrutiny. A business unit may describe most spare capacity as contingency while another operates with persistent shortages. Portfolio owners should therefore compare reserve levels across teams while recognising that different risks may justify different amounts. Equal reserve percentages across all business units are not necessarily fair or efficient; a clear rationale is more useful.
 
 Cost reductions can create the opposite problem by removing too much spare capacity. Teams may continue meeting deadlines only through overtime, deferred maintenance, postponed learning, or sustained personal strain. Repeated emergency effort may indicate that the normal resource model lacks sufficient resilience. Review not only whether the work was completed, but also what additional effort or deferred work made completion possible.
 
@@ -174,7 +174,7 @@ Where employment rights, collective consultation requirements, discrimination, a
 
 Past commitments can make a deteriorating project hard to stop. Money, reputation, and leadership attention are already invested; ending it may expose the original choice to criticism.
 
-Research on escalation of commitment examines continued support despite negative feedback. A meta-analysis identifies project, psychological, social, and organisational influences.[^3] No single cause explains every case. Further investment may still be rational if expected future benefits exceed the added costs and risks.
+Research on escalation of commitment examines continued support despite negative feedback. A meta-analysis identifies project, psychological, social, and organisational influences.[^3] Further investment may still be rational if expected future benefits exceed the added costs and risks.
 
 Separate past expenditure from the decision about future resources. Ask:
 
@@ -185,7 +185,7 @@ Separate past expenditure from the decision about future resources. Ask:
 - Who can assess the next step without needing to defend the original choice?
 - What criteria were established for stopping, changing, or continuing the work?
 
-Do not ask whether stopping would mean that previous spending was “wasted.” Much of that expenditure cannot be recovered regardless of what happens next. Ask instead what the next unit of money, time, or capacity is expected to achieve.
+Do not ask whether stopping would mean that previous spending was “wasted.” Much of that expenditure may not be recoverable regardless of what happens next. Ask instead what the next unit of money, time, or capacity is expected to achieve.
 
 Independent review can help when the original sponsors are strongly associated with the project. Their knowledge should still inform the assessment, but they should not be the only people deciding whether further investment is justified.
 
