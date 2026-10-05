@@ -1,3 +1,4 @@
+import type {ReactNode} from 'react';
 import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import Layout from '@theme/Layout';
@@ -104,7 +105,7 @@ const audiences = [
   },
 ];
 
-export default function Home() {
+export default function Home(): ReactNode {
   return (
     <Layout
       title="The Work Behind the Work"

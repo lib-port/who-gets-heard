@@ -7,7 +7,7 @@
 [![Docusaurus site](https://img.shields.io/badge/Docusaurus-latest-3ECC5F?logo=docusaurus&logoColor=white)](https://docusaurus.io/docs)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-hosting-222222)](https://pages.github.com/)
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript TSX](https://img.shields.io/badge/TypeScript-TSX-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js 24](https://img.shields.io/badge/Node.js-24-5FA04E?logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 
 [Read the online edition](https://lib-port.github.io/who-gets-heard/) · [Begin with the introduction](https://lib-port.github.io/who-gets-heard/introduction) · [Use the worksheet](https://lib-port.github.io/who-gets-heard/worksheet)
@@ -72,7 +72,7 @@ Concerns involving immediate danger, violence, harassment, discrimination, prote
 
 ## Site maintenance
 
-The online edition is a [Docusaurus](https://docusaurus.io/) site. Local development requires Node.js 24 or later; the expected version is recorded in [`.node-version`](.node-version).
+The online edition is a [Docusaurus](https://docusaurus.io/) site written in TypeScript. Local development requires Node.js 24 or later; the expected version is recorded in [`.node-version`](.node-version).
 
 Install the dependencies and start the development server:
 
@@ -81,9 +81,10 @@ npm install
 npm start
 ```
 
-Build and preview the production site:
+Check TypeScript types, then build and preview the production site:
 
 ```sh
+npm run typecheck
 npm run build
 npm run serve
 ```
@@ -96,12 +97,13 @@ The main project locations are:
 | [`src/pages/`](src/pages/) | Custom homepage, worksheet landing page and their styles. |
 | [`src/theme/`](src/theme/) | Docusaurus theme overrides, including the customised footer. |
 | [`static/`](static/) | Worksheet assets and other files copied directly into the generated site. |
-| [`docusaurus.config.js`](docusaurus.config.js) | Site metadata, navigation and Docusaurus settings. |
-| [`sidebars.js`](sidebars.js) | Automatically generated book navigation. |
+| [`docusaurus.config.ts`](docusaurus.config.ts) | Site metadata, navigation and Docusaurus settings. |
+| [`sidebars.ts`](sidebars.ts) | Automatically generated book navigation. |
+| [`tsconfig.json`](tsconfig.json) | Strict TypeScript checking for site source and configuration. |
 
 ## Automation
 
-Pushes to `main` that change the site source paths selected by the [deployment workflow](.github/workflows/deploy-pages.yml) are built and published to GitHub Pages. `README.md` is not part of the generated Docusaurus site, so a README-only push does not trigger a Pages deployment.
+Pushes to `main` that change the site source paths selected by the [deployment workflow](.github/workflows/deploy-pages.yml) are type-checked, built and published to GitHub Pages. TypeScript errors stop deployment before the site is built. `README.md` is not part of the generated Docusaurus site, so a README-only push does not trigger a Pages deployment.
 
 A separate workflow mirrors `main` to the [`lib-port/who-gets-heard` GitLab project](https://gitlab.com/lib-port/who-gets-heard). After a mirror run, the clean-up workflow retains the newest completed run for each GitHub Actions workflow and removes older completed runs.
 

@@ -1,3 +1,4 @@
+import type {ReactNode} from 'react';
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
@@ -47,7 +48,7 @@ const outcomes = [
   },
 ];
 
-export default function DescribeTestRespond() {
+export default function DescribeTestRespond(): ReactNode {
   const pdfUrl = useBaseUrl('/files/describe-test-respond-worksheet.pdf');
   const previewUrl = useBaseUrl('/img/describe-test-respond-preview.png');
 

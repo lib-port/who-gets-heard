@@ -6,7 +6,8 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "clear": "docusaurus clear",
-    "serve": "docusaurus serve"
+    "serve": "docusaurus serve",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@docusaurus/core": "latest",
@@ -18,5 +19,14 @@
   },
   "engines": {
     "node": ">=24.0"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "latest",
+    "@docusaurus/tsconfig": "latest",
+    "@docusaurus/types": "latest",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.3"
   }
 }

@@ -1,6 +1,9 @@
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+
 const repositoryUrl = 'https://github.com/lib-port/who-gets-heard';
 
-const config = {
+const config: Config = {
   title: 'Who Gets Heard',
   tagline: 'The Work Behind the Work',
 
@@ -32,10 +35,10 @@ const config = {
           path: 'docs',
           include: ['[0-1][0-9]-*.md'],
           routeBasePath: '/',
-          sidebarPath: './sidebars.js',
+          sidebarPath: './sidebars.ts',
         },
         blog: false,
-      },
+      } satisfies Preset.Options,
     ],
   ],
 
@@ -75,7 +78,7 @@ const config = {
     footer: {
       style: 'dark',
       copyright:
-        'Copyright © 2026 lib-port. Book content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Built with <a href="https://docusaurus.io/">Docusaurus</a> and <a href="https://pages.github.com/">GitHub Pages</a>.'
+        'Copyright © 2026 lib-port. Book content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Built with <a href="https://docusaurus.io/">Docusaurus</a> and <a href="https://pages.github.com/">GitHub Pages</a>.',
     },
     docs: {
       sidebar: {
@@ -86,7 +89,7 @@ const config = {
       minHeadingLevel: 2,
       maxHeadingLevel: 3,
     },
-  },
+  } satisfies Preset.ThemeConfig,
 };
 
-module.exports = config;
+export default config;
