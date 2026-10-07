@@ -34,7 +34,7 @@ The second is the **relationship map**. It reflects trust, reputation, expertise
 
 The **process map** traces an issue’s route: first notice, agenda placement, information versions, objections, resource commitments, and the later account. It connects authority with informal influence and often leaves evidence that can be examined. This is the book’s main focus.
 
-The maps align when the project owner receives evidence, reaches the authorised committee, receives appropriate credit, and answers for the result. They diverge when informal advisers shape a recommendation, prior commitments constrain approval, or someone absent from key decisions bears the blame.
+The maps align when the project owner receives relevant and accurate information, reaches the authorised committee or decision-maker, receives appropriate credit, and answers for the result. They diverge when informal advisers shape a recommendation, prior commitments constrain approval, or someone absent from key decisions bears the blame.
 
 Informal arrangements may adapt to circumstances faster than written rules. An intermediary may coordinate work, a private briefing explain technical evidence, or a senior presenter meet a governance requirement. Test the arrangement’s purpose, transparency, and capacity for correction.
 
