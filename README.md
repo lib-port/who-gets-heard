@@ -81,6 +81,16 @@ npm install
 npm start
 ```
 
+With dependencies installed, run `./preview.sh` from the repository root for a
+live preview at <http://localhost:3000/who-gets-heard/>. Press Ctrl+C to stop it.
+The script accepts Docusaurus options such as `./preview.sh --port 3001` and
+`./preview.sh --no-open`.
+
+Check that `node --version` reports version 24 or later. Standalone pnpm does
+not install Node.js automatically. If you use standalone pnpm 12, run
+`pnpm setup`, open a new terminal, then run `pnpm runtime set node lts -g`.
+Install npm separately with `pnpm add -g npm` if needed.
+
 Check TypeScript types, then build and preview the production site:
 
 ```sh
