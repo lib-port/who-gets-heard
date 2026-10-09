@@ -6,17 +6,17 @@ For nine years, Daniel has run the monthly settlement process at a logistics com
 
 His importance has grown gradually. He now approves changes to the process he operates, trains the people who assist him, maintains the exception guide, and advises the committee that chooses his possible successor. Several departments have asked him to document the process. He always agrees, then delays because the next close is urgent. Proposed deputies spend months on routine tasks without learning the difficult cases, then rotate out.
 
-When Daniel takes unexpected leave, settlement nearly stops. The company treats this as further proof that it needs him. It gives him another retention payment and postpones a planned system change until he returns. Daniel has threatened no one. He may be protecting a fragile process with too few staff. The organisation has made itself dependent on Daniel’s control, then used that dependence to justify keeping his control intact.
+When Daniel takes unexpected leave, settlement nearly stops. The company treats this as further proof that it needs him. It gives him another retention payment and postpones a planned system change until he returns. Daniel has threatened no one. He may be protecting a fragile process with too few staff. The interruption demonstrates the organisation's current dependence on his knowledge and authority; it does not establish that continuing to concentrate both in him is the best solution.
 
 **Entrenchment** is influence that has become difficult to examine, transfer, or replace because authority, knowledge, relationships, and process are concentrated in one place. It can form around a founder, executive, administrator, specialist, vendor, committee, team, or software system. It is not inherently improper. Deep expertise and stable ownership often keep organisations functioning. Classic organisational research links power to managing important uncertainty and being central to work on which others depend. This helps explain how operational importance can become influence without a formal promotion.[^3][^4]
 
-The test is continuity: can the organisation preserve legitimate service, evidence, and decision quality when someone changes role, becomes unavailable, disagrees, or leaves? If not, leaders should recognise the contributor’s value and examine the design that makes them indispensable.
+The test is continuity: can the organisation keep essential services running, retain the records it needs, and make informed, authorised decisions when someone changes role, becomes unavailable, disagrees, or leaves? If not, leaders should recognise the contributor's value and examine the arrangements that make the work depend on that person's continued participation.
 
 ## Concentration is not the same as wrongdoing
 
 A specialist may hold several responsibilities because the team is small. A crisis may require temporary command. A regulated role may need independence or exclusive authority. A confidential investigation may require a tightly limited group. A founder may reasonably make broad decisions early in an organisation’s life.
 
-Concentration becomes risky when it is hard to see, lacks boundaries or review, and perpetuates the conditions used to justify it. Ask:
+Concentration becomes risky when its extent is unclear, its limits are undefined, or there is no effective review. It can also sustain itself: dependence on one expert leaves no time to train a backup, and the lack of a backup justifies further dependence. Ask:
 
 - What is concentrated: formal authority, practical access, knowledge, relationships, or all four?
 - Why is that concentration necessary?
@@ -25,7 +25,7 @@ Concentration becomes risky when it is hard to see, lacks boundaries or review, 
 - How will the arrangement end or be reassessed?
 - What evidence would show that these responsibilities or resources can now be shared?
 
-Organisations depend on relationships among people and functions. The aim is to keep a valuable dependency from becoming the single point through which every correction, succession, and change must pass.
+Organisations depend on relationships among people and functions. The aim is to preserve valuable expertise while ensuring that corrections, succession decisions and changes have an authorised route that does not depend entirely on the person or group being reviewed.
 
 Five patterns deserve attention: accumulating decision rights, allowing one owner to control a complete process, narrowing succession through unclear criteria, concentrating history and operating knowledge, and repeatedly delaying documentation, delegation, or cross-training.
 
@@ -33,9 +33,9 @@ Five patterns deserve attention: accumulating decision rights, allowing one owne
 
 Decision rights can accumulate without a formal reorganisation. A trusted specialist begins by recommending options. Colleagues rarely challenge the advice and start treating it as approval. The specialist then controls the supporting data, chooses who attends the review, and confirms whether the resulting action is complete.
 
-Together, convenient additions can combine roles whose separation allows challenge: one person defines the problem, selects evidence, proposes and authorises a solution, then reports success.
+Each addition may be convenient on its own. Together, they can remove opportunities for independent challenge: one person defines the problem, selects evidence, proposes and authorises a solution, then reports whether it succeeded.
 
-Map what people may do, rather than relying on titles. For a consequential process, who may:
+Map both what people are authorised to do and what they decide in practice. For a consequential process, who may:
 
 - request work
 - set priority
@@ -52,9 +52,9 @@ Map what people may do, rather than relying on titles. For a consequential proce
 
 A job description may say “process owner” while these rights sit across several teams or quietly with one person.
 
-Separation matters most when error, self-interest, or abuse would be hard to detect and costly to correct. Payment creation and approval are a familiar example. Others include hiring and final salary approval, system administration and access review, or sales credit and compensation calculation. Small organisations may be unable to separate every task. They can use compensating checks: independent sampling, dual approval above a threshold, immutable logs, rotating review, or external assurance.
+Separation matters most when error, self-interest, or abuse would be hard to detect and costly to correct. Payment creation and approval are a familiar example. Others include hiring and final salary approval, system administration and access review, or sales credit and compensation calculation. Small organisations may be unable to separate every task. They can add checks such as independent sampling, dual approval above a threshold, records protected against alteration, rotating review, or external examination of the controls.
 
-Reviewers need access, time, expertise, and authority for independent judgement. A verifier limited to the owner’s selected evidence cannot provide a fully independent check, nor can an approver who has no time to question the recommendation.
+Reviewers need access, time, expertise, and authority for independent judgement. If they can see only evidence selected by the owner, they may be unable to identify important omissions. If an approver has no time to question the recommendation, the formal approval adds little examination of its substance.
 
 Establish where accumulated rights came from. Was the authority delegated by policy, inherited after a departure, created during an emergency, or simply assumed? Even a sensible arrangement may need formal recognition, boundaries, and a review date.
 
@@ -73,19 +73,19 @@ Look for a process in which:
 5. Complaints return to the owner.
 6. Performance reports rely on measures chosen by the owner.
 
-Poor service may remain invisible because the same person controls how every fact is interpreted. This does not prove bad faith. Overloaded owners often simplify work to cope. Their adaptations become rules because no other perspective is available.
+Poor service may remain invisible if the same person decides which requests qualify, handles complaints, and selects the measures used to report performance. This does not prove bad faith. An overloaded owner may simplify work to cope, and others may adopt those shortcuts as rules without examining their effects.
 
-Add a second view where it would improve the evidence. Publish eligibility and service standards. Let requesters see status. Require reasons for significant refusals. Route appeals elsewhere. Define measures jointly with users and an accountable sponsor. Sample closed cases. Provide an emergency alternative when the owner is unavailable.
+The manager responsible for the process should add independent scrutiny where it can reveal omissions or errors. Publish eligibility and service standards. Let requesters see status. Require reasons for significant refusals. Route appeals to another authorised reviewer. Define measures jointly with users and an accountable sponsor, sample closed cases, and provide an emergency alternative when the owner is unavailable.
 
 Choose checkpoints according to risk. Each handoff adds delay and can make accountability less clear. A low-value routine request may need automated rules and audit sampling; a rare, irreversible exception may warrant two-person review.
 
-Include the owner in redesign. Treating them as the problem may destroy tacit knowledge the organisation needs. Ask where they face overload, ambiguity, recurring exceptions, or weak upstream data. They may want relief but fear a rushed handoff that leaves them responsible for someone else’s failure.
+Include the owner in redesign. Excluding them may lose practical knowledge that has never been documented. Ask where they face overload, ambiguity, recurring exceptions, or unreliable data from earlier stages of the work. They may want relief but fear a rushed transfer that leaves them accountable for decisions they no longer control.
 
 ## 3. Succession criteria narrow after candidates appear
 
 Succession matters beyond chief executive roles. Every role with scarce knowledge, decision authority, or critical relationships raises a continuity question: who could perform it tomorrow, and how could someone become ready?
 
-An unclear process allows current role holders and sponsors to define readiness after seeing candidates. A potential successor is told that she needs international experience. After gaining it, she is told that she lacks senior-leadership exposure. Another is deemed ready because leaders “can see him in the role,” though no one explains the evidence.
+An unclear process allows current role holders and sponsors to define readiness after seeing candidates. A potential successor may be told that she needs international experience, then, after gaining it, that she lacks experience with senior leaders. Another may be deemed ready because leaders “can see him in the role,” without explaining the evidence. The sequence raises questions about consistent criteria; changed role requirements could justify a revision, but should be explained and applied to all candidates.
 
 Judgement is unavoidable. Future roles change, and leadership capability cannot be reduced to a checklist. Make the main requirements clear enough to support development and comparison without pretending the decision is mathematical.
 
@@ -93,7 +93,7 @@ Distinguish five concepts:
 
 - **Eligibility:** Minimum requirements for consideration
 - **Readiness:** Evidence that a person could perform now or within a stated period
-- **Potential:** A forecast of capacity for larger or different work
+- **Potential:** A forecast of capacity for larger or different work, with assumptions about development and support
 - **Preference:** A choice among qualified options based on current needs
 - **Risk:** Gaps and conditions that require support
 
@@ -107,7 +107,7 @@ Succession also depends on opportunity. A list of names does not prepare success
 
 ## 4. History and operating knowledge remain concentrated
 
-Documents capture only part of operating knowledge. Tacit knowledge includes cues, relationships, exceptions, judgements, and routines learned through experience. A procedure may say “investigate differences above the threshold.” Daniel can distinguish a duplicate shipment from currency timing and knows whom to call before a warehouse closes.
+Documents capture only part of operating knowledge. **Tacit knowledge** is practical understanding learned through experience that may be difficult to put fully into words. It includes recognising cues, judging exceptions, knowing whom to ask, and applying routines. A procedure may say “investigate differences above the threshold.” Daniel can distinguish a duplicate shipment from a difference caused by the timing of currency conversion and knows whom to call before a warehouse closes.
 
 Research on transactive memory describes how groups develop shared knowledge of who knows what. Performance may depend on a system for locating expertise as well as individual memory.[^1] Organisational knowledge can also pass through people, tools, routines, and networks, as well as documents.[^2] Continuity therefore requires more than asking an expert to write everything down.
 
@@ -120,11 +120,11 @@ Knowledge concentration takes several forms:
 - **Interpretive:** One person can distinguish a routine anomaly from a significant one.
 - **Access-based:** One person has the account, key, permission, or physical access needed to act.
 
-Inventory each form before choosing a transfer method. A shared folder may leave interpretation concentrated; access alone does not transfer judgement; shadowing may miss rare cases. Combine procedures, paired work, rehearsal, decision records, contact handovers, supervised practice, access review, and real-case rotation.
+Identify which forms of knowledge and access the work depends on before choosing a transfer method. A shared folder may make documents available while leaving only one person able to interpret them. Shadowing routine work may miss rare cases. Combine procedures, paired work, rehearsal, decision records, introductions to key contacts, supervised practice, access review, and rotation through real cases according to the gap being addressed.
 
-Prioritise by service impact, replaceability, learning time, and likelihood of loss. Demanding exhaustive documentation from everyone creates outdated pages and signals distrust. Protect activities whose loss would cause serious harm, long delay, legal breach, or irreversible damage.
+Prioritise by the consequences of interruption, the availability of substitutes, learning time, and the likelihood that knowledge will become unavailable. Demanding exhaustive documentation from everyone can consume time without producing guides that people use or maintain, and may be perceived as distrust. Focus first on activities whose interruption would cause serious harm, long delay, legal breach, or irreversible damage.
 
-Make maintenance part of the work. Each critical guide needs an owner, a review trigger, and evidence of use. A procedure last updated three years ago but used successfully by a deputy last month may be more trustworthy than a polished document no one has tested.
+Make maintenance part of the work. Each critical guide needs an owner, a review trigger, and evidence of use. A procedure last updated three years ago but used successfully by a deputy last month provides some evidence of usability that a polished, untested document does not. Neither appearance nor a recent successful use establishes that every important exception is covered.
 
 Relationships need continuity too. Introducing a deputy to a customer or regulator creates a second contact, though it does not transfer trust. Explain roles honestly. Contact sharing must respect confidentiality, professional duties, and commitments. Preserve institutional history without collecting unnecessary personal information.
 
@@ -139,21 +139,21 @@ This creates a recurring problem:
 3. Failed transfer preserves dependence.
 4. Continued dependence produces more urgent demand.
 
-The manager must fund the trade-off: remove operating work, narrow the first target, name a learner, and schedule a real test. The expert cannot create that capacity alone.
+The manager must create time for transfer by reducing competing operating work, narrowing the first learning target, naming a learner, and scheduling a realistic test. The expert cannot resolve those workload and priority decisions alone.
 
 Transfer small units of work. Instead of “document settlement,” choose “enable a deputy to identify and route the five highest-impact reconciliation exceptions during Daniel’s two-week absence.” Capture inputs, decision cues, actions, approval boundaries, contacts, evidence, and recovery steps. Then let the deputy perform the work while Daniel observes.
 
-Delegation transfers a task or decision within stated boundaries. It requires giving the delegate appropriate choices. Define what they may decide, what requires consultation, what must be escalated, which resources are available, and how mistakes will be handled. If every non-routine case returns to the expert, the learner remains an assistant rather than a successor.
+Delegation transfers a task or decision within stated boundaries. Define what the delegate may decide, what requires consultation, what must be escalated, which resources are available, and how mistakes will be handled. Returning unfamiliar cases to the expert may be appropriate during learning. If the learner never gains authority and practice in handling them, however, the arrangement does not prepare a successor.
 
-A demonstration creates familiarity; capability requires recall, judgement, and realistic action. Use drills, planned absence, peer review, and live-work evidence. Practice must not become unpaid invisible labour or an indefinite acting role without recognition.
+Watching a demonstration does not establish that someone can perform the work. Test recall, judgement and action through drills, planned absence, peer review, or supervised live work, with safeguards appropriate to the risk. Practice must not become unpaid, unrecognised work or an indefinite acting role without recognition.
 
-Some role holders resist transfer because scarcity protects their status or employment. Others resist because they had to repair mistakes after earlier delegation, leaders have recognised only their indispensability, or a requested handover leaves them accountable for the result. Understand the reason before judging their motives. Recognise teaching, adjust workload, preserve dignity in the role, and assess performance partly by the capability shared with others.
+Resistance to transfer can have different explanations. A role holder may fear losing status or employment, remember having to repair mistakes after earlier delegation, see that leaders reward only their personal indispensability, or expect to remain accountable after losing control. Establish which concerns and constraints are present before attributing a motive. Recognise teaching, adjust workload, clarify accountability after transfer, and assess performance partly by the capability developed in others.
 
 Persistent refusal after support, clarity, and reasonable time is different. When organisational knowledge transfer is a legitimate role requirement, a manager may need a formal performance or conduct response under policy. Preserve employee rights, confidentiality, intellectual-property terms, and professional obligations; not all knowledge may be copied or broadly shared.
 
 ## The indispensable-person bargain
 
-Organisations often make an implicit bargain with key people: manage impossible complexity, and we will waive the controls that would make you less central. The person receives autonomy, status, or security. The organisation receives repeated rescue when things go wrong. Both postpone repairs to the underlying structure.
+An organisation can develop an implicit bargain with a key person: they repeatedly resolve problems in a complex process, while leaders tolerate missing documentation, backups or independent checks because delivery depends on them. The person receives autonomy, status or security, and the organisation receives repeated rescue. The arrangement can postpone repairs that would make those rescues less necessary, even without an explicit agreement.
 
 This bargain subjects the expert to constant interruption and limits their growth because no one can release them from the old work. Colleagues remain underdeveloped, and leaders become reluctant to challenge the expert. Leave, illness, promotion, retirement, and ordinary disagreement become operational threats.
 
@@ -167,7 +167,7 @@ A vendor may control a proprietary format, administrative account, or implementa
 
 Ask the same questions: what is controlled, how was the authority created, what evidence and alternatives exist, who can review it, and how can the organisation continue if the person, group, or system becomes unavailable?
 
-For vendors, examine data portability, documentation, access, subcontractors, termination support, intellectual property, and recovery arrangements such as escrow where appropriate. Contract language is insufficient unless someone has tested export or transition.
+For vendors, examine whether data can be exported in a usable form, what documentation and access are available, how subcontractors affect continuity, and what support is provided at termination. Check intellectual-property limits and, where appropriate, arrangements such as escrow, in which a third party holds specified materials for release under agreed conditions. Contract terms establish commitments; tests of export or transition show whether the proposed route works in practice.
 
 For founders and long-tenured leaders, personal relationships may still determine outcomes despite formal governance. Clarify which decisions belong to the current role, move commitments into organisational records, broaden external relationships, and create a succession process that does not require the current role holder’s private approval.
 
@@ -179,7 +179,7 @@ Mergers, reorganisations, outsourcing, rapid growth, long leave, and planned exi
 
 Before changing roles, identify what must continue on day one. Which payments, care, access, customer responses, safety checks, approvals, and reporting duties cannot pause? Who performs them in practice? What workarounds and relationships make the formal process succeed?
 
-Alongside documents, have the owner walk through a normal case, a difficult case, the last failure, the next likely decision, and essential contacts. Ask the incoming owner to restate the process and run a scenario. The differences reveal assumptions that a passive presentation may miss.
+Alongside documents, have the owner walk through a normal case, a difficult case, the last failure, the next likely decision, and essential contacts. Ask the incoming owner to explain the process in their own words and work through a scenario. Differences between their understanding and the current owner's expectations can reveal assumptions left unstated in the presentation.
 
 Capture *why* as well as *how*. A rule that appears irrational may protect against an earlier failure, fulfil a contract, or compensate for a system limit. It may also be obsolete. Record its origin, current owner, and review condition so a successor can question it without erasing history.
 
@@ -198,7 +198,7 @@ A well-handled transition preserves valuable expertise while exposing accumulate
 ## How to respond: concentrated power
 
 - **Map.** Identify decision rights, critical knowledge, access, relationships, and review routes. Focus on a process rather than a personality.
-- **Test absence.** Ask what fails after one day, one week, one month, and permanent departure. Use a tabletop exercise before risking live service.
+- **Test absence.** Ask what fails after one day, one week, one month, and permanent departure. First work through an absence scenario with the relevant people, without interrupting live service.
 - **Add a second route or check.** At the highest-risk point, add visibility, independent review, backup access, or an alternative route.
 - **Fund transfer.** Give the current role holder and learner time, tools, recognition, and a specific capability target.
 - **Exercise.** Let the deputy perform real or simulated work. Record gaps in both the guide and the learner’s authority.

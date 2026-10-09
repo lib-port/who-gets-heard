@@ -10,7 +10,7 @@ Darius raises the concern with his manager, who replies, “You do not need to b
 
 Access to meetings can appear to be a privilege, but it may also affect a person’s ability to perform their role. Attendance can provide timely information, professional visibility, and an opportunity to answer questions before a decision is made. Exclusion may mean becoming involved only after assumptions have been accepted and options have narrowed.
 
-Research on organisational networks distinguishes formal position from a person’s place in the relationships through which advice, information, and influence travel. Those relationships may confer advantages absent from an organisation chart.[^1] Career research also links social capital (the resources available through relationships) to information, sponsorship, and opportunity.[^2] Access to consequential forums deserves the same scrutiny as other organisational resources.
+Research on organisational networks distinguishes formal position from a person’s place in the relationships through which advice, information, and influence travel. Those relationships may confer advantages absent from an organisation chart.[^1] Career research also links social capital (the resources available through relationships) to information, sponsorship, and opportunity.[^2] Because access to important forums can affect both the work and an employee's opportunities, organisations should be able to explain how that access is allocated.
 
 This chapter examines five ways access may become restricted: exclusion from an important forum, late changes to attendance, dependence on sponsorship, reliance on a gatekeeper, and opportunities communicated mainly through informal insider networks.
 
@@ -18,7 +18,7 @@ This chapter examines five ways access may become restricted: exclusion from an 
 
 Establish what the meeting does. It may exchange information, define a problem, set criteria, recommend action, or commit the organisation. Minutes received afterwards may omit how uncertainty was discussed, why alternatives were rejected, or which informal assurances influenced the choice.
 
-Ask what authority the forum holds, what evidence it receives, and whether members can make commitments. An exclusion matters differently in a coordination meeting, an advisory group, and an approval body.
+Ask what authority the forum holds, what evidence it receives, and whether members can make commitments. Exclusion from a coordination meeting may delay information; exclusion from an advisory group may prevent evidence from shaping a recommendation; exclusion from an approval body may remove a role from the decision itself. The appropriate remedy depends on which contribution is missing.
 
 Then identify the participation rule. Membership may depend on representation, expertise, seniority, or rotation. Limited membership can protect confidentiality, efficiency, or delegated authority. Check whether the rule is clear and consistently applied, and whether excluded expertise has another route into the discussion.
 
@@ -28,11 +28,11 @@ An individual can make a focused request by explaining the contribution that is 
 
 > When the council evaluates customer evidence, could the research lead join that part of the discussion or receive any questions before the final decision? At present, there is no reliable way to clarify our summaries when questions arise.
 
-Managers should publish the mandate, membership criteria, agenda-submission route, and consultation process. Compare these with actual attendance periodically. Look for dependence on a closed informal network, allowing for legitimate differences in representation.
+Managers should publish the forum's remit and authority, membership criteria, agenda-submission route, and consultation process. Periodically compare the rules with actual attendance and consultation. Check whether people can contribute through the published process or need a personal connection to someone already involved, allowing for legitimate differences in representation.
 
 ## 2. Last-minute changes to meeting participants
 
-A late addition or substitution can change a discussion even if the person says little. They may bring expertise, authority, or a signal of senior preference. A substitution may remove a perspective or someone willing to challenge the proposal.
+A late addition or substitution can change a discussion even if the person says little. The new participant may bring expertise or authority, or others may interpret their presence as a signal of senior preference. That interpretation need not reflect the participant's intention. A substitution may also remove a perspective or someone willing to challenge the proposal.
 
 Attendance may change because a leader becomes available, expertise is needed, someone is unable to attend, or an urgent issue involves another department. Timing alone does not establish unfairness. Ask:
 
@@ -40,7 +40,7 @@ Attendance may change because a leader becomes available, expertise is needed, s
 2. Did the other participants have a reasonable opportunity to prepare for those changes?
 3. Did the forum retain the same purpose and decision-making rules?
 
-For example, if an advisory discussion becomes an approval meeting because an executive arrives, participants should be told that the forum’s authority has changed. If a late-arriving specialist identifies a new risk, the group may need additional time to assess the evidence rather than proceeding immediately to a decision.
+For example, an executive's arrival does not by itself turn an advisory discussion into an approval meeting. If the purpose changes, the chair should confirm who is authorised to decide and tell participants what is now being asked of them. If a late-arriving specialist identifies a new risk, the group may need additional time to assess the evidence before deciding.
 
 Consider a procurement review that the chief financial officer joins five minutes before it begins. Her attendance is legitimate. During the discussion, she states that one option “does not fit our direction.” Although the committee’s evaluation favours that option, the chair treats her comment as decisive. The record should distinguish the committee’s assessment from the CFO’s strategic concern and identify who had authority to make the final decision. The chair may also need to pause the process so affected teams can understand and respond to the newly introduced strategic constraint.
 
@@ -54,9 +54,9 @@ A mentor mainly advises and supports development; a sponsor advocates where assi
 
 Access narrows when informal sponsorship becomes the only way to discover an opportunity or receive consideration.
 
-Suppose Leila is nominated for an international assignment after a vice president recommends her during a private leadership dinner. Leila is qualified, and the vice president has direct knowledge of her work. Her selection may benefit the company. However, no one else knew that the assignment was available, and future candidates will be considered only if senior leaders happen to remember them in similar private settings. In that case, informal sponsorship has replaced an open search process.
+Suppose Leila is nominated for an international assignment after a vice president recommends her during a private leadership dinner. Leila is qualified, and the vice president has direct knowledge of her work. Her selection may benefit the company. However, no one else knew that the assignment was available. If there is no other way to learn about future assignments or seek consideration, access depends on being mentioned in similar private settings. The concern is the absence of an open route, not evidence that Leila is unsuitable.
 
-Publish the opportunity, permit self-nomination and manager nomination, state essential criteria, invite supporting evidence from sponsors, and record the selection reasons. Advocacy and professional judgement can then inform an open process.
+Managers responsible for assignments should publish the opportunity, permit self-nomination and manager nomination, state essential criteria, invite supporting evidence from sponsors, and record the selection reasons. Advocacy and professional judgement can then inform an open process.
 
 Individuals can also make sponsorship more transparent. A sponsor should explain the evidence supporting an endorsement: “I recommend Leila because she led two cross-border launches and understands the client’s industry.” A person receiving sponsorship should clarify the requirements of the opportunity and how the endorsement will be communicated. Neither party should imply that support has been offered or confirmed when it has not.
 
@@ -68,9 +68,9 @@ Gatekeepers manage access to limited time, information, and decision-making capa
 
 Dependence becomes risky when the gatekeeper is the only practical route, their authority is unclear, and their decisions cannot be reviewed. Even without misuse, work may stop during an absence. Regular contacts may learn shortcuts while others cannot distinguish rejection from delay or ongoing review.
 
-Consider an analyst who needs approval from a designated data owner. Although the policy names the owner as the decision-maker, every request must first go through a project coordinator. The coordinator requires a one-page explanation from some teams and a full business case from others. No expected response time is stated, and requests the coordinator rejects are not sent to the data owner. In practice, the coordinator is not merely routing requests but deciding which ones the authorised owner may consider.
+Consider an analyst who needs approval from a designated data owner. Although the policy names the owner as the decision-maker, every request must first go through a project coordinator. The coordinator requires a one-page explanation from some teams and a full business case from others. No expected response time is stated, and requests the coordinator rejects are not sent to the data owner. The coordinator therefore decides which requests the authorised owner may consider. That filtering may have been delegated legitimately, and different requests may need different evidence; the policy needs to make those limits and criteria clear.
 
-Separate coordination from decision authority. Specify what the gatekeeper may decide, what must be forwarded, what information is required, and how to seek review. A standard form, response target, backup contact, and brief reasons for declining a request may suffice.
+The manager responsible for the process should distinguish coordination from decision authority. Specify what the gatekeeper may decide, what must be forwarded, what information is required, and how to seek review. A standard form, response target, backup contact, and brief reasons for declining a request may suffice.
 
 Individuals should not try to bypass a legitimate gatekeeper through personal influence. Instead, they can ask for clarification:
 
@@ -90,9 +90,9 @@ An employee can express interest without asking for a guaranteed assignment:
 
 > I would like to be considered for the next client review. What experience or evidence would you need before assigning it to me? Could I lead a smaller part of the next review to develop that experience?
 
-Keep an opportunity log: significant assignments, selection reasons, and employees who have expressed interest. Review it quarterly for repeated access to visible work, essential maintenance work that receives little attention, and interest without a route to readiness. These patterns may arise unintentionally.
+Managers should keep an opportunity log covering significant assignments, selection reasons, and employees who have expressed interest. Review it quarterly: who repeatedly receives visible work, who mainly receives essential maintenance work, and who has expressed interest without being offered a way to develop the required experience? These patterns may arise unintentionally, but still limit development.
 
-Advertise major opportunities and open nominations beyond a small group of pre-selected applicants. Provide time or compensation when development adds to normal responsibilities and the skills acquired are not easily transferable to other roles or industries. Offer several ways to express interest: culture, personality, disability barriers, previous treatment, or unclear expectations may discourage self-promotion. Visibility alone does not establish ambition.
+Advertise major opportunities and open nominations beyond a small group of pre-selected applicants. Managers should provide time or compensation when development adds to normal responsibilities and the skills acquired are not easily transferable to other roles or industries. Offer several ways to express interest: culture, personality, disability barriers, previous treatment, or unclear expectations may discourage self-promotion. How visibly someone promotes themselves is not a reliable measure of their interest in development.
 
 ## What fair access requires
 
@@ -109,9 +109,9 @@ Clear rules benefit leaders as well as employees. They reduce informal lobbying,
 
 An invitation to a senior meeting can create several advantages. The attendee learns how leaders frame issues, sees which concerns receive attention, and builds relationships. They may be better prepared and more visible when the next opportunity arises. Strong performance can then reinforce the original choice, even without favouritism.
 
-A summary may omit why the group rejected an option. Someone who later proposes it may be judged poorly informed, then invited less often. Eventually, “not ready for senior responsibilities” may seem an individual limitation, although restricted access helped create the experience gap.
+A meeting summary may omit why the group rejected an option. Someone who later proposes that option may be judged poorly informed and invited less often. That assessment could reflect a lack of understanding, but it could also reflect information the person never received. Before treating the episode as evidence that they are “not ready for senior responsibilities,” check what they had an opportunity to learn.
 
-Review how experience is acquired before the final promotion or appointment. Candidates may by then have different qualifications. Ask who presented, received delegated responsibility, joined recovery work, met customers, and received information early enough to act.
+Review how experience is acquired before the final promotion or appointment. By the time candidates are compared, earlier differences in access may have produced real differences in experience. Ask who presented, received delegated responsibility, joined recovery work, met customers, and received information early enough to act.
 
 This does not require every assignment to rotate equally. Some tasks carry too much risk to serve as a first opportunity. A structured development path can provide increasing levels of responsibility: observe the work, prepare one section, co-present, lead with support, and then lead independently. This allows employees to develop readiness through practice rather than waiting to be judged ready without relevant experience.
 
@@ -129,7 +129,7 @@ People who are represented rather than present should ask practical questions: W
 
 ## Common mistakes when seeking access
 
-Attendance alone does not create influence. An overcrowded or unprepared forum may be incapable of making or reviewing a decision, especially if it was shaped elsewhere. Choose the route that can affect the work: a timely brief or required consultation may be more useful than another attendee.
+Attendance alone does not create influence. An overcrowded or unprepared forum may be unable to examine a decision properly, especially if earlier commitments have already limited the options. Choose the route that allows the relevant contribution to affect the work: a timely brief or required consultation may be more useful than another attendee.
 
 Personal networks cannot correct every access problem. If analysts need a private connection with an executive assistant to obtain routine decisions, the formal route needs attention.
 
@@ -169,7 +169,7 @@ Select three forums that influence important decisions and three assignments tha
 - who participated during the review period
 - how an error or omission can be corrected
 
-Do not assume that every difference in participation results from bias. First ask whether the stated rules and communication methods explain who received access. If they do not, revise the process. If a concerning pattern continues and may involve protected characteristics or legal rights, refer the matter to the appropriate human resources, legal, or other qualified specialist rather than conducting an informal personal investigation.
+Do not assume that every difference in participation results from bias. First ask whether the stated rules and communication methods explain who received access, and whether those rules serve the work's legitimate needs. A consistently applied rule can still create an unnecessary barrier. Revise unclear or unjustified requirements. If a concerning pattern continues and may involve protected characteristics or legal rights, refer the matter to the appropriate human resources, legal, or other qualified specialist rather than conducting an informal personal investigation.
 
 This review is especially important in hybrid and distributed workplaces. Unequal access may arise from differences in working hours, technology, workplace relationships, or organisational position, as well as physical location.[^4] A remote employee may attend the formal meeting but remain excluded from the informal conversations that shape the agenda and available options. Being able to join the same calendar event does not necessarily provide an equal opportunity to influence the work.
 
@@ -197,7 +197,7 @@ Summarise the opportunity on one page by answering:
 6. What record is kept of the candidates considered, the decision, and the reasons for it?
 7. What route is available to someone who was overlooked or who wants to prepare for a future opportunity?
 
-An unanswered question does not by itself prove unfair treatment. It indicates that part of the process has not been clearly designed or communicated. An example improvement could be to publish the route by which people can learn about the opportunity and be considered for it.
+An unanswered question does not by itself prove unfair treatment. It identifies something still to establish: the process may be unclear, poorly communicated, or simply unfamiliar to the person asking. Confirm the answer with the responsible manager. If no clear route exists, a useful improvement would be to publish how people can learn about the opportunity and be considered for it.
 
 Access influences who enters important processes, who gains knowledge and experience, and who can demonstrate their abilities to others. The next chapter examines the information that becomes available through those opportunities.
 

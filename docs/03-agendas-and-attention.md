@@ -6,11 +6,11 @@ Mateo has spent six weeks reviewing customer complaints about a new billing proc
 
 His item appears seventh on the agenda, after a financial update, two project demonstrations, a staffing discussion, and “any other business.” The earlier items run long. At 4:55, the chair says, “Can you give us the headline?” Mateo explains that the billing process needs redesign. A director asks whether the real problem is poor customer literacy. Before Mateo can answer, the chair proposes revisiting the issue next month. The minutes record: “Billing communications: further customer education to be considered.”
 
-Mateo attended, received the agenda, and circulated his slides. But placement reduced his time, the first question framed the problem, and deferral left it without an owner. The minutes preserved an interpretation his evidence did not support.
+Mateo attended, received the agenda, and circulated his slides. His late agenda position left him little time when earlier items overran. The director's question introduced customer literacy as a possible cause, and the minutes treated customer education as the proposed response before that explanation had been tested. Deferral also left the issue without an owner.
 
 Even usable information needs a route to consideration. Leaders cannot examine every issue equally, so agendas, time limits, sequence, and scope matter. Political scientists have described power as including the ability to keep matters from becoming decisions.[^1] Organisational research also shows that framing an issue as a threat or opportunity can influence the action that follows.[^2]
 
-Treat the allocation of attention as a governance responsibility. An agenda choice alone does not establish manipulation.
+Chairs and those who set agendas are responsible for giving important issues a usable route to a decision. An agenda choice alone does not establish manipulation; assess what it allowed the group to examine and what happened to unfinished work.
 
 ## Five conditions for reviewing an issue properly
 
@@ -19,30 +19,30 @@ An issue receives meaningful attention when five conditions align:
 1. **Visibility:** People know the issue exists.
 2. **Preparation:** Participants receive enough context before discussion.
 3. **Time:** The forum allows consideration proportionate to the stakes.
-4. **Scope:** Participants evaluate the decision comprehensively, not just a harmless fragment.
-5. **Continuation:** Unresolved work has an owner, a route, and a date.
+4. **Scope:** Participants can examine the matters needed to answer the stated question, including relevant risks and disputed assumptions.
+5. **Continuation:** Unresolved work has a responsible person, a forum or process for further consideration, and a date for action.
 
 A specified item in a meeting may still lack one or more of these conditions, while a written review or workshop may provide them without a meeting. Test whether relevant evidence and perspectives could affect the outcome.
 
-This chapter examines five ways that degrade a decision-making process: unequal preparation, low-visibility placement, avoidable urgency, sequencing that constrains later choices, and scope drawn too tightly.
+This chapter examines five conditions that can weaken a decision process: unequal preparation, agenda placement that leaves an issue little attention, avoidable urgency, early commitments that constrain later choices, and scope drawn too tightly.
 
 ## 1. Unequal time and information for preparation
 
 Pre-meetings are not inherently unfair. A technical lead may brief the chair so that the agenda is realistic. A manager may rehearse with a nervous presenter. Parties to a negotiation may clarify their authority. People with accessibility or language needs may require materials in a different format or earlier than others.
 
-The critical distinction is between preparing the process and settling the substance. Preparation identifies questions, corrects factual errors, and helps participants use the forum. Pre-decision turns the later meeting into a performance of agreement.
+The critical distinction is whether participants can still affect the decision. Preparation identifies questions, corrects factual errors, and helps participants use the forum. If an outcome has already been settled, a later meeting presented as an open review invites contributions that cannot change it.
 
 Suppose a restructuring proposal goes to a leadership team. Three members have spent two months designing it; two others receive the final paper the previous evening. Equal distribution of the final document is not equal opportunity to prepare. The designers know which options were rejected, what the sponsor prefers, and where compromise remains possible. The later participants must interpret a finished recommendation under social pressure.
 
-Someone must develop the proposal. Separate that authorship from approval: give reviewers the relevant history, realistic alternatives, time for questions, and permission to change the proposal.
+Someone must develop the proposal, so equal involvement in drafting is not always practical or necessary. The chair should distinguish authorship from approval by giving reviewers the relevant history, realistic alternatives, time for questions, and authority to request changes within the forum's remit.
 
 A chair can reset expectations by disclosing the process: “Three members developed this option; the full team has not agreed to it. Today we are testing the assumptions and deciding whether it is ready.” A written brief can reinforce that distinction by naming who was consulted and what remains open.
 
-If you enter the process late, avoid accusing better-prepared participants of collusion. Ask what work preceded the meeting, which choices remain open, and what deadline prevents further review. If the answer is “nothing is really open,” ask the record to describe the meeting accurately as ratification or communication, not consultation.
+If you enter the process late, avoid assuming that better-prepared participants have colluded. Ask what work preceded the meeting, which choices remain open, and what deadline prevents further review. If no substantive choice remains open, ask the record to identify whether participants are being asked to ratify an earlier action or simply receive information. Ratification itself still requires clarity about who may approve or reject the earlier action.
 
 ## 2. Agenda placement limits attention to important issues
 
-Late placement, an approval agenda, a vague title, or a buried attachment can hide an item’s significance. Repeated deferral can have the same effect. Examine the pattern and whether a clear route to consideration remains.
+Late placement, grouping an item with routine approvals, a vague title, or a buried attachment can make an item's significance easy to miss. Repeated deferral can keep it from being examined at all. Check whether the issue still has a clear route to consideration and whether the same kinds of issues repeatedly lose that opportunity.
 
 Match the forum to the stakes. Circulate routine updates through a simple channel. Give major risks, resource commitments, and policy changes enough time, the right participants, and a forum authorised to act.
 
@@ -50,17 +50,17 @@ Label the action: _inform, explore, recommend, decide,_ or _ratify_. “Operatio
 
 Make evidence material to a decision easy to find. A risk on page 78 of an appendix may be technically available but practically overlooked. Put significant uncertainties, dissent, dependencies, and exceptions in the main brief, with links to supporting detail.
 
-For a deferral, record the reason, next-action owner, destination, and deadline. “Return next month” is insufficient. Mateo’s minutes left no owner and proposed a remedy before the problem had been understood.
+When deferring an item, the chair should record why, who will progress it, which forum or process will consider it next, and by when. “Return next month” is insufficient if nobody is responsible for bringing it back. Mateo’s minutes left no owner and proposed a remedy before the problem had been understood.
 
 ## 3. Avoidable urgency reduces time for review
 
 Failures, risks, market changes, deadlines, or key absences may require action before all evidence is available. Decision-makers need authority to respond, and should explain why accelerated action is necessary.
 
-Trace the deadline. What created it, and when did the organisation know? Which delays were external or internal? What option would waiting remove? This separates genuine emergency from avoidable pressure.
+Trace the deadline. What created it, and when did the organisation know? Which delays were external or internal? What option would waiting remove? These questions distinguish the urgency facing the decision-maker now from any earlier failure that helped create it. Avoidable delay can still leave a real and immediate problem.
 
 A vendor contract arrives on Friday for Monday signature because a discount will expire. Procurement finds that the terms were offered two weeks earlier, before internal approval began. The deadline may still matter commercially, but the organisation helped create the pressure. Options remain: an interim purchase, an extension, authorised acceptance of the risk, or rejection.
 
-Faster decisions are not always worse. Time pressure interacts with understanding of the task, interpretation of information, arrangement of incentives, and priorities of the decision-makers. Experiments show that it can positively and negatively affect decision quality, information assessment, and the risks involved.[^3] Use explicit safeguards when review is shortened.
+Faster decisions are not always worse. The effects of time pressure depend on how well participants understand the task, how they assess information, what incentives they face, and which outcomes they prioritise. Experiments have found both beneficial and adverse effects on decisions under time pressure.[^3] Those findings do not establish how a particular workplace decision will fare. When shortening review, state what remains unchecked, who may accept that risk, and when the decision will be revisited.
 
 An urgency statement should record:
 
@@ -82,7 +82,7 @@ Projects cannot wait for all uncertainty to disappear. Distinguish exploration, 
 
 Consider a company deciding whether to move to a new office. Leaders first announce that the organisation will consolidate its operations at a single site. Employees are then invited to compare three buildings, while continuing the current hybrid arrangement is excluded from consideration. The consultation may influence which building is selected, but it cannot change the more fundamental decision to consolidate. Employees may therefore reasonably conclude that their participation is limited, even if it is not entirely meaningless.
 
-Make the sequence explicit: whether to consolidate, requirements, locations, terms, then contract approval. State who participates and what remains open at each stage. Where an earlier commitment removed an option, identify who made it and why.
+Make the sequence explicit: decide whether to consolidate, define the requirements, compare locations, negotiate terms, and approve the contract. State who participates and what remains open at each stage. Where an earlier commitment removed an option, identify who made it, under what authority, and why.
 
 Before making an important early commitment, ask: “Which future choices will become more difficult if we act now?” This question can reveal when an announcement, reservation, or pilot will constrain later decisions more than its description suggests.
 
@@ -92,7 +92,7 @@ Scope keeps a review manageable. Test whether it excludes something central to t
 
 Mateo’s review assumed customer education was the remedy instead of testing the billing process. Similar narrowing occurs when a workload review excludes staffing and case complexity, a retrospective excludes the original estimate’s assumptions, or a culture survey asks about understanding the strategy but omits the ability to challenge it.
 
-Match scope to purpose. Reducing billing complaints may require examining both communication and process design. Training staff on an approved system may reasonably exclude its original business case. The scope of the inquiry should let the review answer its stated question, and not the question allowed by the scope.
+Match scope to purpose. Reducing billing complaints may require examining both communication and process design. A review of training for an approved system may reasonably exclude its original business case. If the scope prevents reviewers from answering the stated question, widen the review or state the narrower question it can actually answer.
 
 State what is included, excluded, and why; who approves the boundary; and where related concerns can go. For example: “Contract selection is excluded because the current agreement remains in force until December. Any service failures will be documented for the renewal review in September.” The note acknowledges the connection and provides a route.
 
@@ -110,7 +110,7 @@ Meeting chairs also have significant influence over which views receive attentio
 
 ## Overloaded agendas favour easy decisions
 
-An overloaded agenda tends to favour familiar, visible, sponsored, or readily resolved items. Prevention may lose out to urgent work; concerns spanning functions may lose out to those with a single accountable leader. People may withhold difficult objections when they expect no useful response.
+An overloaded agenda can favour familiar items, those with prominent sponsors, or those that appear easy to resolve: participants can address them with less explanation or coordination. Prevention may lose out to urgent work; concerns spanning functions may lose out to those with a single accountable leader. People may withhold difficult objections if repeated deferrals lead them to expect no useful response.
 
 Manage the agenda’s capacity. Put routine updates in writing, separate exploration from approval, and limit the number of major choices. State the required action and defer unprepared items until they are ready for meaningful review.
 
@@ -122,7 +122,7 @@ The opening description sets the question. “We need to reduce resistance to th
 
 Sponsors bring their responsibilities to the question: finance may emphasise cost, engineering reliability, and customer advocates user experience. Invite other relevant perspectives before adopting one as the official definition.
 
-Before solutions, ask participants what decision is needed, which outcome matters most, and what evidence could change their view. Agreement on an agenda title may conceal different understandings of the question.
+Before discussing solutions, the chair should ask what decision is needed, which outcome matters most, and what evidence could change participants' views. Agreement on an agenda title does not establish that everyone understands the question in the same way.
 
 Written papers can support clearer discussion by distinguishing among observed facts, possible explanations, and the action requested:
 
@@ -132,7 +132,7 @@ Written papers can support clearer discussion by distinguishing among observed f
 > 
 > **Decision required today:** Approve a two-week investigation and temporary guidance for customers.
 
-This format does not require the author to be neutral about the likely cause. It simply distinguishes what the evidence establishes, what remains uncertain, and what the group is being asked to approve.
+The increase in repeat calls establishes what changed and when; it does not by itself show which proposed explanation caused the change. This format allows the author to favour an explanation while distinguishing the evidence, the uncertainty, and the action requested.
 
 When an opening description appears to assume its own conclusion, participants can propose a broader formulation without questioning the sponsor’s motives. For example: “Could we begin by describing the increase in repeat calls and then test whether unfamiliarity with the new invoice format helps explain them?” Reframing the issue in neutral terms is often more useful than accusing the sponsor of bias.
 
@@ -140,13 +140,13 @@ When an opening description appears to assume its own conclusion, participants c
 
 Modern workplaces divide attention among dashboards, messaging platforms, project-management tools, email, town halls, and recorded presentations. Moving work outside scheduled meetings can allow people in different time zones to participate and give them more time to consider the issues. However, information can still be overlooked even when it is widely available.
 
-Each communication method favours certain types of participation and information. A busy messaging channel favours people who can follow it throughout the day. A dashboard highlights information that can be measured easily. A recorded presentation may be available to everyone but have no formal process for review or response. An asynchronous consultation may invite comments without explaining whether or how those comments influenced the final decision.
+Each communication method can favour certain types of participation and information. A busy messaging channel may favour people who can follow it throughout the day. A dashboard may give readily measured results more prominence than effects that are harder to quantify. A recorded presentation may be available to everyone but have no formal process for review or response. A consultation conducted through written comments may leave unclear whether or how those comments influenced the final decision.
 
-Apply the same five conditions to asynchronous decisions. Identify the authoritative material, contribution deadline, response-summary owner, final decision-maker, and how the outcome will address proposals. Allow time to prepare and respond. Non-response should count as consent only under a justified, previously communicated rule appropriate to the significance of the topic being discussed.
+Apply the same five conditions to decisions made without meeting at the same time. Identify the authoritative material, contribution deadline, person responsible for summarising responses, and final decision-maker. Explain how participants will learn what happened to their proposals. Allow time to prepare and respond. Treat non-response as consent only under a justified rule communicated in advance and appropriate to the decision's significance; otherwise silence leaves the person's view unknown.
 
 Written input can reduce the immediate influence of status and confidence by recording participants’ views before group discussion begins. One approach is to ask each decision-maker to submit an independent written assessment in advance. Another is to begin the meeting by considering questions submitted beforehand, rather than allowing the sponsor to open with a defence of the proposal. These methods do not remove differences in influence, but they allow evidence and independent judgement to enter the discussion before a dominant view is established.
 
-Accessibility must also be built into the process. Captions, documents that work with screen readers, legible charts, and materials circulated in advance affect whether participants can understand and assess an issue within the time provided. Giving everyone the same 10-minute discussion period is not genuinely equal when some participants cannot access the relevant document until it is displayed during the meeting.
+Accessibility must also be built into the process. Captions, documents that work with screen readers, legible charts, and materials circulated in advance affect whether participants can understand and assess an issue within the time provided. The same 10-minute discussion period does not give participants an equal opportunity to contribute if some have reviewed the relevant document beforehand and others can access it only when it is displayed.
 
 ## Respond to concerns about employment, health, or wellbeing
 
@@ -174,13 +174,13 @@ Schedule the retrospective when approving the emergency exception, before attent
 6. Which elements of the emergency response should become standard practice, and which should end?
 7. What earlier warning or intervention could reduce similar urgency in the future?
 
-Use the review to decide which exceptions should end and what should become standard. Confirm why a sound decision worked. If internal delays created the emergency, improve planning and lead times instead of celebrating the last-minute response.
+Use the review to decide which exceptions should end and what should become standard. Examine which actions helped and which outcomes may reflect favourable circumstances; a good result alone does not show that the decision process was sound. If internal delays created the emergency, address planning and lead times as well as assessing the immediate response.
 
 ## How to respond: limited attention
 
 **Define the decision.** Establish what the forum can decide and what evidence it needs. More slides cannot compensate for insufficient authority or time.
 
-**Explain the cost of waiting.** State the likely consequence, probability, time horizon, and cost of delay. This lets decision-makers compare risks without every sponsor claiming equal urgency.
+**Explain the cost of waiting.** State the likely consequence, time horizon, and cost of delay, with the basis and uncertainty of any estimate. Give a probability only where it can be justified. This helps decision-makers compare risks without relying on how strongly each sponsor claims urgency.
 
 **Request a prepared route.** Avoid major unannounced requests under “any other business.” If the normal submission route failed, record that failure and ask for a specific meeting date or an appropriate formal process.
 

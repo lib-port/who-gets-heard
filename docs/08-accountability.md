@@ -8,7 +8,7 @@ At the first review, 12 people are listed as “owners”. No one can identify w
 
 The organisation first spreads ownership across 12 people, then asks the visible coordinator to answer for the system. Tariq can assign actions but cannot require the teams to complete them. His obligation exceeds his authority.
 
-**Accountability** is the expectation that a person or body will explain and answer for conduct, decisions, or outcomes to an audience able to judge or respond. It differs from responsibility and task assignment. Someone may perform a task without owning the result. A leader may be accountable for a system failure without having caused it personally.
+**Accountability** is the expectation that a person or body will explain and answer for conduct, decisions, or outcomes to an audience able to judge or respond. Assigning a task identifies work someone must do; accountability also identifies what they must answer for and to whom. A task performer may not control the overall result. A leader may have to answer for the management of a failed system without having personally caused the failure.
 
 Research shows that accountability’s effects depend on the audience, timing, standards, and decision environment. It does not automatically improve judgement.[^1] Poorly designed accountability can encourage defensiveness, conformity, excessive paperwork, or superficial compliance. Effective accountability connects authority, evidence, explanation, consequences, and learning.
 
@@ -27,7 +27,7 @@ Five recurring failures weaken this connection: unclear ownership, incomplete re
 
 ## 1. Ownership remains unclear
 
-Unclear ownership often begins with collaborative language: “We all own quality,” “The leadership team is responsible,” or “Operations and technology will work it out.” Shared commitment is valuable, but shared final authority often leaves it unclear who must answer for the result and who can decide.
+Unclear ownership often begins with collaborative language: “We all own quality,” “The leadership team is responsible,” or “Operations and technology will work it out.” Shared commitment is valuable, and a body may legitimately hold collective authority. The problem arises when the language leaves unspecified how that authority will be exercised and who must answer for the result.
 
 Distinguish at least four roles:
 
@@ -36,11 +36,11 @@ Distinguish at least four roles:
 - **Task owner:** Responsible for a defined action
 - **Control or review owner:** Responsible for independently checking a requirement or risk
 
-One person may hold several roles, but each role should remain clear. A compliance reviewer who can stop a release may own the compliance decision without owning delivery. A service manager may coordinate an incident without owning the code change that caused it.
+One person may hold several roles, but each role should remain clear. A compliance reviewer who can stop a release may be accountable for the compliance decision without being responsible for delivery. A service manager may coordinate an incident without having authorised the code change under review.
 
-A RACI chart - responsible, accountable, consulted, informed - can help if its labels reflect actual authority and consultation. Several people listed under “accountable” may conceal ambiguous areas of authority. A plain statement is clearer: “Tariq coordinates the incident; the release manager decides rollback; the platform director owns restoration; security must approve emergency access.”
+A RACI chart identifies who is responsible, accountable, consulted and informed. It can help if those labels reflect actual duties and authority. Listing several people as “accountable” without distinguishing their decisions can leave uncertainty unresolved. A plain statement is clearer: “Tariq coordinates the incident; the release manager decides rollback; the platform director is accountable for restoration; security must approve emergency access.”
 
-Define when ownership begins and how it transfers. Who owns a risk while it is being assessed? At what severity does authority move to another role? Who confirms the handoff? Many failures occur where responsibilities overlap, leave a gap, or transfer.
+Define when ownership begins and how it transfers. Who must manage a risk while it is being assessed? At what severity does authority move to another role? Who confirms that the next owner has accepted it? Overlapping responsibilities, gaps and unconfirmed transfers can all leave necessary work undone.
 
 Assign temporary authority explicitly during an urgent event and review it afterwards. “For this incident, Maya is the decision lead until restoration; domain owners advise and execute” may provide enough clarity without debating the organisation chart during the crisis.
 
@@ -48,9 +48,9 @@ Assign temporary authority explicitly during an urgent event and review it after
 
 Records shape accountability because reviewers can assess only the information available to them. A record can distort an event by preserving some actions, warnings, or failures while omitting others.
 
-Imperfect records is unavoidable. An incident timeline cannot reproduce every event, and a performance review cannot describe every day. Include the facts needed to understand causes, control, responses, and decisions.
+Some omissions are unavoidable: an incident timeline cannot reproduce every event, and a performance review cannot describe every day. Include the facts needed to assess causes, authority, responses and decisions, and identify significant gaps that remain unresolved.
 
-Tariq’s late reply is relevant, but so is the missing notification. Recording the reply alone makes a system condition appear to be a personal failing. A project review that lists missed dates but omits approved scope increase misrepresents performance. A complaint file that retains an allegation without the response creates a lasting bias in the record.
+Tariq's late reply is relevant, but so is the missing notification. Recording the reply alone may lead reviewers to blame his responsiveness without examining whether he received the information needed to act. A project review that lists missed dates but omits an approved increase in scope gives an incomplete basis for judging performance. A complaint file that retains an allegation without the person's response can similarly bias later assessments.
 
 Record these elements separately:
 
@@ -68,13 +68,13 @@ Limit access according to privacy and relevance. Someone may be able to correct 
 
 ## 3. Responsibility spreads until no one can answer
 
-Responsibility diffusion occurs when several people could act and each assumes someone else will. Classic research on bystander intervention showed how the presence of others can reduce an individual’s sense of responsibility during an emergency.[^2] Workplace systems are more complex than the laboratory emergencies studied. The relevant coordination lesson is that notifying a group without specifying an accountable individual may receive no response.
+**Responsibility diffusion** occurs when several people could act and each assumes someone else will. Classic research on bystander intervention showed how the presence of others can reduce an individual's sense of responsibility during an emergency.[^2] Workplace systems are more complex than the laboratory emergencies studied. The limited coordination lesson is that a notification to a group may receive no response if nobody is assigned to act on it.
 
 Committee language can have the same effect. A risk is “with governance,” a hiring delay is “with the business,” or a policy exception is “under review.” These phrases identify where a matter sits, but not who must act or when a decision is due.
 
 Require explicit acceptance of an assignment. Sending a task is insufficient: an authorised person must acknowledge the obligation, deadline, and escalation route. Shared inboxes and queues need a designated person responsible for the work, service standards, and a way to track how long items have been waiting.
 
-For each decision, record one accountable role even when many people participate. This does not mean that one person is accountable for every outcome. It identifies who must ensure that evidence is assembled, decision authority is exercised, and the result is communicated.
+For each decision, name a role responsible for ensuring that evidence is assembled, the authorised person or body makes the decision, and the result is communicated. This responsibility for progressing the decision does not transfer the decision-maker's authority or accountability to the coordinator.
 
 The phrase “collective accountability” should not obscure senior authority. If a leadership team votes, record the vote or the chair’s decision under the team’s mandate. If an executive overrules the group, record that. Describing a result as collectively owned hides accountability when only one person had authority to choose.
 
@@ -82,7 +82,7 @@ The phrase “collective accountability” should not obscure senior authority. 
 
 Blame concentration occurs when an organisation treats one person’s action as the complete explanation for a shared failure. It may select someone who is visible, lower in status, or administratively convenient to hold responsible.
 
-One person could have made a serious error with material consequences, but it is still worthwhile to examine the process. A review should consider the person’s duty, training, information, control, workload, supervision, and system design, as well as how comparable conduct was treated.
+One person may have made a serious error with material consequences. To assess that conduct fairly and understand how the error led to harm, a review should also consider their duty, training, information, control, workload, supervision, and system design, as well as how comparable conduct was treated.
 
 Separate three questions:
 
@@ -90,7 +90,7 @@ Separate three questions:
 2. Did someone’s conduct depart from clear and reasonable expectations?
 3. What response will reduce recurrence and address responsibility fairly?
 
-Combining these questions can lead reviewers to attribute blame prematurely and to oversimply the causes. Equally, using “system failure” to excuse reckless conduct or a knowing breach of an expectation prevents accountability. Both individual conduct and system conditions are important considerations.
+Combining these questions can lead reviewers to attribute blame before establishing the causes or the applicable expectation. Conversely, describing an event as a “system failure” does not settle whether someone acted recklessly or knowingly breached an expectation. Examine individual conduct and system conditions separately, then explain how they interacted.
 
 Research on learning from failure distinguishes process from outcome.[^3] Judge conduct against what people could know and control at the time. Outcome severity alone does not establish negligence. Chapter 5 explains why a sound process can fail and a weak one succeed.
 
@@ -112,15 +112,15 @@ Every corrective action needs to specify:
 
 “Tariq to improve monitoring” is not actionable if the platform team owns the tool and finance controls the budget. A clearer assignment is: “Platform director to implement severity-one alerting by 30 June; Tariq to define service thresholds by 15 May; technology risk to verify through a failover test.”
 
-Provide an opportunity for the respective owners to accept the task and respond with adjustments or conditions, if required. If a constraint prevents acceptance, the decision owner must resolve it. Remediation meetings should address blocked work rather than merely mark it overdue.
+Ask each owner to confirm the intended result, deadline and resources, and to identify any constraint requiring an adjustment. The person authorising the corrective work must resolve a constraint that prevents delivery or assign it to someone who can. Progress meetings should address blocked work rather than merely mark it overdue.
 
-Do not assign every action to the report’s author. Analysts and incident managers may coordinate the response, but line owners must own changes to their systems. Otherwise, assurance functions become accountable for work while operational authority remains elsewhere.
+Do not assign every action to the report's author. Analysts and incident managers may coordinate the response, but managers with authority over the affected systems must be responsible for changing them. Otherwise, people appointed to review or check the work are held accountable for changes they cannot direct.
 
 ## Accountability requires honest explanation and review
 
 Dashboards can track commitments, but honest explanations also depend on how people are treated. If every admission is punished, records become defensive. If reviewers accept every explanation without challenge, the process provides little real scrutiny.
 
-An accountable conversation needs a clear audience and standard. The reviewer asks for reasoning, evidence, uncertainty, and learning. They should not demand certainty that was unavailable at the time. The owner explains their choices without attributing every consequence to circumstances beyond their control. Both must distinguish a valid justification from an excuse.
+An accountability review needs a clear reviewer and standard. The reviewer asks for reasoning, evidence, uncertainty, and learning, without demanding certainty that was unavailable at the time. The owner explains what they chose, what constrained them, and how they responded to those constraints. Assess the explanation against what the person could reasonably know and control, rather than accepting or rejecting it because it sounds persuasive.
 
 Psychological safety and accountability can support each other when properly designed. Safety enables candid reporting, direct questions, and admission of error; accountability maintains standards and consequences. Research reviews emphasise that psychological safety is not simply comfort and does not mean permissiveness.[^4]
 
@@ -134,13 +134,13 @@ Combining these purposes without warning undermines trust and fairness. Particip
 
 Where possible, preserve the facts and address immediate safety first, then identify the appropriate processes. Follow relevant law, policy, professional standards, and agreements. Do not improvise promises of immunity or decisions about punishment.
 
-Learning reviews should also examine successful recovery, near misses, and the controls or situations that prevented worse harm. A review focused only on individual error can miss important practices worth strengthening.
+Learning reviews should also examine successful recovery, near misses, and the controls or circumstances that prevented worse harm. Distinguish a safeguard that worked from a favourable circumstance the organisation cannot depend on next time. A review focused only on individual error can miss practices worth strengthening.
 
 ## Consequences should follow purpose and evidence
 
 Accountability discussions often move straight from “Who owns this?” to punishment. A broader range of effective responses should be considered: process correction, additional training, modified or withdrawn authority, professional support, specialist review, compensation, formal disciplinary action, organisational recognition, or no further action.
 
-Choose a response that fits the purpose and evidence. A knowledge gap may call for training and supervised practice. An excessive workload may require reorganising responsiblities, renegotiating service agreements, or delegating authority to others. Knowingly falsifying a critical record may require a formal conduct response. Harm arising despite a sound process under unavoidable uncertainty may call for support, training, and updated controls rather than blame.
+Choose a response that fits the purpose and evidence. A knowledge gap may call for training and supervised practice. An excessive workload may require reorganising responsibilities, renegotiating service agreements, or delegating authority. Knowingly falsifying a critical record may require a formal conduct response. Harm arising despite a sound process under unavoidable uncertainty may call for support and updated controls, with further training where the review identifies something useful to learn.
 
 Consistent treatment does not require identical consequences for events that look similar. Role, clarity of expectations, established intent, prior support, impact, and comparable cases may matter. The decision-maker should be able to explain which differences justify the response.
 
@@ -160,11 +160,11 @@ For each relationship, identify who can require an explanation, which standard a
 
 ## Metrics have owners and consequences
 
-A dashboard indicator can appear to give an objective verdict on performance. A visualisation turns red and someone must explain. Yet people chose the denominator, threshold, data source, exclusions, and reporting delay that produced the indicator.
+A dashboard indicator can appear to give an objective verdict on performance: it turns red and someone must explain. Yet people chose what to count, the total against which to compare it, the threshold for red, the data source, the exclusions, and the reporting period. The indicator cannot be assessed fairly without understanding those choices.
 
 When a metric is used to hold someone accountable, identify who owns it and explain its limitations. Who validates it? Can those judged by it correct the data or provide context? Does it measure an outcome they control? Which behaviour might it encourage at the expense of qualities that are not measured?
 
-A call centre manager judged only on average handling time may incentivise solving simple problems to shorten calls, while more complex problems remain unresolved. A recruiter measured only on time-to-hire may consider a narrower range of candidates with less negotiating power and who are quicker to agree to terms, but only partially meet requirements. The metrics do not force these choices, but the accountability system gives people incentives to make them.
+A call centre manager judged only on average handling time may encourage staff to prioritise simple problems that can be resolved quickly, leaving complex problems unresolved. A recruiter measured only on time-to-hire may favour candidates expected to negotiate less and accept terms quickly, even if they only partly meet the role's requirements. These are possible responses to the incentives, not conclusions to infer from a short call or a quick appointment. Examine the decisions and their effects as well as the metric.
 
 Use a small, balanced set of measures. Add a measure of quality or consequences where the main indicator creates an obvious trade-off. Review unusual cases using an explanation of the circumstances alongside the numbers. Adding a metric for every limitation can make the system too complex to understand.
 
@@ -190,7 +190,7 @@ Identify the affected records and audiences. Correct formal evaluations, update 
 
 Do not overstate innocence if the evidence remains mixed. A correction can be precise about what changed: “The first report placed primary responsibility on Tariq. The completed review found that release ownership sat elsewhere and that notification and rollback controls materially contributed. The performance note based on the initial account has been removed.” This states both the findings and the action taken.
 
-Leaders may fear that correcting an error will undermine their authority. Refusing to correct an established error does more reputational damage in the opinions of observant (current or future) decision-makers. A system that can revise its account is more trustworthy than one that insists its earlier account is correct at someone’s expense.
+Leaders may fear that correcting an error will undermine their authority. Refusing to correct an established error can also damage their reputation: people who later examine the record may question whether its authors are willing to revise a mistaken judgement. A documented correction gives readers a stronger basis for trusting the organisation's current account.
 
 If the matter involves a formal complaint, discipline, a legal process, or protected data, follow the authorised correction procedure. Do not improvise disclosure or delete records that must be retained.
 
@@ -206,7 +206,7 @@ Common failures include:
 - treating an apology as the end of repair
 - waiting until after the outcome to establish accountability instead of defining roles, standards, and review arrangements before work begins
 
-Each failure weakens the link between authority and accountability. The following remedies should be considered: clearer ownership, better evidence, effective review, or appropriate repair. A stronger demand that people “take accountability” without further instruction is vague and ineffective.
+Choose a remedy that addresses the identified failure: clarify authority where ownership is unclear, complete the evidence where context is missing, provide review where a judgement is disputed, or repair the consequences of misplaced blame. A demand to “take accountability” does not tell anyone which of these actions is needed.
 
 ## How to respond: emerging blame
 
@@ -226,7 +226,7 @@ Before assigning a consequential outcome, complete this sentence:
 
 Use the opening control, resources, obligation, and review questions to test the completed statement. Resolve any gap before assigning the outcome.
 
-For corrective work, ask the owner to restate the intended result and identify anything blocking the work. Provide a specific escalation route. Close the action only when evidence shows the risk or failure mode has been addressed.
+For corrective work, ask the owner to restate the intended result and identify anything blocking the work. Provide a specific escalation route. Close the action only when evidence shows that it meets the agreed completion standard, including verification of how it reduces or controls the identified risk. Completing an activity alone does not establish that the problem has been addressed.
 
 ### Questions an accountable leader asks
 

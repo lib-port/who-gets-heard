@@ -6,7 +6,7 @@ Nora wants her company to provide paid time for employees who mentor apprentices
 
 She then speaks with relevant colleagues individually. A plant manager explains that mentors currently lose production time without receiving formal recognition. An HR partner provides apprentice retention data, and a finance analyst helps estimate the cost of apprentice turnover. A respected operations director agrees to introduce the revised proposal at the workforce committee.
 
-Nora has built a coalition: she gathered evidence, connected the proposal to several interests, and found a sponsor able to reach the right forum.
+Nora has begun building a coalition: she has gathered evidence, connected the proposal to several interests, and found a sponsor able to reach the right forum. She still needs to establish what each contributor is willing to support.
 
 Then the commitments become unclear. The director says “all the sites are behind it,” although Nora consulted only three of eight. The finance analyst requests support for an unrelated software purchase in exchange for help. HR adds an overtime-rule change and insists on combined approval. By the meeting, participants no longer know what has been supported or by whom.
 
@@ -16,25 +16,25 @@ Organisational research uses coalitions to explain how individual preferences an
 
 ## Different forms of support carry different authority
 
-Different forms of support confer different authority:
+Support can mean advice, advocacy, endorsement or authority to act. Identify which commitment a person has actually made:
 
-A **mentor** provides advice, learning, or personal support. A **sponsor** uses influence or access to advocate for a person or idea. An **ally** supports someone, often across differences in status, power, or group membership. A **coalition partner** coordinates action around a shared objective. An **endorser** expresses support for a specific proposal. A **representative** has authority, within a defined mandate, to speak or decide on behalf of others.
+A **mentor** provides advice, learning, or personal support. A **sponsor** uses influence or access to advocate for a person or idea. An **ally** supports someone, often across differences in status, power, or group membership. A **coalition partner** coordinates action around a shared objective. An **endorser** expresses support for a specific proposal. A **recommendation** identifies a preferred course of action against relevant criteria. A **representative** has authority, within a defined mandate, to speak or decide on behalf of others. Endorsement and recommendation do not themselves constitute formal approval by an authorised decision-maker.
 
 One person may hold several roles. A mentor’s “I think you are ready” does not necessarily nominate you. Help drafting a proposal need not imply support in a vote. A representative may report disagreement without taking either side. Identify which role the person is performing.
 
 The existence of a relationship also does not establish its quality or value. Research on mentoring indicates that the structure and substance of the relationship matter; simply being able to identify someone as a mentor does not show that the relationship is effective or equitable.[^4]
 
-For consequential support, establish the source, commitment, authority, conditions, and the version of the proposal reviewed. The five patterns below show where those details become unclear.
+When support could affect an important decision, establish who offered it, what they committed to, what authority they hold, any conditions, and which version of the proposal they reviewed. The five patterns below show where those details become unclear.
 
 ## 1. Sponsorship without transparency
 
 Sponsors do more than praise someone or express general support. They use their standing to take a specific action, such as recommending a person, creating access to a decision-maker, defending a proposal, or asking others to consider an issue. This can help correct organisational blind spots because strong work and sound ideas do not always become visible on their own.
 
-Private advocacy can allow candour. Its reasons still need to be accurate, relevant interests disclosed, and significant opportunities reachable through more than one relationship.
+Private advocacy can allow candour. Sponsors should still give accurate reasons and disclose relevant interests. Those responsible for allocating significant opportunities should provide routes to consideration beyond a relationship with one sponsor.
 
 Consider a senior lawyer who recommends a colleague for general counsel. She has worked with him for 10 years and has direct evidence of his judgement and performance. That experience is relevant, but the long relationship may also affect her impartiality. A fair process can recognise both facts. The sponsor discloses the relationship, explains the capabilities she has observed, and does not control the entire selection process. Other qualified candidates are also considered against publicly stated criteria.
 
-Opaque sponsorship relies on status instead of reasons: “The chief executive wants this” or “She comes highly recommended.” Transparent sponsorship states who supports what and on what basis: “The chief executive asked us to examine this option because it may reduce launch risk; this committee still holds authority over the investment decision.”
+Statements such as “The chief executive wants this” or “She comes highly recommended” invoke status without specifying the support or its basis. A clearer account states who supports what and why: “The chief executive asked us to examine this option because it may reduce launch risk; this committee still holds authority over the investment decision.”
 
 When seeking sponsorship, ask for a specific action. “Would you introduce me to the programme chair and explain that you have seen me lead two similar projects?” is clearer than “Can you put in a good word?” A defined request allows the sponsor to agree, limit the support, or decline. It also reduces the risk that the endorsement will later be misrepresented.
 
@@ -46,9 +46,9 @@ Reciprocity is a normal part of organisational cooperation. Colleagues support o
 
 Reciprocity becomes problematic when support for one decision is made conditional on support for an unrelated decision and that condition is not disclosed. “I will vote for your safety proposal if you vote for my office move” links two matters that should be assessed separately. It may also pressure participants to make commitments that conflict with their responsibilities to different stakeholders.
 
-The pressure may be indirect. A colleague may remind you of previous favours immediately before asking for an endorsement. A leader may suggest that budget flexibility depends on a team remaining “constructive” about a restructuring. A committee member may treat disagreement on one issue as evidence of disloyalty on another.
+The pressure may be indirect. A colleague may remind you of previous favours immediately before asking for an endorsement. A leader may suggest that budget flexibility depends on a team remaining “constructive” about a restructuring. A committee member may treat disagreement on one issue as evidence of disloyalty on another. Such comments warrant clarification of the expected commitment; their timing or wording alone may not establish an undisclosed bargain.
 
-Linked decisions can support efficient negotiation and cooperation. Test the connection, participants’ authority, visibility of conditions, and whether each commitment withstands independent scrutiny.
+Linked decisions can support efficient negotiation and cooperation. Ask why they are linked, whether participants may make the proposed commitments, and whether the conditions are visible to those approving the package. Each component should have an explainable purpose, cost and risk even when the overall agreement depends on accepting them together.
 
 A practical response can acknowledge the relationship while keeping the decisions separate:
 
@@ -68,7 +68,7 @@ The important question is whether the messenger preserves the source, evidence, 
 
 This uses the director’s status to gain attention without obscuring authorship or overstating support. A misleading introduction would say, “Operations has agreed a solution,” while presenting Nora’s work without naming her or confirming whether the sites actually support it.
 
-When another person presents your work, agree in advance on four points: the claim being made, the evidence supporting it, how authorship will be acknowledged, and who will answer questions. Provide a concise written summary and check the formal record afterwards. These are standard handoff controls, not signs of mistrust.
+When another person presents your work, agree in advance on four points: the claim being made, the evidence supporting it, how authorship will be acknowledged, and who will answer questions. Provide a concise written summary and check the formal record afterwards. These steps help the presenter represent the work accurately and give its authors a way to correct misunderstandings.
 
 Managers should also examine why the original source cannot contribute directly. Sometimes a legitimate governance rule limits attendance. In other cases, the organisation may have developed a habit of listening only when information is carried by someone more senior. Requiring a high-status intermediary for routine contributions wastes expertise and creates an unnecessary bottleneck.
 
@@ -76,7 +76,7 @@ Managers should also examine why the original source cannot contribute directly.
 
 Implied endorsement often appears in vague statements such as “Leadership is comfortable,” “Legal has seen it,” “The team is aligned,” or “Maria thinks this is the way forward.” Each phrase can imply more support than was actually given. Legal may have reviewed only one clause. Maria may have said that the option was worth exploring. The team may agree on the problem while disagreeing about the proposed solution.
 
-A technically accurate reference to a name or function can still overstate its authority. Establish the precise commitment:
+A statement may accurately report that someone was involved while implying more support or authority than they gave. Establish the precise commitment:
 
 - Who expressed the view?
 - Which version or proposal did they review?
@@ -88,7 +88,7 @@ These questions can be asked neutrally. For example: “To record this accuratel
 
 If someone overstates your position, correct the record promptly and specifically: “I supported testing the option; I did not approve organisation-wide implementation.” Avoid a general denial that leaves the original scope unclear. If the overstated claim has already been circulated, the correction should reach the same audience.
 
-Digital tools create additional opportunities for implied endorsement. Appearing in a document history, reacting with an emoji, or attending a meeting does not necessarily indicate approval. Define approval explicitly through a recorded vote, named decision field, signed authorisation, or clear written confirmation. Presence is not consent.
+Digital tools create additional opportunities for implied endorsement. Appearing in a document history, reacting with an emoji, or attending a meeting does not necessarily indicate approval. Define how an authorised person records approval: for example, through a vote, a completed decision field, signed authorisation, or clear written confirmation. Participation alone does not establish agreement.
 
 ## 5. Bundling separate commitments
 
@@ -125,7 +125,7 @@ Use a short coalition record to answer:
 4. What material interests, conditions, or conflicts should be disclosed?
 5. Which important issues remain unresolved?
 
-Acknowledging disagreement can make the coalition more aligned on each member's priorities and goals. “All three departments support a six-month pilot; finance and operations disagree about the long-term funding model” is more precise than “Everyone agrees in principle.” It allows decision-makers to identify what has been agreed and what still requires discussion.
+Acknowledging disagreement helps coalition members understand one another's priorities without assuming they share them. “All three departments support a six-month pilot; finance and operations disagree about the long-term funding model” is more precise than “Everyone agrees in principle.” It allows decision-makers to identify what has been agreed and what still requires discussion.
 
 Coalitions should not present vulnerable or less powerful participants as evidence of inclusion unless those participants meaningfully contributed to the position. A worker group, community representative, or junior employee may be named as a supporter even though they had little opportunity to review or influence the proposal. Check whether they received sufficient information and time, participated meaningfully, and were free to disagree. Agreeing to be consulted does not mean agreeing to be presented as an endorser.
 
@@ -135,7 +135,7 @@ Power differences also affect whether support is genuinely voluntary. A request 
 
 Growing support can make members reluctant to acknowledge differences. Concealed disagreements may reappear during implementation and undermine the earlier claim of agreement.
 
-Separate agreement on the objective from disagreement on design. Support for paid mentoring time may coexist with different views on eligibility, hours, and funding. Record these differences and decide which require resolution before approval or testing through the pilot.
+Separate agreement on the objective from disagreement on design. Support for paid mentoring time may coexist with different views on eligibility, hours, and funding. Record these differences, decide which must be resolved before approval, and identify which the pilot can test.
 
 Keep the position revisable. Use version numbers, reconfirm material changes, and allow withdrawal without retaliation. An influential member should not redefine the group’s position or treat an earlier endorsement as permanent.
 
@@ -143,7 +143,7 @@ The spokesperson should also have defined limits. Before a meeting, agree on wha
 
 ## Distinguish sponsorship from favouritism using fair criteria
 
-From the outside, sponsorship and favouritism can look similar: an influential person helps someone they know gain access to an opportunity. The distinction should not rest on what the sponsor says they intended. Instead, it should be judged by whether the recommendation is made through a process that uses clear criteria, allows appropriate scrutiny, and gives other qualified candidates a fair opportunity to be considered.
+From the outside, sponsorship and favouritism can look similar: an influential person helps someone they know gain access to an opportunity. The sponsor's stated intention alone does not settle whether that help is fair. Examine whether the recommendation rests on relevant evidence, whether the process allows scrutiny, and whether other qualified candidates have a fair opportunity to be considered. These checks assess the conduct and the process without claiming to establish private motives.
 
 Four questions help:
 
@@ -154,7 +154,7 @@ Four questions help:
 
 No single rule applies in every situation. During a crisis, a leader may need to appoint a trusted deputy quickly without running an open selection process. That exception should be explained and limited in duration. A permanent appointment, promotion, award, or paid opportunity usually requires greater transparency. The more consequential and difficult to reverse the decision, the stronger the need for clear criteria, multiple sources of input, and a documented rationale.
 
-Some sponsors may see independent review as a challenge to their judgement. It should be better understood as a way to make that judgement visible and assessable. A sponsor may know that a candidate handles uncertainty well, earns client trust, or recovers effectively from mistakes. These are qualities that a standard application may not capture. Those observations are useful evidence. A preference based only on familiarity is harder to justify.
+Some sponsors may see independent review as a challenge to their judgement. It gives them a way to explain the evidence behind that judgement. A sponsor may have seen a candidate handle uncertainty, earn client trust, or recover effectively from mistakes. Describing the circumstances, the candidate's actions, and the results makes those assessments useful to reviewers, especially where a standard application would miss the relevant experience. A preference based only on familiarity is harder to justify.
 
 Organisations should not rely solely on individuals to find influential sponsors. Employees can build relationships and communicate their ambitions, but leaders should also create ways to identify capable people outside their immediate networks. Open office hours, evidence-based talent reviews, rotating exposure to senior forums, and multiple nomination routes can broaden access to sponsorship and opportunity.
 
@@ -180,7 +180,7 @@ Verbal agreement can also be ambiguous. A “yes” may indicate firm support, w
 
 > My understanding is that you support the pilot described in version 3 and are comfortable being named as a supporter. Please correct me if that overstates your position.
 
-This approach does not rely on assumptions about culture or communication style. Individuals differ, and workplace norms may matter more than geography. Clear confirmation reduces the need for people to interpret unfamiliar communication and relationship conventions.
+Ask for an explicit reply before naming the person as a supporter; silence in response to a request for correction does not confirm endorsement. Individuals differ, and workplace norms may matter more than geography. Clear confirmation reduces reliance on assumptions about culture or unfamiliar communication conventions.
 
 ## Define the limits of your endorsement
 
@@ -195,7 +195,7 @@ State the scope of your support precisely:
 
 Agree how others may use your name and whether the wording could imply funding approval or ownership. Require reconfirmation after material changes and disclose relevant conflicts.
 
-These boundaries protect your credibility and the people relying on it.
+These boundaries let decision-makers distinguish what you have assessed from what they still need to check.
 
 ## Common mistakes when building or claiming support
 
@@ -216,16 +216,16 @@ The fifth mistake is assuming that a large coalition proves that a proposal is t
 - **Separate linked decisions.** Distinguish which commitments genuinely depend on one another and which can be considered independently.
 - **Disclose relevant interests.** Record material relationships, conditions, or conflicts in proportion to the significance of the decision.
 - **Correct the original audience.** If support was overstated, make sure the correction reaches the same people who received or relied on the original claim.
-- **Escalate the process, not the conflict.** If the problem recurs, ask the responsible governance owner to clarify the rules for endorsement, representation, conflicts, and approval. Do not respond by building an opposing coalition simply to counter another group.
+- **Seek a review of recurring misrepresentation.** Ask the person responsible for the decision process to clarify and apply the rules for endorsement, representation, conflicts, and approval. Building an opposing coalition simply to counter another group will not correct an inaccurate account of support.
 
-This sequence moves from simple clarification to stronger governance controls. Most ambiguity can be corrected close to its source. Repeated or consequential misrepresentation requires a more formal response.
+This sequence moves from clarification with the source to stronger controls over how support is recorded and used. Where a prompt clarification resolves the issue, it may be sufficient. Repeated misrepresentation, or a claim that has materially affected a decision, may require a more formal response.
 
 ## For managers: record sponsors, endorsements, and conditions
 
 An organisation can support useful informal influence while setting clear limits around consequential decisions:
 
 - Major nominations and proposals identify the sponsor and the reasons for their support.
-- Decision papers distinguish among consultation, endorsement, recommendation, and formal approval. [Editor’s note: In the context of this chapter, endorsement is an  expression of approval, while recommendation is an expression of preference as determined against a criteria.]
+- Decision papers distinguish among consultation, endorsement, recommendation, and formal approval, using the definitions set out earlier in this chapter.
 - Material conditions, interests, and conflicts are disclosed.
 - Significant changes made after endorsement trigger reconfirmation when they alter what was originally supported.
 - Representatives state the scope of their authority and report disagreement accurately.

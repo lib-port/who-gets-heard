@@ -6,11 +6,11 @@ Northbridge Services launches a scheduling system for its field teams. The inves
 
 At the benefits review, the programme director presents the launch as a success. The main slide shows the fall in missed visits. Waiting time appears in an appendix, split into categories that are hard to compare with the original baseline. Administrative effort is described as “temporary adoption activity.” The director reminds the committee that the board’s strategic goal was digital modernisation.
 
-Missed visits matter, implementation can require extra work, and modernisation was a strategic goal. The evaluation has still shifted: three promised benefits have become one achieved benefit and the deployment of technology.
+Missed visits matter, implementation can require extra work, and modernisation was a strategic goal. The basis of evaluation has still shifted: the main account emphasises one improved measure and the deployment of technology, while giving less attention to the other two promised benefits. Whether the additional administrative work is temporary remains a claim to test.
 
 The reverse can also happen. A technically successful project may be called a failure because it did not solve a problem it was never funded to solve. A pilot may be criticised for lacking national scale. A team may meet an agreed target only to learn that leaders now consider a different measure decisive.
 
-Organisations need narratives to explain what data mean. Leaders must describe what happened, why it matters, and what should follow. The risk begins when an account determines which evidence counts, conceals a changed standard, or presents a contested choice as inevitable.
+Organisations need narratives to explain what data mean. Leaders must describe what happened, why it matters, and what should follow. The account becomes misleading when evidence is selected to fit a preferred conclusion, a changed standard is concealed, or a contested choice is presented as the only possible one.
 
 ## A result contains more than one honest story
 
@@ -23,7 +23,7 @@ Consider a project delivered two months late but under budget. It may be:
 - a deliberate trade of time for scope
 - a warning that the budget excluded hidden internal labour
 
-Several descriptions can be true at once. A useful review connects claims to agreed purposes, sufficiently complete evidence, and transparent judgement. It does not require one perfectly neutral account.
+Several descriptions can be true at once, but the facts “late” and “under budget” do not establish all of them. Calling the delay a wise safety response requires evidence of the risk and the decision to address it; attributing an underspend to omitted labour requires checking what the budget counted. A useful review connects each interpretation to the agreed purpose, the relevant evidence, and the standard used to judge it.
 
 Separate five steps:
 
@@ -33,15 +33,15 @@ Separate five steps:
 4. **Evaluation:** Good or bad against which standard, and for whom?
 5. **Action:** What should continue, change, stop, or be tested?
 
-When these steps blur, a judgement can be presented as an observation. “Adoption was strong” might mean that 80 percent of accounts were activated, 30 percent of employees used the core function weekly, or leaders believe resistance has ended. Each is a different claim.
+When these steps blur, a judgement can be presented as an observation. “Adoption was strong” might refer to 80 percent of accounts being activated, 30 percent of employees using the core function weekly, or leaders' belief that resistance has ended. The first two are different measures of use; the third is an interpretation of attitudes. None establishes “strong adoption” without a definition and a relevant comparison.
 
 Five patterns distort the account of a result: selecting favourable measures, changing the success story after results arrive, overstating agreement, reclassifying an outcome after the fact, and presenting too few credible alternatives.
 
 ## 1. Measures favour one interpretation
 
-Measurement requires selection. A dashboard cannot show every consequence. Choices about the numerator, denominator, period, comparison group, threshold, and treatment of missing data emphasise some results and obscure others.
+Measurement requires selection. A dashboard cannot show every consequence. What is counted, which total it is compared with, the reporting period, the comparison group, the threshold, and the treatment of missing data all affect the picture presented.
 
-Suppose Northbridge reports missed visits as a percentage of all scheduled visits. The rate falls from 7 percent to 4 percent. If the system also schedules fewer difficult rural visits, some improvement may reflect a change in the mix of cases. That does not make the measure fraudulent. It means readers need context about volume and cases to interpret it.
+Suppose Northbridge reports missed visits as a percentage of all scheduled visits. The rate falls from 7 percent to 4 percent. If the system also schedules fewer difficult rural visits, some of the fall may reflect a change in the mix of cases rather than more reliable service for comparable customers. The lower rate is still an observation; attributing it to improved performance requires information about visit volumes and which cases were scheduled. The difference does not by itself establish fraud.
 
 Ask seven questions about a consequential measure:
 
@@ -53,9 +53,9 @@ Ask seven questions about a consequential measure:
 6. Can the people judged by it inspect and correct the underlying data?
 7. Which behaviour could improve the number without improving the real outcome?
 
-Targets can encourage substitutes for the intended result. A service centre may end complex calls early, a hospital may change when its timeliness clock starts, or sales may exclude difficult prospects. Examine what the accountability system rewards.
+Targets can reward changes to the reported number without improving the intended result. A service centre might end complex calls early, a hospital might change when its waiting-time measurement starts, or a sales team might exclude difficult prospects from its conversion measure. These possibilities identify what to check; the number alone does not show that any such action occurred.
 
-When one indicator omits an important effect, use a small set of measures covering relevant aspects of outcome, quality, volume or access, time, cost, and unintended consequences. Do not add all six automatically. Too many measures make selective reporting easier because presenters can choose whichever improved.
+When one indicator omits an important effect, use a small set of measures covering the relevant aspects of outcome, quality, volume or access, time, cost, and unintended consequences. Do not add all six automatically. Agree which measures are central: a large collection without stated priorities makes it easier to highlight whichever figures improved.
 
 Where possible, define main measures and acceptable changes before results arrive. If a better measure becomes available, show both definitions, explain the change, restate earlier periods when valid, and test whether the conclusion depends on it.
 
@@ -65,7 +65,7 @@ Qualitative evidence matters too. Customer accounts, staff observations, inciden
 
 Regulation, competition, safety, or deliberate trade-offs may change goals. Record when, why, and by whom the basis of evaluation changed.
 
-At approval, Northbridge emphasised customer waiting time, administrative effort, and missed visits. After launch, the programme is defended primarily as modernisation. If modernisation genuinely became the main objective, the governance record should show that decision and its accepted consequences. Otherwise, the revised account shields the project from evaluation against the promises that secured its funding.
+At approval, Northbridge emphasised customer waiting time, administrative effort, and missed visits. After launch, the programme is defended primarily as modernisation. If modernisation became the main objective, the decision record should show who authorised that change, when, and which consequences they accepted. Without that record, reviewers cannot tell whether the goal was deliberately revised or the later account has replaced the promises that secured funding.
 
 Motivated reasoning helps explain how this can happen without a conscious plan to deceive. People are often more likely to seek and accept reasons that support a preferred conclusion while believing themselves reasonable.[^1] Commitment may intensify as resources, reputation, and identity become invested. Research on escalation of commitment examines why decision-makers sometimes persist despite adverse information.[^2]
 
@@ -79,7 +79,7 @@ Keep a history of expected benefits and subsequent changes. Record:
 - current results and uncertainty
 - which claims remain forecasts rather than realised benefits
 
-Distinguish delivery, intermediate results, and benefits. Installing a system may be a delivery achievement. Creating the capacity to reduce waiting time is an intermediate result. Reducing waiting time is an outcome. Each may be worth reporting, but completing one does not prove the next.
+Distinguish delivery, intermediate results, and realised benefits. Installing a system may complete a deliverable. Demonstrating that it can support faster scheduling is an intermediate result. A sustained reduction in customer waiting time is a realised benefit. Report each at the level the evidence supports; completing the installation does not show that customers are waiting less.
 
 Also guard against outcome bias: judging a decision’s quality solely by its result. Experiments have shown that people may evaluate the same decision more favourably when told it produced a good outcome.[^3] A sound decision under uncertainty can end badly; a reckless decision can get lucky. Review the information, alternatives, process, and treatment of risk available at the time. Then use the result as new evidence.
 
@@ -87,7 +87,7 @@ Also guard against outcome bias: judging a decision’s quality solely by its re
 
 Accounts of meetings often soften disagreement: “The group agreed.” “Stakeholders endorsed the direction.” “There was broad alignment.” Sometimes this is accurate shorthand. Sometimes participants agreed only to continue, preferred different options, attached conditions, or heard about the choice after it was made.
 
-Overstating agreement discourages later questions—“we already agreed”—and assigns ownership to people who did not make the decision. It may also deny the accountable leader proper credit and responsibility.
+Overstating agreement can discourage later questions through the response “we already agreed” and assign ownership to people who did not make the decision. It can also obscure the actual decision-maker's contribution and accountability.
 
 Use a decision record that distinguishes:
 
@@ -100,7 +100,7 @@ Use a decision record that distinguishes:
 - **Implementation obligation:** What must participants do despite disagreement?
 - **Reopening trigger:** Which new evidence or event returns the issue to review?
 
-Not every meeting needs a roll-call vote. Consensus may emerge through discussion, and recording every passing doubt would make minutes unreadable. Seek explicit confirmation when consequences are significant or collective endorsement forms part of the authority: “I am hearing support for Option B subject to legal confirmation by Friday. Does anyone believe that misstates their position?”
+Not every meeting needs a roll-call vote. Consensus may emerge through discussion, and recording every passing doubt would make minutes unreadable. Seek explicit confirmation when consequences are significant or collective endorsement forms part of the authority: “I am hearing support for Option B subject to legal confirmation by Friday. Please confirm your position and any conditions, so we can record the extent of agreement accurately.”
 
 Silence is weak evidence of agreement, especially in a hierarchy. It may mean assent, uncertainty, deference, fatigue, a lost connection, or belief that the decision is already made. Invite views before declaring consensus. Written follow-up can help participants who need time or could not safely interrupt.
 
@@ -110,7 +110,7 @@ Record material dissent without dramatising it. Preserve the objection and its r
 
 ## 4. The outcome is reclassified after the fact
 
-Classification determines the standard used to judge work. A project becomes a “pilot” after it underperforms, reducing the expectations used to secure funding. An experiment becomes an “operational launch” after a favourable result, bypassing controls for wider deployment. A missed target becomes “directional.” A cancelled initiative becomes “completed discovery.”
+Classification affects the standard used to judge work. Calling an underperforming project a “pilot” can lower expectations retrospectively. Describing a successful experiment as an “operational launch” can imply that it is ready for wider use before the required controls have been checked. Calling a missed target “directional” or a cancelled initiative “completed discovery” can similarly change how readers judge the result without explaining what was originally promised.
 
 Categories can legitimately change as people learn. A limited launch may reveal the need for more testing, and leaders can designate the next phase as a pilot. Changing what happens next differs from relabelling what has already happened. Research on issue categorisation illustrates the broader mechanism: framing and category can influence subsequent action.[^6]
 
@@ -125,9 +125,9 @@ Before work begins, define what its category means in practice:
 
 If the category changes, state the effective date and consequences. Do not use a new label to erase duties or harms that arose under the old one.
 
-A similar problem occurs in research when a hypothesis developed after seeing results is presented as though it had been specified in advance. The term HARKing—hypothesizing after results are known—comes from scientific reporting.[^4] Organisational decisions differ from scientific reporting, but the transparency principle applies. Discovery after a result is valuable. Label it as discovery, then test it when the stakes warrant.
+A similar problem occurs in research when a hypothesis developed after seeing results is presented as though it had been specified in advance. HARKing, or hypothesising after results are known, is a term from scientific reporting.[^4] Organisational decisions differ from scientific reporting, but the transparency principle applies. An explanation developed after seeing a result can be valuable; identify it as a new interpretation and test it against further evidence when the stakes warrant.
 
-Financial and operational categories need the same care. Moving costs between “run” and “change,” incidents between severity levels, or customers between segments may be valid under established rules. If a classification changes only after the number is known, require independent review and show the result under both treatments where possible.
+Financial and operational categories need the same care. Moving costs between routine operations and change projects, incidents between severity levels, or customers between segments may be valid under established rules. If a classification changes only after its effect on the reported number is known, require independent review and show the result under both treatments where possible.
 
 A reassuring label does not erase real duties. Calling work a pilot, learning exercise, or prototype may not change obligations concerning safety, employment, privacy, research, contracts, or regulated activity. Qualified owners should determine the applicable requirements.
 
@@ -147,7 +147,7 @@ A useful option paper includes:
 6. the recommendation and reasons
 7. uncertainty and the evidence that could change the choice
 
-Describe what “do nothing” would involve. Existing operations consume money and labour and require acceptance of risk. Give alternatives enough detail for a fair comparison; a favoured option should not receive a complete design while others are described only through vague disadvantages.
+Describe what “do nothing” would involve. Continuing existing operations consumes money and labour and carries risks. Give alternatives enough detail for a fair comparison, including the uncertainty of less-developed options. A complete design for the favoured option should not be compared only with vague disadvantages attributed to the others.
 
 Framing research shows that describing equivalent outcomes as gains or losses can produce different preferences.[^5] This does not make every persuasive presentation manipulative. Decisions require framing. Explain it: “We have described this as avoiding service loss rather than producing savings because current capacity expires in June.” If another reasonable framing changes the preference, show both.
 
@@ -167,19 +167,19 @@ Use three protections. First, pair the target with a constraint or quality check
 
 Assign owners for the target’s definition, validation, exclusions, and threshold review. Where managers can reclassify cases affecting their own reward, use independent sampling or approval proportionate to risk.
 
-An unexpected response is not necessarily gaming. People may adapt because a target conflicts with another duty, tools are inadequate, or the recorded process differs from actual demand. Investigate why it happened. Punishing a visible workaround while retaining an impossible target teaches people to hide more effectively.
+An unexpected response is not necessarily an attempt to improve a score while evading its purpose. People may adapt because a target conflicts with another duty, tools are inadequate, or the recorded process differs from actual demand. Investigate why the response occurred. Punishing a visible workaround while retaining an impossible target can discourage disclosure without making the target achievable.
 
 Promotion, praise, executive attention, rankings, renewal, and relief from scrutiny also shape reporting. Celebrating launches while ignoring maintenance may skew the account towards launches. Asking only whether a project is green may encourage definitions that keep it green.
 
-Reward accurate bad news, early stopping, prevented harm, corrected forecasts, and knowledge transfer. A leader can say, “This team missed the original date because testing found a serious access flaw; the discovery and transparent reset are evidence of control, not a reason to recolour the history.” This does not make every delay admirable. It makes truthful reporting and learning compatible with status.
+Recognise accurate reporting of bad news, justified early stopping, evidenced prevention of harm, corrected forecasts, and knowledge transfer. A leader can say, “This team missed the original date because testing found a serious access flaw. Record both the missed date and the fact that testing identified the flaw before rollout.” This recognises the value of the control without recasting every delay as an achievement.
 
-Allow enough time to assess consequences before giving rewards or final evaluations. A sales incentive paid before cancellations, a project award given before benefits review, or a speed ranking published before quality data arrives establishes a premature record of success. When waiting is impractical, make recognition provisional and return to the complete result.
+Allow enough time to assess the consequences relevant to a reward or final evaluation. A sales incentive paid before cancellations are known, a project award given before benefits review, or a speed ranking published before quality data arrives may recognise an incomplete result. When waiting is impractical, state what the recognition covers, make it provisional where appropriate, and revisit the fuller outcome.
 
 ## Numbers are constructed, but not arbitrary
 
 “Just show the data” is not an adequate response to a selective narrative. Definitions, instruments, systems, and human choices shape data. That does not make data mere opinion. Some measurements are more valid, reliable, complete, and relevant to a decision than others.
 
-Treat measurement as an argument supported by evidence. Explain why the measure represents the claimed concept, how it was generated, what errors or missing data exist, and which conclusion it supports. The audience should be able to ask whether another plausible measure changes the result.
+Explain the reasoning behind each consequential measure: why it represents the claimed concept, how it was generated, what errors or missing data exist, and which conclusion it supports. The audience should be able to check whether another reasonable definition or measure changes the conclusion.
 
 Present charts clearly. Begin axes at a meaningful point or clearly indicate a restricted range. Keep units and periods consistent. Show absolute numbers alongside percentages when scale matters. Explain exclusions near the chart. Do not imply more precision than the evidence supports: a forecast reported to one decimal place may still have wide uncertainty.
 
@@ -189,7 +189,7 @@ Narrative evidence also needs clear sources. If a report says “staff welcomed 
 
 ## Precommitment without rigidity
 
-Before launch, record the primary outcome, threshold, review date, exclusions, decision owner, and likely responses. This form of precommitment fixes evaluation rules; Chapter 5 examines commitments that restrict the options themselves.
+Before launch, record the primary outcome, threshold, review date, exclusions, decision owner, and likely responses. This form of precommitment establishes the rules for evaluation before results are known. Chapter 5 examines a different use of the term: commitments that restrict the available options.
 
 Specify who may revise these rules when an assumption fails or evidence changes. Require the date, reason, and effect on interpretation, using the comparison method in the measures section.
 
@@ -237,11 +237,11 @@ Review the communication later. Did the internal or public summary preserve mate
 
 The benefits committee asks the programme director to restore the original three measures. Missed visits fell from 7 to 4 percent, although part of the change reflects a shift in scheduled case mix. Median customer waiting time rose by two days. Dispatcher correction time increased for four months and then began to fall but remains above baseline.
 
-The committee records two judgements. The deployment met its technical scope and produced a meaningful reduction in missed visits. It has not yet delivered the full business case. The board’s modernisation objective supports continued investment but does not replace the customer and workload promises.
+The committee records two judgements. The deployment met its technical scope, and the lower missed-visit rate is a valuable improvement, although the entire fall cannot be attributed to the system because the case mix changed. The programme has not yet delivered the full business case. The board's modernisation objective provides a reason to consider continued investment, but does not replace the customer and workload promises.
 
 The committee considers three options: continue unchanged, roll back, or keep the system while pausing expansion and redesigning exception rules with dispatchers. It selects the third and sets a 12-week review using the original measures, case-mix information, and a sample of dispatcher workload.
 
-The final communication describes benefits, shortfalls, learning, and the next decision. Its measured account preserves what a declaration of triumph or disaster would lose.
+The final communication describes benefits, shortfalls, learning, and the next decision. Readers can see which promises have been met, which remain unmet, and why the committee chose to continue on revised terms.
 
 ## Practice: give one outcome two honest readings
 

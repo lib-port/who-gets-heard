@@ -8,21 +8,21 @@ Who selects presenters? Are comparable projects treated consistently? How will E
 
 This book examines the informal arrangements that shape how work moves through organisations: whose knowledge reaches decision-makers, which concerns receive attention, who receives recognition for successful work, and who is held responsible when something goes wrong. These arrangements are often described as “office politics.”
 
-“Office politics” often suggests flattery, manipulation, alliances, and advancement through influence. These occur, but defining politics only as the self-interested circumvention of formal processes obscures the ordinary informal choices that shape organisational life.
+“Office politics” often suggests flattery, manipulation, alliances, and advancement through influence. These occur, but defining politics only as bypassing formal processes for personal advantage obscures the ordinary informal choices that shape organisational life.
 
-Organisations allocate limited attention, information, authority, opportunity, money, and recognition. Formal rules leave room for judgement: who attends, what is urgent, who is ready, and how disagreement or shortfalls are recorded. These decisions distribute influence and resources. They may be opaque, biased, generous, or defensive without necessarily being political.
+Organisations allocate limited attention, information, authority, opportunity, money, and recognition. Formal rules leave room for judgement: who attends, what is urgent, who is ready for a responsibility, and how disagreement or shortfalls are recorded. These decisions distribute influence and resources. They may be opaque, biased, generous, or defensive without necessarily being political. Their effects alone do not establish why they were made.
 
 Informal influence deserves serious examination. It is important to distinguish what happened from assumptions about why it happened, while recognising that rules alone cannot explain every decision.
 
 ## What workplace politics describes
 
-Researchers have examined influence attempts, skill in navigating relationships, and perceptions of organisational politics.[^1] These are distinct. Social skill need not involve manipulation; unclear rules can make a workplace feel political; a decision can advantage one group without deliberate bias.
+Researchers have examined influence attempts, skill in navigating relationships, and perceptions of organisational politics.[^1] These concern different things: what people try to achieve, their ability to work through relationships, and how others understand the workplace. Social skill need not involve manipulation; unclear rules can make a workplace feel political; a decision can advantage one group without deliberate bias.
 
-“The meeting moved to a forum where finance held the deciding vote” describes a verifiable event. “Finance manipulated the process” adds an interpretation of intent. That interpretation may prove correct, but needs further evidence.
+“The meeting moved to a forum where finance held the deciding vote” describes a verifiable event. “Finance manipulated the process” adds an interpretation of intent. To assess that interpretation, examine who requested the move, the reason given, and the rule governing the choice of forum. The change in voting authority alone does not establish deliberate manipulation.
 
-Use technical terms carefully. _Gatekeeping_, _coalition formation_, _legitimacy borrowing_, and _decision provenance_ describe mechanisms; they can sound more conclusive outside specialist contexts.
+Use technical terms carefully. _Gatekeeping_ concerns control over access; _coalition formation_ concerns people organising support; _legitimacy borrowing_ concerns invoking another person's or institution's standing; and _decision provenance_ concerns the record of how a decision was reached. These terms describe mechanisms. They do not, by themselves, establish that anyone acted improperly.
 
-The book’s categories identify what to examine and not how to validate suspicions. Unequal advance briefing describes different preparation for the same decision. Restricted recognition routes identify how people reach an award or presentation. Neither category establishes motive, discrimination, or misappropriation.
+The book’s categories identify questions to examine. Unequal advance briefing means that people receive different opportunities to prepare for the same decision. Restricted recognition routes concern limits on who can be considered for an award or chosen to present work. Neither category establishes motive, discrimination, or misappropriation.
 
 ## Formal authority, relationships, and decision processes
 
@@ -32,11 +32,11 @@ The first is the **formal map**. It includes job descriptions, reporting lines, 
 
 The second is the **relationship map**. It reflects trust, reputation, expertise, sponsorship, personal history, obligation, and access. It helps explain why one person receives an immediate response, why a respected engineer can delay a launch without formal veto authority, and why a newly appointed senior manager may struggle to gain cooperation. Research on organisational networks and political skill reflects the fact that formal position alone does not determine influence.[^2]
 
-The **process map** traces an issue’s route: first notice, agenda placement, information versions, objections, resource commitments, and the later account. It connects authority with informal influence and often leaves evidence that can be examined. This is the book’s main focus.
+The **process map** traces an issue’s route: when people first learn about it, where it appears on an agenda, which versions of information are used, what objections are raised, which resources are committed, and how the result is later described. It shows how formal authority and informal influence operate in a particular case, using records and events that can be examined. This is the book’s main focus.
 
-The maps align when the project owner receives relevant and accurate information, reaches the authorised committee or decision-maker, receives appropriate credit, and answers for the result. They diverge when informal advisers shape a recommendation, prior commitments constrain approval, or someone absent from key decisions bears the blame.
+The maps align when the project owner receives relevant and accurate information, reaches the authorised committee or decision-maker, receives appropriate credit, and answers for the result. The formal map alone gives an incomplete account when informal advisers shape a recommendation, prior commitments constrain approval, or someone absent from key decisions bears the blame. These situations need separate assessment: informal advice may help a decision, while misplaced blame may require correction.
 
-Informal arrangements may adapt to circumstances faster than written rules. An intermediary may coordinate work, a private briefing explain technical evidence, or a senior presenter meet a governance requirement. Test the arrangement’s purpose, transparency, and capacity for correction.
+Informal arrangements may adapt to circumstances faster than written rules. An intermediary may coordinate work, a private briefing explain technical evidence, or a senior presenter meet a governance requirement. Ask what the arrangement achieves, whether affected people can understand how it works, and how an error or exclusion can be corrected.
 
 ## Examine the process before judging motives
 
@@ -49,11 +49,11 @@ Begin with what can be verified, without ignoring emotion or minimising harm. Co
 - The meeting record named the presenter but did not identify the two people who produced the analysis.
 - After an employee raised a safety concern, her workload increased from five cases to nine.
 
-Check the records and context. Was another brief circulated? Did roles differ? Was an eligibility exception approved? Was the workload change already planned? How were comparable cases handled? 
+Check the records and context. Was another brief circulated? Did roles differ? Was an eligibility exception approved? Was the workload change already planned? How were comparable cases handled? A workload increase after a safety concern establishes a sequence; deciding whether it was a response to the concern requires evidence about how and why the assignment changed.
 
 A detailed description that carefully considers the context and includes relevant comparisons makes it easier to examine a concern and decide on a response.
 
-Context affects judgement. Framing can change preferences. Knowing the result can change assessments of an earlier choice. Vested interests and pre-existing expectations can affect which evidence seems persuasive.[^3] Leaders, employees, investigators, and observers all need to account for these influences.
+How an issue is described can change preferences. Knowing the result can change assessments of an earlier choice. Personal interests and pre-existing expectations can affect which evidence seems persuasive.[^3] Leaders, employees, investigators, and observers should therefore examine both the evidence and the assumptions shaping their own assessment.
 
 ## Six questions for examining a workplace concern
 
@@ -65,7 +65,7 @@ Identify the specific decision, opportunity, meeting, or assignment, and define 
 
 ### 2. What rule or expectation applied?
 
-Identify the written authority, published criterion, established practice, or temporary arrangement that governed the situation. If no clear rule existed, record that fact. Disputes often arise because different people are conforming with different unwritten expectations.
+Identify the written authority, published criterion, established practice, or temporary arrangement that governed the situation. If no clear rule existed, record that fact. Disputes can arise because people are following different unwritten expectations without realising that others understand the process differently.
 
 ### 3. Which similar cases provide a fair comparison?
 
@@ -77,15 +77,15 @@ Consider factors such as confidentiality, legal privilege, safety requirements, 
 
 ### 5. What were the practical consequences?
 
-Consider whether the difference affected a decision, created unnecessary work, removed an opportunity to respond, concealed a material risk, reduced appropriate recognition, or prevented meaningful review. Meaningful consequences are major factors in considering the extent of a justified corrective response. A missed invitation corrected within 10 minutes is different from repeated exclusion from decisions central to someone’s role.
+Consider whether the difference affected a decision, created unnecessary work, removed an opportunity to respond, concealed a material risk, reduced appropriate recognition, or prevented meaningful review. The nature and extent of the consequences help determine what correction is needed. A missed invitation corrected within 10 minutes, while there is still time to contribute, differs from repeated exclusion from decisions central to someone’s role.
 
 ### 6. Could the problem be corrected?
 
-A reliable system does not prevent every mistake, but it does allow mistakes to be identified and corrected. Ask whether the concern could be raised, whether the response addressed the underlying issue, whether the record was corrected, and whether the improvement continued. A prompt correction is relevant evidence. So is a review process that exists formally but cannot be used in practice without unreasonable cost or difficulty.
+A reliable system does not prevent every mistake, but it does allow mistakes to be identified and corrected. Ask whether the concern could be raised, whether the response addressed the underlying issue, whether the record was corrected, and whether the improvement continued. A prompt correction is evidence that the process can respond to a problem, although it does not erase any harm already caused. A review process that is unreasonably costly or difficult to use may offer little practical protection despite existing formally.
 
 Together, the six questions support a concise description:
 
-> Within a defined process, a stated or reasonable expectation was applied differently in comparable cases. Ordinary explanations either accounted for the difference or did not. The difference produced a practical consequence, and the organisation either corrected it or failed to do so.
+> Within a defined process, a stated or reasonable expectation was applied differently in comparable cases. Identify which ordinary explanations account for the difference, which do not, and which remain untested. Describe the practical consequences and whether the organisation corrected the problem, partly addressed it, or left it unresolved.
 
 The description gives managers, representatives, ombuds practitioners, facilitators, and colleagues a practical basis for deciding what to examine or change.
 
@@ -95,17 +95,17 @@ A pattern is a recurring or significant feature of a process that may help expla
 
 Organisational justice research distinguishes fairness in outcomes, procedures, explanations, and interpersonal treatment.[^4] Unfairness need not be unlawful; an orderly process may still produce discriminatory effects requiring specialist assessment. Apply the relevant legal, regulatory, and organisational standards before reaching a finding.
 
-Do not score seriousness by counting patterns or diagnose someone by attaching labels. One ignored safety report may matter more than months of minor meeting problems. Numbers can give a false sense of precision and significance.
+Do not score seriousness by counting patterns or judge a person's character by attaching labels. One ignored safety report may matter more than months of minor meeting problems. A count alone does not show the severity of the consequences or the strength of the evidence.
 
-Examine repetition, distribution, and sequence. Recurrence may weaken an explanation based on accident; disadvantage concentrated on one group differs from a mistake affecting everyone. Examine changes that follow a complaint in context, considering whether the complaint or other factors explain them.
+Examine repetition, distribution, and sequence. Repeated problems may make a one-off accident less plausible, but could still reflect a recurring administrative failure. Disadvantage concentrated on one group warrants different questions from a mistake affecting everyone. For changes that follow a complaint, examine the reasons, timing and treatment of comparable cases before attributing them to the complaint.
 
 ## Influence can be constructive
 
-The ability to understand people, build relationships, gain support, and communicate effectively is not always a tool used to disadvantage others. Research on political skill examines capabilities such as social awareness, interpersonal influence, networking ability, and apparent sincerity.[^5] These skills can support constructive outcomes. A sponsor can bring overlooked work to a decision-maker’s attention. A coalition can build support for a safety improvement. A pre-meeting can help an inexperienced presenter prepare. An informal relationship can help resolve an urgent customer problem when the normal process is failing.
+The ability to understand people, build relationships, gain support, and communicate effectively can serve constructive purposes. Research on political skill examines capabilities such as social awareness, interpersonal influence, networking ability, and apparent sincerity.[^5] The ability to appear sincere does not establish that a person is honest or that their aims are fair. Assess how the skills are used. A sponsor can bring overlooked work to a decision-maker’s attention. A coalition can build support for a safety improvement. A pre-meeting can help an inexperienced presenter prepare. An informal relationship can help resolve an urgent customer problem when the normal process is failing.
 
 Assess influence by its effects on informed action, fairness, transparency, and accountability. It can bring evidence to the right people, clarify support, and permit correction. It can also make access depend on private relationships, conceal commitments, concentrate credit, or raise the cost of disagreement.
 
-Judge the purpose, safeguards, and consequences in context. Restriction may protect privacy or block an authorised role. Speed may rescue delivery or curtail needed review. Consistency may support fairness or overlook relevant differences.
+Judge the purpose, safeguards, and consequences in context. Restricting access may protect privacy or prevent someone from fulfilling an authorised role. A quick decision may rescue delivery or remove time needed for review. Applying the same rule consistently may support fairness, but can also overlook differences that justify different treatment.
 
 ## Workplace conditions affect whether people speak up
 
@@ -115,7 +115,7 @@ Research on employee voice and silence shows that people’s willingness to spea
 
 Consider a leader who asks for candid discussion at every meeting but interrupts questions, treats challenges as personal criticism, and assigns additional difficult work to whoever identifies a problem. Employees may formally be invited to speak, but the consequences discourage them from doing so. By contrast, a leader can reject a proposal while still supporting constructive challenge. They can summarise the concern accurately, explain why the proposal was rejected, record any unresolved risk, and identify the evidence that would justify reconsidering the decision.
 
-Individual skill and process design both matter. Shared agendas, common briefs, explicit criteria, decision logs, authorship rules, alternative reviews, and deadlines for unresolved issues reduce dependence on personal influence.
+Individual skill and process design both matter. Shared agendas, common briefs, explicit criteria, decision logs, authorship rules, alternative review routes, and deadlines for responding to unresolved issues can reduce dependence on personal influence. They give people ways to contribute or seek correction without needing a private relationship with the decision-maker.
 
 ## Keep evidence collection relevant and authorised
 

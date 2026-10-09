@@ -8,9 +8,9 @@ Only two members of Renee’s project team sit on the steering committee. Instea
 
 The system may be the best choice. The infrastructure director may know risks the team missed, and the committee may hold approval authority. The record still leaves questions: why did the forum change, what had the team recommended, and who added “enterprise fit”? Did the committee confirm the recommendation or replace it, and can a reviewer reconstruct why?
 
-Decision processes turn support into commitments. Process quality and outcome quality are distinct: a fair process can produce an unpopular result, and a weak process can produce a reliable choice. Organisational justice research distinguishes procedures, outcomes, explanations, and interpersonal treatment.[^1] Voice research also suggests that a meaningful chance to contribute matters even without control of the result.[^2] Studies of group decisions and information sharing show why membership and relevant evidence can affect decision quality.[^3]
+Decision processes turn support into commitments. Process quality and outcome quality require separate assessment: a fair process can produce an unpopular result, and a weak process can still select an option that performs well. Organisational justice research distinguishes procedures, outcomes, explanations, and interpersonal treatment.[^1] Voice research also suggests that a meaningful chance to contribute matters even without control of the result.[^2] Studies of group decisions and information sharing show why membership and relevant evidence can affect decision quality.[^3]
 
-Make authority, evidence, criteria, and reasoning clear enough for review. Authorised people and bodies may still need to make unilateral decisions without consultation, as consensus is not always required.
+Make authority, evidence, criteria, and reasoning clear enough for review. An authorised person or body may decide without consensus and, where the applicable process permits it, without consultation. These are separate questions: holding final authority does not itself remove a requirement to hear relevant input.
 
 ## Six elements of a clear decision process
 
@@ -43,11 +43,11 @@ When a decision moves to another venue, ask:
 - Is the new forum deciding the same question, addressing an additional level of approval, or reconsidering a previous decision?
 - What record will connect the work of the two forums?
 
-Preserve the original venue’s evidence and reasoning without giving it control just for having done the work. Watch for venue shopping: repeated moves seeking a more favourable audience. Explicitly stated forum and escalation rules make that pattern easier to assess.
+Preserve the original forum's evidence and reasoning; preparing the assessment does not itself confer final authority. Repeated moves may warrant checking for _venue shopping_, in which someone seeks a forum more likely to support their preferred result. Establish the reasons for each move before attributing that purpose. Clear rules for assigning and escalating decisions make the sequence easier to assess.
 
 ## 2. Membership and quorum shape the decision
 
-Membership determines which expertise, interests, and votes are represented. Quorum sets the minimum attendance for formal action. Neither compensates for poorly managed membership changes.
+Membership determines which expertise, interests, and votes are represented. Quorum sets the attendance required for formal action, which may include specified roles as well as a minimum number. Meeting that threshold does not necessarily preserve every safeguard intended by the membership design.
 
 Illness, recusal, vacancies, or urgency may justify proceeding with an absence. Check the applicable rule, the reason for the change, its effect on expertise or representation, and any available correction.
 
@@ -55,9 +55,9 @@ Consider a hiring panel that normally includes the hiring manager, a peer, an in
 
 Record whether a late participant is a member, adviser, observer, or voter. State what evidence they reviewed and whether they may score or vote on matters they did not observe.
 
-A body may meet quorum while a relevant function, region, or employee representative is repeatedly absent. Where that representation serves the forum’s primary purpose, include it in membership or quorum requirements and record exceptions.
+A body may meet quorum while a relevant function, region, or employee representative is repeatedly absent. If that absence undermines the forum's purpose, those responsible for its rules should review the membership or quorum requirements and define how exceptions are handled.
 
-Do not infer motive from attendance records alone. Reconstruct the sequence of invitations, recusals, substitutions, attendance, and decision authority. If a membership change may have materially affected the outcome, first determine whether the decision should be paused, reconsidered, or formally accepted with the required participants.
+Do not infer motive from attendance records alone. Reconstruct the sequence of invitations, withdrawals because of conflicts of interest, substitutions, attendance, and decision authority. If a membership change may have materially affected the outcome, the authorised chair or reviewer should determine whether to pause the decision, reconsider it, or seek formal ratification with the required participants.
 
 ## 3. Commitments made before approval limit later choices
 
@@ -81,11 +81,11 @@ Participation after a decision can still provide useful feedback, but it is diff
 
 ## 4. Decision records show who decided and why
 
-Decision provenance records how an option became an authorised choice: who decided, on what evidence, and why. Six months later, a reasonable reader should be able to reconstruct the decision, the reasoning, and the authority behind it.
+**Decision provenance** is the recorded history of how an option became an authorised choice: who decided, on what evidence, and why. Six months later, a reader with appropriate access should be able to reconstruct the decision, the reasoning, and the authority behind it.
 
 Vague minutes, missing or unmaintained documents, undocumented verbal instructions, and concealed disagreement can obscure that history. “It was agreed” may mean a formal vote, the chair’s conclusion, no objection, or the most senior participant’s preference. State which occurred.
 
-Ambiguity may reduce visible conflict and make a decision seem collective. Later, it can prevent people from identifying responsibility, comparing new evidence with the original basis, or reconciling different records.
+Wording such as “it was agreed” may avoid naming disagreement and make a decision seem collective. Later, the missing detail can prevent people from identifying who was responsible, comparing new evidence with the original reasoning, or reconciling different accounts.
 
 A concise decision record should include:
 
@@ -100,7 +100,7 @@ A concise decision record should include:
 
 Record what people need to implement, review, and learn from the decision. A transcript is unnecessary. Limit and protect personal or sensitive details.
 
-When a decision is given verbally, confirm it in writing. For example: “My understanding is that you authorised option C today because the regulatory deadline makes the longer implementation impractical. I will proceed on that basis unless I have misunderstood.” This creates a usable record while giving the decision-maker an opportunity to correct it.
+When a decision is given verbally, record the decision and seek confirmation where needed. For example: “My understanding is that you authorised option C today because the regulatory deadline makes the longer implementation impractical. Please confirm that I have recorded the decision and its reason accurately.” This creates a usable record while allowing correction. Follow any requirement for explicit written approval before acting; an unanswered message does not supply it.
 
 ## 5. Criteria change after the options are known
 
@@ -116,9 +116,9 @@ When criteria change, apply five tests:
 4. Do participants need additional evidence or review time?
 5. Who authorised the change, and where is the reason recorded?
 
-A change that passes these tests may improve the process. Apply the revised criterion to all relevant options. If it cannot be applied consistently, examine whether it is being used to justify a preferred outcome.
+A change that passes these tests may improve the process. Apply the revised criterion to all relevant options. If consistent reassessment is impossible, establish what evidence or time is missing and consider whether the decision should pause. Also examine whether the change is being used selectively to justify a preferred outcome.
 
-Check weighting changes too: the criteria may stay the same while one factor gains importance. Where practical, set weights before evaluating options. Where numerical weights cannot reasonably express judgement, record the decisive factors and why they mattered. Precision does not make a judgement objective.
+Check weighting changes too: the criteria may stay the same while one factor gains importance. Where practical, set weights before evaluating options. Where numerical weights cannot reasonably express judgement, record the decisive factors and why they mattered. A precise score still depends on judgements about which criteria and weights are appropriate.
 
 ## Fair process does not mean majority rule
 
@@ -126,7 +126,7 @@ Many workplace decisions appropriately belong to a person or body with defined a
 
 Decision-makers should consider relevant input while the choice is open, apply criteria consistently or explain exceptions, and accept responsibility for the outcome. Record the authority accurately: a leader’s choice should not become “the group decided,” nor a committee vote become what “leadership wanted.”
 
-Consensus can help when time permits and widespread agreement is a prerequisite to the implementation of a decision. Define it beforehand: no unresolved objection that is within scope, an acceptable outcome for affected stakeholders, or complete agreement from all participants. Otherwise, participants may gain unintended vetoes or feel pressured to not express objection. Select prior to the vote who may decide if consensus fails to avoid the appearance of circumventing the outcome.
+Consensus can help when time permits and implementation depends on widespread agreement. Define what counts as consensus before discussion: no unresolved objection within scope, an outcome affected stakeholders can accept, or agreement from every participant. These standards differ. An unclear definition may give participants unintended vetoes or pressure them to suppress objections. Also state who may decide, and by what process, if consensus cannot be reached.
 
 ## Define delegated authority, limits, and accountability
 
@@ -138,13 +138,13 @@ A clear delegation should state five things: what decision is delegated, who rec
 
 This gives the programme lead authority to choose the supplier while preserving defined safeguards. Security and procurement provide required review, but they do not automatically become joint decision-makers or gain authority to substitute their preferred supplier.
 
-Match delegated responsibility with authority and resources. Reserving every significant choice elsewhere leaves the delivery owner without meaningful control. Someone accepting authority should also own the decision, attributing it to senior leaders only if they actually directed it. Chapter 8 develops these ownership distinctions.
+Match delegated responsibility with authority and resources. Reserving every significant choice elsewhere leaves the delivery owner unable to control matters for which they may later be held responsible. Someone exercising delegated authority should explain and answer for their decision, attributing it to senior leaders only if those leaders actually directed it. Chapter 8 develops these distinctions between delivery, decision authority and accountability.
 
 Record the start, scope, and expiry of temporary authority. Acting appointments and emergency arrangements may outlast their justification. Formally approve any continuation as part of normal governance.
 
 ## Distinguish decision reviews from appeals
 
-A **review** reconsiders a decision under defined conditions. An **appeal** asks a separate authority to examine an alleged error, unfairness, or breach. Explain whether the route reassesses the merits or checks procedure; using the terms interchangeably can create false expectations.
+In this chapter, a **review** reconsiders a decision under defined conditions. An **appeal** asks a separate authority to examine an alleged error, unfairness, or breach. Explain how the organisation's actual procedure works, including whether it reassesses the merits or checks procedure. A label alone does not tell the applicant what can be challenged or changed.
 
 A credible review or appeal process should state:
 
@@ -158,13 +158,13 @@ A credible review or appeal process should state:
 
 Valid grounds may include a material factual error, an undisclosed conflict of interest, a procedural breach, significant new evidence that was not previously available, or a decision made outside the stated authority. Simple disagreement with the outcome may not be sufficient. That limitation is reasonable when it is stated in advance and applied consistently.
 
-Match the independence of decision makers in the review process to the issue. The next level manager may review a routine expense dispute, but a complaint about that manager needs another reviewer. A technical question may need an independent specialist. Apply the stated grounds rather than the reviewer’s personal preference.
+Choose a reviewer with the independence and expertise the issue requires. A manager at the next level may review a routine expense dispute, but a complaint about that manager needs another reviewer. A technical question may need an independent specialist. Apply the stated grounds rather than the reviewer's personal preference.
 
 Test the route before it is needed. Can someone find it, understand it, obtain the necessary evidence, and receive a reasoned response on time? Hidden policies, inaccessible evidence, and automatic referral to the original decision-maker may make review ineffective.
 
 ## Excessive procedure can delay substantive review
 
-Procedure can protect fairness or delay substantive review. Repeated formatting demands, forum disputes, and multiple review rounds need clear service standards.
+Procedure can protect fairness, but it can also delay examination of the underlying issue. Repeated formatting demands, disputes about which forum should act, and multiple review rounds can leave a concern unresolved even when every step has an administrative explanation. Clear requirements and response deadlines help prevent this.
 
 State submission requirements, a procedural contact, stage deadlines, and what happens if the organisation misses them. Review should improve quality or fairness without allowing indefinite delay by a party unhappy with the likely result.
 
@@ -191,17 +191,17 @@ Ask:
 - Who makes the final judgement, and can that person reject the system’s recommendation?
 - What monitoring or review identifies errors, unequal effects, or safety concerns?
 
-“The system decided” leaves owners, data, configurations, and thresholds unexplained. A “human is in the loop” offers little assurance if that reviewer lacks time, information, training, or authority to question or override the output.
+“The system decided” leaves unanswered who chose the system, its data, its settings, and the thresholds used to act on its output. Saying that a human reviews the result offers little assurance if that reviewer lacks the time, information, training, or authority to question or override it.
 
 The National Institute of Standards and Technology’s voluntary AI Risk Management Framework organises AI risk management around four functions: govern, map, measure, and manage.[^5] An organisation does not need to adopt that framework to apply the underlying principles. It can define the purpose and context of the system, assign accountable owners, assess potential effects, test performance, and maintain a clear route for correction. Where automated employment decisions are regulated by law, appropriate legal and specialist advice should be obtained.
 
 ## A good outcome does not justify a flawed process
 
-If Renee’s preferred vendor loses and the selected system performs well, that supports the choice. It does not explain the forum change, representation of evidence, or revised criteria.
+If Renee's preferred vendor loses and the selected system performs well, that is evidence about the selected system's performance. It does not establish that it was the best available option or explain the change of forum, the account of the team's evidence, or the revised criteria.
 
 Poor performance would not establish manipulation either. Ineffective implementation, market changes, or vendor non-compliance may explain it. Assess the process against what was known and authorised then, and the outcome against what happened later.
 
-A reasonable decision under uncertainty can result in a failed outcome due to realisation of unforseen risks; a weak process can succeed by chance. Learn from the result while correcting process weaknesses. Experimental research on outcome bias supports keeping these assessments separate.[^4] Chapter 12 develops their implications for later accounts.
+A reasonable decision under uncertainty can fail because an unforeseen risk occurs, or because a known risk materialises despite justified precautions. A weak process can succeed by chance. Learn from the result while separately assessing what could reasonably have been known and done at the time. Experimental research on outcome bias supports keeping these assessments separate.[^4] Chapter 12 develops their implications for later accounts.
 
 A retrospective can preserve the distinction by recording both perspectives separately:
 
@@ -223,7 +223,7 @@ Retain both columns so hindsight does not replace the original basis for the dec
 - **Act promptly where safety or rights are at risk.** Use the relevant emergency, regulatory, or formal process when immediate harm or a legal deadline is involved. Do not wait for routine process improvements.
 - **Improve the underlying process.** After resolving the immediate issue, update the governance map, templates, thresholds, or service standards that allowed the problem to arise.
 
-Begin with clarification because some apparent process failures are misunderstandings. Move to stronger intervention when the problem is significant, urgent, or recurring.
+Where circumstances permit, begin with clarification because some apparent process failures are misunderstandings. Use a stronger intervention from the outset when the problem's significance, urgency, or recurrence requires it.
 
 ## For managers: define the decision process before comparing options
 
