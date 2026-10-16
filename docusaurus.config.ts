@@ -70,6 +70,7 @@ const config: Config = {
         },
         {
           href: repositoryUrl,
+          target: '_self',
           label: 'GitHub',
           position: 'right',
         },
